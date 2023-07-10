@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">ทรานส์</string>
+      
+  <string name="calendar">ปฏิทิน</string>
+      
+  <string name="statistics">สถิติ</string>
+      
+  <string name="settings">การตั้งค่า</string>
+      
+  <string name="budget">งบประมาณ</string>
+      
+  <string name="next">ต่อไป</string>
+      
+  <string name="previous">ก่อนหน้า</string>
+      
+  <string name="welcome">ยินดีต้อนรับสู่</string>
+      
+  <string name="continue_email">ดำเนินการต่อด้วยอีเมล</string>
+      
+  <string name="continue_google">ดำเนินการต่อด้วย Google</string>
+      
+  <string name="what_is_yr_email">ที่อยู่อีเมลของคุณคืออะไร?</string>
+      
+  <string name="continue_text">ดำเนินการต่อ</string>
+      
+  <string name="login_with_pw">เข้าสู่ระบบด้วยรหัสผ่านของคุณ</string>
+      
+  <string name="forget_pw">ลืมรหัสผ่าน?</string>
+      
+  <string name="login">เข้าสู่ระบบ</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">คุณกำลังใช้</string>
+      
+  <string name="to_login">เพื่อเข้าสู่ระบบ</string>
+      
+  <string name="create_yr_acc">สร้างบัญชีของคุณ</string>
+      
+  <string name="re_enter_pw_hint">ป้อนรหัสผ่านอีกครั้ง</string>
+      
+  <string name="signup">ลงชื่อ</string>
+      
+  <string name="forgot_pw">ลืมรหัสผ่านหรือไม่?</string>
+      
+  <string name="reset_pw_desc">หากต้องการรีเซ็ตรหัสผ่าน โปรดป้อนที่อยู่อีเมลของบัญชีของคุณ</string>
+      
+  <string name="reset_pw">รีเซ็ตรหัสผ่าน</string>
+      
+  <string name="back_to_login">กลับไปที่เข้าสู่ระบบ</string>
+      
+  <string name="sign_out">ออกจากระบบ</string>
+      
+  <string name="setting_name">บัญชี</string>
+      
+  <string name="profile">ประวัติโดยย่อ</string>
+      
+  <string name="account_name">ชื่อบัญชี</string>
+      
+  <string name="email">อีเมล</string>
+      
+  <string name="change_pw">เปลี่ยนรหัสผ่าน</string>
+      
+  <string name="delete_acc">ลบบัญชี</string>
+      
+  <string name="logout">ออกจากระบบ</string>
+      
+  <string name="edit">แก้ไข</string>
+      
+  <string name="enter_new_pw">ใส่รหัสผ่านใหม่</string>
+      
+  <string name="re_enter_pw">ป้อนรหัสผ่านอีกครั้ง</string>
+      
+  <string name="confirm">ยืนยัน</string>
+      
+  <string name="current_pw">รหัสผ่านปัจจุบัน</string>
+      
+  <string name="pw_desc">รหัสผ่านของคุณต้องมีความยาวอย่างน้อย 8 ตัวอักษร\nหลีกเลี่ยงรหัสผ่านหรือรูปแบบทั่วไป</string>
+      
+  <string name="done">เสร็จแล้ว</string>
+      
+  <string name="update_email">อัปเดตอีเมล</string>
+      
+  <string name="enter_email">กรอกอีเมล</string>
+      
+  <string name="re_enter_email">ใส่อีเมลอีกครั้ง</string>
+      
+  <string name="password">รหัสผ่าน</string>
+      
+  <string name="login_as">เข้าสู่ระบบเป็น</string>
+      
+  <string name="change_email">เปลี่ยนอีเมล</string>
+      
+  <string name="enter_yr_pw">ป้อนรหัสผ่านของคุณ</string>
+      
+  <string name="personal">ส่วนตัว</string>
+      
+  <string name="save">บันทึก</string>
+      
+  <string name="add_transaction">เพิ่มธุรกรรม</string>
+      
+  <string name="income">รายได้</string>
+      
+  <string name="expense">ค่าใช้จ่าย</string>
+      
+  <string name="category">หมวดหมู่</string>
+      
+  <string name="other">คนอื่น</string>
+      
+  <string name="enter_balance">ป้อนยอดคงเหลือ</string>
+      
+  <string name="yr_remark">คำพูดของคุณ</string>
+      
+  <string name="today">วันนี้</string>
+      
+  <string name="choose_category">เลือกหมวดหมู่</string>
+      
+  <string name="search_by_category">ค้นหาตามหมวดหมู่ ข้อสังเกต ฯลฯ</string>
+      
+  <string name="most_frequent">บ่อยที่สุด</string>
+      
+  <string name="all_categories">หมวดหมู่ทั้งหมด</string>
+      
+  <string name="due_date">วันครบกำหนด</string>
+      
+  <string name="yesterday">เมื่อวาน</string>
+      
+  <string name="tomorrow">พรุ่งนี้</string>
+      
+  <string name="enter_yr_username">ป้อนชื่อผู้ใช้ของคุณ</string>
+      
+  <string name="change">เปลี่ยน</string>
+      
+  <string name="update_password">อัปเดตรหัสผ่าน</string>
+      
+  <string name="search_category">ค้นหาหมวดหมู่</string>
+      
+  <string name="all_category">หมวดหมู่ทั้งหมด</string>
+      
+  <string name="recent">ล่าสุด</string>
+      
+  <string name="all_wallet">กระเป๋าเงินทั้งหมด</string>
+      
+  <string name="total">ทั้งหมด</string>
+      
+  <string name="monthly">รายเดือน</string>
+      
+  <string name="all_trans">ทรานส์ทั้งหมด</string>
+      
+  <string name="calculator_exceed_digit">คุณมีตัวเลขเกินจำนวนสูงสุด 15 หลัก</string>
+      
+  <string name="my_wallet">กระเป๋าเงินของฉัน</string>
+      
+  <string name="wallet">กระเป๋าสตางค์</string>
+      
+  <string name="inactive_wallet">กระเป๋าเงินที่ไม่ใช้งาน</string>
+      
+  <string name="account">บัญชี</string>
+      
+  <string name="change_language">เปลี่ยนภาษา</string>
+      
+  <string name="dark_theme">ธีมมืด</string>
+      
+  <string name="main_currency">สกุลเงินหลัก</string>
+      
+  <string name="search_currency">ค้นหาสกุลเงิน</string>
+      
+  <string name="review">ทบทวน</string>
+      
+  <string name="share">แบ่งปัน</string>
+      
+  <string name="privacy">นโยบายความเป็นส่วนตัว</string>
+      
+  <string name="about">เกี่ยวกับ</string>
+      
+  <string name="swap">แลกเปลี่ยน</string>
+      
+  <string name="wallet_name">ชื่อกระเป๋าสตางค์</string>
+      
+  <string name="initial_balance">ยอดคงเหลือเริ่มต้น</string>
+      
+  <string name="shared_with">ร่วมกับ</string>
+      
+  <string name="set_as_default">ตั้งเป็นค่าเริ่มต้น</string>
+      
+  <string name="one_user">1 ผู้ใช้</string>
+      
+  <string name="coming_soon">เร็วๆ นี้…</string>
+      
+  <string name="Coming_Soon">เร็วๆ นี้!</string>
+      
+  <string name="default_wallet">ค่าเริ่มต้น</string>
+      
+  <string name="add_expense">เพิ่มค่าใช้จ่าย</string>
+      
+  <string name="adjust_balance">ปรับสมดุล</string>
+      
+  <string name="sharing">การแบ่งปัน</string>
+      
+  <string name="delete">ลบ</string>
+      
+  <string name="wallet_and_others">กระเป๋าสตางค์และอื่นๆ</string>
+      
+  <string name="group_and_people">กลุ่มและผู้คน</string>
+      
+  <string name="business">ธุรกิจ</string>
+      
+  <string name="tracking_your_expense">ติดตามการใช้จ่ายของคุณร่วมกับคนที่คุณรัก</string>
+      
+  <string name="invite_user">เชิญผู้ใช้</string>
+      
+  <string name="invite">เชิญ</string>
+      
+  <string name="search_user">ค้นหาผู้ใช้</string>
+      
+  <string name="wallet_color">สีกระเป๋าสตางค์</string>
+      
+  <string name="delete_wallet">ลบกระเป๋าเงิน</string>
+      
+  <string name="your_transaction_data">ข้อมูลการทำธุรกรรมของคุณในกระเป๋าเงินนี้จะถูกลบด้วย คุณแน่ใจหรือไม่ว่าต้องการลบ</string>
+      
+  <string name="do_u_want_to_delete_trans">คุณต้องการลบธุรกรรมนี้หรือไม่?</string>
+      
+  <string name="delete_category">ลบหมวดหมู่</string>
+      
+  <string name="do_u_want_to_delete_category">คุณต้องการลบหมวดหมู่นี้หรือไม่?</string>
+      
+  <string name="reset_category">รีเซ็ตหมวดหมู่</string>
+      
+  <string name="reset">รีเซ็ต</string>
+      
+  <string name="do_u_want_to_reset_category">คุณต้องการรีเซ็ตหมวดหมู่หรือไม่?</string>
+      
+  <string name="confirm_logout">ยืนยันการออกจากระบบ</string>
+      
+  <string name="are_u_sure_you_want_to_logout">คุณแน่ใจว่าคุณต้องการที่จะออกจากระบบ?</string>
+      
+  <string name="delete_account">ลบบัญชี</string>
+      
+  <string name="type_delete_to_cf">พิมพ์ลบเพื่อยืนยัน</string>
+      
+  <string name="to_guarantee">เพื่อรับประกันความปลอดภัย กรุณาเข้าสู่ระบบอีกครั้งก่อนดำเนินการขั้นตอนต่อไป</string>
+      
+  <string name="balance">สมดุล</string>
+      
+  <string name="upgrade_to_unlock">อัปเกรดเพื่อปลดล็อกฟีเจอร์พรีเมียมทั้งหมด</string>
+      
+  <string name="upgrade_now">อัพเกรดเดี๋ยวนี้</string>
+      
+  <string name="month">เดือน</string>
+      
+  <string name="date">วันที่</string>
+      
+  <string name="add_new_category">เพิ่มหมวดหมู่ใหม่</string>
+      
+  <string name="new_category">หมวดหมู่ใหม่</string>
+      
+  <string name="edit_category">แก้ไขหมวดหมู่</string>
+      
+  <string name="choose_a_symbol">เลือกสัญลักษณ์</string>
+      
+  <string name="choose_a_wallet">เลือกกระเป๋าสตางค์</string>
+      
+  <string name="manage_wallet">จัดการกระเป๋าเงิน</string>
+      
+  <string name="all_transaction">ธุรกรรมทั้งหมด</string>
+      
+  <string name="monthly_duration"> /เดือน</string>
+      
+  <string name="yearly_duration"> /ปี</string>
+      
+  <string name="with_seven_days_of_free_trial">พร้อมทดลองใช้ฟรี 7 วัน</string>
+      
+  <string name="save_twenty_five_percentage">ประหยัด 25%</string>
+      
+  <string name="continue_sub">สมัครสมาชิกต่อ</string>
+      
+  <string name="remove_all_ads">ลบโฆษณาทั้งหมด</string>
+      
+  <string name="no_more_interruption">ไม่มีโฆษณารบกวนอีกต่อไป</string>
+      
+  <string name="accept_policy_description">บัญชี Google ของคุณจะถูกเรียกเก็บเงินเมื่อคุณยืนยันการซื้อ คุณสามารถยกเลิกการสมัครได้ตลอดเวลาโดยปิดการต่ออายุอัตโนมัติในบัญชี Google ของคุณอย่างน้อย 24 ชั่วโมงก่อนสิ้นสุดระยะเวลาปัจจุบัน มิฉะนั้นการสมัครของคุณจะต่ออายุโดยอัตโนมัติ การลบแอปไม่ได้เป็นการยกเลิกการสมัครโดยอัตโนมัติ การซื้อ Money Tracker Pro Version แสดงว่าคุณยอมรับนโยบายความเป็นส่วนตัวและข้อกำหนดการใช้งานของเรา</string>
+      
+  <string name="restore">คืนค่า</string>
+      
+  <string name="search">ค้นหา</string>
+      
+  <string name="amount_category_or_remark">จำนวน ประเภท หรือหมายเหตุ..</string>
+      
+  <string name="transaction_is_added">เพิ่มธุรกรรมแล้ว</string>
+      
+  <string name="transaction_is_saved">บันทึกธุรกรรมแล้ว</string>
+      
+  <string name="transaction_is_deleted">ธุรกรรมถูกลบ</string>
+      
+  <string name="transaction_is_not_saved">ไม่ได้บันทึกธุรกรรม</string>
+      
+  <string name="wallet_is_not_created">ไม่ได้สร้างกระเป๋าเงิน</string>
+      
+  <string name="transaction_is_not_added">ไม่มีการเพิ่มธุรกรรม</string>
+      
+  <string name="is_added">จะเพิ่ม</string>
+      
+  <string name="wallet_is_added">เพิ่มกระเป๋าเงินแล้ว</string>
+      
+  <string name="wallet_is_delete">Wallet ถูกลบ</string>
+      
+  <string name="no_data_available">ไม่มีข้อมูลที่สามารถใช้ได้</string>
+      
+  <string name="no_transaction">ไม่มีการทำธุรกรรม</string>
+      
+  <string name="tap_to_add">แตะ + เพื่อเพิ่มธุรกรรมใหม่</string>
+      
+  <string name="week_start_at">สัปดาห์เริ่มต้นที่</string>
+      
+  <string name="week_start">สัปดาห์เริ่มต้น</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">แสดงการสนับสนุนของคุณ</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">หากคุณสนุกกับการใช้แอปนี้ คุณช่วยสละเวลาสักครู่เพื่อให้คะแนนแอปนี้ได้ไหม ความคิดเห็นของคุณมีความสำคัญมากสำหรับเรา</string>
+      
+  <string name="rate_us">ให้คะแนนเรา</string>
+      
+  <string name="don_t_like">ไม่ชอบ</string>
+      
+  <string name="add_widget">เพิ่มวิดเจ็ต</string>
+      
+  <string name="cancel">ยกเลิก</string>
+      
+  <string name="type_delete_to_confirm">พิมพ์ “ลบ” เพื่อยืนยัน</string>
+      
+  <string name="delete_transaction">ลบธุรกรรม</string>
+      
+  <string name="do_you_want_to_delete_transaction">คุณต้องการลบธุรกรรมหรือไม่?</string>
+      
+  <string name="category_already_exist">หมวดหมู่นี้มีอยู่แล้ว!</string>
+      
+  <string name="is_updated">มีการปรับปรุง</string>
+      
+  <string name="is_deleted">ถูกลบ</string>
+      
+  <string name="category_has_been_reset_successfully">รีเซ็ตหมวดหมู่สำเร็จแล้ว!</string>
+      
+  <string name="logged_out_successfully">คุณออกจากระบบเรียบร้อยแล้ว</string>
+      
+  <string name="reset_link_has_been_sent">ลิงก์รีเซ็ตถูกส่งไปยังอีเมลของคุณแล้ว</string>
+      
+  <string name="failed_to_send_reset_link">ส่งลิงก์รีเซ็ตไม่สำเร็จ</string>
+      
+  <string name="invalid_email">ที่อยู่อีเมลที่ไม่ถูกต้อง!</string>
+      
+  <string name="invalid_password">รหัสผ่านไม่ถูกต้อง!</string>
+      
+  <string name="invalid_inputs">อินพุตไม่ถูกต้อง!</string>
+      
+  <string name="something_went_wrong">บางอย่างผิดพลาด!</string>
+      
+  <string name="password_is_not_matched">รหัสผ่านไม่ตรงกัน!</string>
+      
+  <string name="invalid_password_length">รหัสผ่านต้องมีความยาวเท่ากับหรือมากกว่า 8 ตัวอักษร</string>
+      
+  <string name="failed_to_fetch_transaction">ดึงธุรกรรมไม่สำเร็จ!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">ไม่สามารถลบกระเป๋าเงินเริ่มต้นได้!</string>
+      
+  <string name="invalid_trans_amount">จำนวนการทำธุรกรรมไม่ถูกต้อง!</string>
+      
+  <string name="main_currency_is_updated_successfully">อัปเดตสกุลเงินหลักสำเร็จแล้ว</string>
+      
+  <string name="password_is_updated_successfully">อัปเดตรหัสผ่านสำเร็จแล้ว</string>
+      
+  <string name="failed_to_update_password">อัปเดตรหัสผ่านไม่สำเร็จ!</string>
+      
+  <string name="email_has_been_changed_successfully">เปลี่ยนอีเมลเรียบร้อยแล้ว</string>
+      
+  <string name="failed_to_change_email">เปลี่ยนอีเมลไม่สำเร็จ!</string>
+      
+  <string name="subscription_has_been_restored_successfully">คืนค่าการสมัครรับข้อมูลเรียบร้อยแล้ว</string>
+      
+  <string name="failed_to_restore_the_subscription">กู้คืนการสมัครรับข้อมูลไม่สำเร็จ!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">ปลดล็อกฟีเจอร์พรีเมียมสำเร็จแล้ว</string>
+      
+  <string name="incorrect_email_or_password">อีเมลหรือรหัสผ่านไม่ถูกต้อง</string>
+      
+  <string name="failed_to_upload_profile">ไม่สามารถอัปโหลดโปรไฟล์ไปยังเซิร์ฟเวอร์</string>
+      
+  <string name="is_created">ถูกสร้างขึ้น</string>
+      
+  <string name="create_new">สร้างใหม่</string>
+      
+  <string name="is_saved">ถูกบันทึกไว้</string>
+
+  <!--    Category-->
+  <string name="food_and_beverage">อาหารและเครื่องดื่ม เครื่องดื่ม</string>
+  <string name="clothing">เสื้อผ้า</string>
+  <string name="shopping">ซื้อของ</string>
+  <string name="bill_and_utils">บิล &amp; โปรแกรมอรรถประโยชน์</string>
+  <string name="transportation">การขนส่ง</string>
+  <string name="education">การศึกษา</string>
+  <string name="entertainment">บันเทิง</string>
+  <string name="housing">ที่อยู่อาศัย</string>
+  <string name="car_and_automotive">รถยนต์ / ยานยนต์</string>
+  <string name="electronics">อิเล็กทรอนิกส์</string>
+  <string name="wine">ไวน์</string>
+  <string name="health">สุขภาพ</string>
+  <string name="gift">ของขวัญ</string>
+  <string name="office">สำนักงาน</string>
+  <string name="furniture">เฟอร์นิเจอร์</string>
+  <string name="social">โซเชียล</string>
+  <string name="fruit">ผลไม้</string>
+  <string name="vegetables">ผัก</string>
+  <string name="travel">ท่องเที่ยว</string>
+  <string name="groceries">ร้านขายของชำ</string>
+  <string name="beauty">ความงาม</string>
+  <string name="tax">ภาษี</string>
+  <string name="rent">เช่า</string>
+  <string name="insurance">ประกันภัย</string>
+  <string name="telephone">โทรศัพท์</string>
+  <string name="pet">สัตว์เลี้ยง</string>
+  <string name="sport">กีฬา</string>
+  <string name="snack_and_fastfood">อาหารว่าง / ฟาสต์ฟู้ด</string>
+  <string name="others">อื่นๆ</string>
+  <string name="salary">เงินเดือน</string>
+  <string name="freelancing">อาชีพอิสระ</string>
+  <string name="bonus">โบนัส</string>
+  <string name="awards">รางวัล</string>
+  <string name="rental">เช่า</string>
+  <string name="grants">ทุน</string>
+  <string name="sale">ลดราคา</string>
+  <string name="refunds">ขอคืนเงิน</string>
+  <string name="coupons">คูปอง</string>
+  <string name="lottery">ลอตเตอรี่</string>
+  <string name="dividends">เงินปันผล</string>
+  
+</resources>

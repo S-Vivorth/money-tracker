@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/dropdown_menu"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <RelativeLayout
+            android:layout_width="126dp"
+            android:layout_height="36dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/add_expense"
+                style="@style/primaryText"
+                android:layout_marginStart="12dp"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/blackFourAlpha"
+            />
+        <RelativeLayout
+            android:layout_width="126dp"
+            android:layout_height="36dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/adjust_balance"
+                style="@style/primaryText"
+                android:layout_marginStart="12dp"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/blackFourAlpha"
+
+            />
+        <RelativeLayout
+            android:layout_width="126dp"
+            android:layout_height="36dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sharing"
+                style="@style/primaryText"
+                android:layout_marginStart="12dp"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/blackFourAlpha"
+            />
+        <RelativeLayout
+            android:layout_width="126dp"
+            android:layout_height="36dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/set_as_default"
+                style="@style/primaryText"
+                android:layout_marginStart="12dp"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/blackFourAlpha"
+            />
+        <RelativeLayout
+            android:layout_width="126dp"
+            android:layout_height="36dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/delete"
+                style="@style/primaryText"
+                android:layout_marginStart="12dp"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</RelativeLayout>

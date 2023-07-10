@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".views.wallet.AddInitialBalanceFrag"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="?attr/quaternaryBgColor">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/wallet_app_bar"
+            android:id="@+id/appBar"
+            />
+        <EditText
+            android:digits="0123456789.,"
+            android:maxLength="15"
+            android:id="@+id/balanceEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="46dp"
+            android:layout_marginEnd="46dp"
+            android:layout_marginTop="36dp"
+            android:layout_marginBottom="29dp"
+            android:hint="@string/enter_balance"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="?attr/titleColor"
+            android:inputType="numberDecimal"
+            android:background="@drawable/plain_edittext"
+            android:textColorHint="?attr/editTextHintTextColor"
+            />
+        <androidx.cardview.widget.CardView
+            android:id="@+id/deleteWalletBtn"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginTop="46dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginEnd="36dp"
+            app:cardElevation="0dp"
+            app:cardCornerRadius="100dp"
+            >
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/Button"
+                android:text="@string/save"
+                android:background="@drawable/rounded_btn_states"
+                android:id="@+id/saveBtn"
+                android:fontFamily="@font/inter_500"
+                app:fontFamily="@font/inter_500"
+                android:lineSpacingExtra="0.025dp"
+                android:foreground="?attr/selectableItemBackgroundBorderless"
+                android:textColor="@color/lightPrimaryTextColor"
+                />
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</RelativeLayout>

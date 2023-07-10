@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">Trans</string>
+      
+  <string name="calendar">Kalender</string>
+      
+  <string name="statistics">Statistikk</string>
+      
+  <string name="settings">Innstillinger</string>
+      
+  <string name="budget">Budsjett</string>
+      
+  <string name="next">Neste</string>
+      
+  <string name="previous">Tidligere</string>
+      
+  <string name="welcome">Velkommen til</string>
+      
+  <string name="continue_email">Fortsett med e-post</string>
+      
+  <string name="continue_google">Fortsett med Google</string>
+      
+  <string name="what_is_yr_email">Hva er din e-postadresse?</string>
+      
+  <string name="continue_text">Fortsette</string>
+      
+  <string name="login_with_pw">Logg inn med passordet ditt</string>
+      
+  <string name="forget_pw">Glem passord?</string>
+      
+  <string name="login">Logg Inn</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">Du bruker</string>
+      
+  <string name="to_login">å logge inn.</string>
+      
+  <string name="create_yr_acc">lag din konto</string>
+      
+  <string name="re_enter_pw_hint">Skriv inn passord på nytt</string>
+      
+  <string name="signup">Melde deg på</string>
+      
+  <string name="forgot_pw">Glemt passordet?</string>
+      
+  <string name="reset_pw_desc">For å tilbakestille passordet, skriv inn e-postadressen til kontoen din.</string>
+      
+  <string name="reset_pw">Tilbakestille passord</string>
+      
+  <string name="back_to_login">Tilbake til innlogging</string>
+      
+  <string name="sign_out">Logg ut</string>
+      
+  <string name="setting_name">Regnskap</string>
+      
+  <string name="profile">Profil</string>
+      
+  <string name="account_name">BRUKERNAVN</string>
+      
+  <string name="email">E-POST</string>
+      
+  <string name="change_pw">Bytt passord</string>
+      
+  <string name="delete_acc">Slett konto</string>
+      
+  <string name="logout">Logg ut</string>
+      
+  <string name="edit">Redigere</string>
+      
+  <string name="enter_new_pw">Skriv inn nytt passord</string>
+      
+  <string name="re_enter_pw">Skriv inn passord på nytt</string>
+      
+  <string name="confirm">Bekrefte</string>
+      
+  <string name="current_pw">Nåværende passord</string>
+      
+  <string name="pw_desc">Passordet ditt må være minst 8 tegn langt.\nUnngå vanlig passord eller mønster.</string>
+      
+  <string name="done">Ferdig</string>
+      
+  <string name="update_email">Oppdater e-post</string>
+      
+  <string name="enter_email">Skriv inn e-post</string>
+      
+  <string name="re_enter_email">Skriv inn e-post på nytt</string>
+      
+  <string name="password">Passord</string>
+      
+  <string name="login_as">logget inn som</string>
+      
+  <string name="change_email">Endre e-post</string>
+      
+  <string name="enter_yr_pw">Skriv inn passordet ditt</string>
+      
+  <string name="personal">Personlig</string>
+      
+  <string name="save">Lagre</string>
+      
+  <string name="add_transaction">Legg til transaksjon</string>
+      
+  <string name="income">Inntekt</string>
+      
+  <string name="expense">Kostnader</string>
+      
+  <string name="category">Kategori</string>
+      
+  <string name="other">Andre</string>
+      
+  <string name="enter_balance">Angi saldo</string>
+      
+  <string name="yr_remark">Din kommentar</string>
+      
+  <string name="today">I dag</string>
+      
+  <string name="choose_category">Velg en kategori</string>
+      
+  <string name="search_by_category">Søk på kategori, anmerkning osv</string>
+      
+  <string name="most_frequent">Hyppigst</string>
+      
+  <string name="all_categories">Alle Kategorier</string>
+      
+  <string name="due_date">Tidsfrist</string>
+      
+  <string name="yesterday">I går</string>
+      
+  <string name="tomorrow">I morgen</string>
+      
+  <string name="enter_yr_username">Skriv inn brukernavnet ditt</string>
+      
+  <string name="change">Endring</string>
+      
+  <string name="update_password">Oppdater passord</string>
+      
+  <string name="search_category">Søk i en kategori</string>
+      
+  <string name="all_category">Alle Kategorier</string>
+      
+  <string name="recent">Nylig</string>
+      
+  <string name="all_wallet">All Wallet</string>
+      
+  <string name="total">Total</string>
+      
+  <string name="monthly">Månedlig</string>
+      
+  <string name="all_trans">Alle trans</string>
+      
+  <string name="calculator_exceed_digit">Du har overskredet maksimalt 15 sifre</string>
+      
+  <string name="my_wallet">Min lommebok</string>
+      
+  <string name="wallet">Lommebok</string>
+      
+  <string name="inactive_wallet">Inaktiv lommebok</string>
+      
+  <string name="account">Regnskap</string>
+      
+  <string name="change_language">Skifte språk</string>
+      
+  <string name="dark_theme">Mørkt tema</string>
+      
+  <string name="main_currency">Hovedvaluta</string>
+      
+  <string name="search_currency">Søk etter valuta</string>
+      
+  <string name="review">Anmeldelse</string>
+      
+  <string name="share">Dele</string>
+      
+  <string name="privacy">Personvernerklæring</string>
+      
+  <string name="about">Om</string>
+      
+  <string name="swap">Bytte</string>
+      
+  <string name="wallet_name">Lommeboknavn</string>
+      
+  <string name="initial_balance">Innledende balanse</string>
+      
+  <string name="shared_with">Delt med</string>
+      
+  <string name="set_as_default">Satt som standard</string>
+      
+  <string name="one_user">1 bruker</string>
+      
+  <string name="coming_soon">Kommer snart…</string>
+      
+  <string name="Coming_Soon">Kommer snart!</string>
+      
+  <string name="default_wallet">Misligholde</string>
+      
+  <string name="add_expense">Legg til kostnad</string>
+      
+  <string name="adjust_balance">Juster balanse</string>
+      
+  <string name="sharing">Deling</string>
+      
+  <string name="delete">Slett</string>
+      
+  <string name="wallet_and_others">Lommebok og annet</string>
+      
+  <string name="group_and_people">Gruppe og mennesker</string>
+      
+  <string name="business">Virksomhet</string>
+      
+  <string name="tracking_your_expense">Spor utgiftene dine sammen med dine kjære mennesker</string>
+      
+  <string name="invite_user">Inviter bruker</string>
+      
+  <string name="invite">Invitere</string>
+      
+  <string name="search_user">Søk bruker</string>
+      
+  <string name="wallet_color">Lommebok farge</string>
+      
+  <string name="delete_wallet">Slett Wallet</string>
+      
+  <string name="your_transaction_data">Transaksjonsdataene dine i denne lommeboken vil også slettes. Er du sikker på at du vil slette den?</string>
+      
+  <string name="do_u_want_to_delete_trans">Vil du slette denne transaksjonen?</string>
+      
+  <string name="delete_category">Slett kategori</string>
+      
+  <string name="do_u_want_to_delete_category">Vil du slette denne kategorien?</string>
+      
+  <string name="reset_category">Tilbakestill kategori</string>
+      
+  <string name="reset">Nullstille</string>
+      
+  <string name="do_u_want_to_reset_category">Vil du tilbakestille kategorien?</string>
+      
+  <string name="confirm_logout">Bekreft Logg ut</string>
+      
+  <string name="are_u_sure_you_want_to_logout">Er du sikker på at du vil logge ut?</string>
+      
+  <string name="delete_account">Slett konto</string>
+      
+  <string name="type_delete_to_cf">Skriv slett for å bekrefte</string>
+      
+  <string name="to_guarantee">For å garantere sikkerhet, vennligst logg inn på nytt før du fortsetter til neste trinn</string>
+      
+  <string name="balance">Balansere</string>
+      
+  <string name="upgrade_to_unlock">Oppgrader for å låse opp alle Premium-funksjoner</string>
+      
+  <string name="upgrade_now">Oppgrader nå</string>
+      
+  <string name="month">Måned</string>
+      
+  <string name="date">Dato</string>
+      
+  <string name="add_new_category">Legg til ny kategori</string>
+      
+  <string name="new_category">Ny kategori</string>
+      
+  <string name="edit_category">Rediger kategori</string>
+      
+  <string name="choose_a_symbol">Velg et symbol</string>
+      
+  <string name="choose_a_wallet">Velg en lommebok</string>
+      
+  <string name="manage_wallet">Administrer Wallet</string>
+      
+  <string name="all_transaction">Alle transaksjoner</string>
+      
+  <string name="monthly_duration"> /Måned</string>
+      
+  <string name="yearly_duration"> /År</string>
+      
+  <string name="with_seven_days_of_free_trial">Med 7 dagers gratis prøveperiode</string>
+      
+  <string name="save_twenty_five_percentage">Spar 25%</string>
+      
+  <string name="continue_sub">Fortsett abonnement</string>
+      
+  <string name="remove_all_ads">Fjern alle AD-er</string>
+      
+  <string name="no_more_interruption">Ikke flere avbrudd av reklame</string>
+      
+  <string name="accept_policy_description">Google-kontoen din belastes når du bekrefter kjøpet. Du kan kansellere abonnementet ditt når som helst ved å slå av automatisk fornyelse i Google-kontoen din minst 24 timer før slutten av gjeldende periode. Ellers fornyes abonnementet ditt automatisk. Hvis du fjerner appen, kanselleres ikke abonnementet automatisk. Ved å kjøpe Money Tracker Pro-versjon godtar du vår personvernerklæring og vilkår for bruk.</string>
+      
+  <string name="restore">Restaurere</string>
+      
+  <string name="search">Søk</string>
+      
+  <string name="amount_category_or_remark">Beløp, kategori eller merknad..</string>
+      
+  <string name="transaction_is_added">Transaksjon er lagt til</string>
+      
+  <string name="transaction_is_saved">Transaksjonen er lagret</string>
+      
+  <string name="transaction_is_deleted">Transaksjonen er slettet</string>
+      
+  <string name="transaction_is_not_saved">Transaksjonen er ikke lagret</string>
+      
+  <string name="wallet_is_not_created">Lommebok er ikke opprettet</string>
+      
+  <string name="transaction_is_not_added">Transaksjonen er ikke lagt til</string>
+      
+  <string name="is_added">er lagt til</string>
+      
+  <string name="wallet_is_added">Lommebok er lagt til</string>
+      
+  <string name="wallet_is_delete">Lommeboken er slettet</string>
+      
+  <string name="no_data_available">Ingen data tilgjengelig</string>
+      
+  <string name="no_transaction">Ingen transaksjon</string>
+      
+  <string name="tap_to_add">Trykk på + for å legge til ny transaksjon.</string>
+      
+  <string name="week_start_at">Ukestart kl</string>
+      
+  <string name="week_start">Ukestart</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">Vis din støtte</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">Hvis du liker å bruke denne appen, kan du ta deg tid til å vurdere den? Din tilbakemelding er veldig viktig for oss.</string>
+      
+  <string name="rate_us">Rangere oss</string>
+      
+  <string name="don_t_like">Liker ikke</string>
+      
+  <string name="add_widget">Legg til widget</string>
+      
+  <string name="cancel">Avbryt</string>
+      
+  <string name="type_delete_to_confirm">Skriv \"slett\" for å bekrefte</string>
+      
+  <string name="delete_transaction">Slett transaksjon</string>
+      
+  <string name="do_you_want_to_delete_transaction">Vil du slette transaksjonen?</string>
+      
+  <string name="category_already_exist">Denne kategorien finnes allerede!</string>
+      
+  <string name="is_updated">er oppdatert.</string>
+      
+  <string name="is_deleted">er slettet.</string>
+      
+  <string name="category_has_been_reset_successfully">Kategori er tilbakestilt!</string>
+      
+  <string name="logged_out_successfully">Du har logget ut</string>
+      
+  <string name="reset_link_has_been_sent">Tilbakestill-lenke er sendt til e-posten din.</string>
+      
+  <string name="failed_to_send_reset_link">Kunne ikke sende tilbakestillingslink.</string>
+      
+  <string name="invalid_email">Ugyldig epostadresse!</string>
+      
+  <string name="invalid_password">Ugyldig passord!</string>
+      
+  <string name="invalid_inputs">Ugyldige inndata!</string>
+      
+  <string name="something_went_wrong">Noe gikk galt!</string>
+      
+  <string name="password_is_not_matched">Passordet samsvarer ikke!</string>
+      
+  <string name="invalid_password_length">Passordet må være lik eller større enn 8 tegn.</string>
+      
+  <string name="failed_to_fetch_transaction">Kunne ikke hente transaksjonen!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">Standard lommebok kan ikke slettes!</string>
+      
+  <string name="invalid_trans_amount">Ugyldig transaksjonsbeløp!</string>
+      
+  <string name="main_currency_is_updated_successfully">Hovedvalutaen er oppdatert.</string>
+      
+  <string name="password_is_updated_successfully">Passordet er oppdatert.</string>
+      
+  <string name="failed_to_update_password">Kunne ikke oppdatere passordet!</string>
+      
+  <string name="email_has_been_changed_successfully">E-post er endret.</string>
+      
+  <string name="failed_to_change_email">Kunne ikke endre e-post!</string>
+      
+  <string name="subscription_has_been_restored_successfully">Abonnementet har blitt gjenopprettet.</string>
+      
+  <string name="failed_to_restore_the_subscription">Kunne ikke gjenopprette abonnementet!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">Premium-funksjonen har blitt låst opp.</string>
+      
+  <string name="incorrect_email_or_password">Feil email eller passord</string>
+      
+  <string name="failed_to_upload_profile">Kunne ikke laste opp profilen til serveren.</string>
+      
+  <string name="is_created">er skapt.</string>
+      
+  <string name="create_new">Lag ny</string>
+      
+  <string name="is_saved">er lagret.</string>
+
+  <!--    Category-->
+  <string name="food_and_beverage">Mat &amp; Drikke</string>
+  <string name="clothing">Klær</string>
+  <string name="shopping">Shopping</string>
+  <string name="bill_and_utils">Bill &amp; Verktøy</string>
+  <string name="transportation">Transport</string>
+  <string name="education">Utdanning</string>
+  <string name="entertainment">Underholdning</string>
+  <string name="housing">Bolig</string>
+  <string name="car_and_automotive">Bil / bil</string>
+  <string name="electronics">Elektronikk</string>
+  <string name="wine">Vin</string>
+  <string name="health">Helse</string>
+  <string name="gift">Gave</string>
+  <string name="office">Kontor</string>
+  <string name="furniture">Møbler</string>
+  <string name="social">Sosial</string>
+  <string name="fruit">Frukt</string>
+  <string name="vegetables">Grønnsaker</string>
+  <string name="travel">Reise</string>
+  <string name="groceries">Dagligvarer</string>
+  <string name="beauty">skjønnhet</string>
+  <string name="tax">skatt</string>
+  <string name="rent">Lei</string>
+  <string name="insurance">Forsikring</string>
+  <string name="telephone">Telefon</string>
+  <string name="pet">Kjæledyr</string>
+  <string name="sport">Sport</string>
+  <string name="snack_and_fastfood">Snack / hurtigmat</string>
+  <string name="others">Andre</string>
+  <string name="salary">Lønn</string>
+  <string name="freelancing">Frelancing</string>
+  <string name="bonus">Bonus</string>
+  <string name="awards">Utmerkelser</string>
+  <string name="rental">Leie</string>
+  <string name="grants">Grants</string>
+  <string name="sale">Salg</string>
+  <string name="refunds">Refusjoner</string>
+  <string name="coupons">Kuponger</string>
+  <string name="lottery">Lotteri</string>
+  <string name="dividends">Utbytte</string>
+  
+</resources>

@@ -1,0 +1,111 @@
+<resources>
+
+
+    <string name="app_name">MT Dev</string>
+    <string name="money_tracker">Money Tracker</string>
+
+
+    <!--    ADMOB-->
+    <string name="admob_app_id">ca-app-pub-2832875852994969~4631372358</string>
+    <string name="banner_id">ca-app-pub-2832875852994969/1737599794</string>
+    <string name="interstitial_id">ca-app-pub-2832875852994969/5760621194</string>
+
+
+    <string name="c">C</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="dot">•</string>
+
+    <!-- Month remove later -->
+    <string-array name="month_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="sun">Sun</string>
+
+    <string name="jan">JAN</string>
+    <string name="feb">FEB</string>
+    <string name="mar">MAR</string>
+    <string name="apr">APR</string>
+    <string name="may">MAY</string>
+    <string name="jun">JUN</string>
+    <string name="jul">JUL</string>
+    <string name="aug">AUG</string>
+    <string name="sep">SEP</string>
+    <string name="oct">OCT</string>
+    <string name="nov">NOV</string>
+    <string name="dec">DEC</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may_month">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="feb_2022">February 2022 </string>
+    <string name="twenty_april_2022">20 April 2022</string>
+    <string name="_2022">2022</string>
+
+    <string name="email_hint">example@email.com</string>
+
+    <string name="hundred_dollar">$100</string>
+    <string name="zero_dollar">$0</string>
+    <string name="convert_khr">KHR 402,000</string>
+
+    <string name="pro">PRO</string>
+    <string name="blank">%s</string>
+    <string name="positive">+&#160;</string>
+    <string name="negative">-&#160;</string>
+    <string name="usd">USD</string>
+
+    <string name="twenty_april">20 April</string>
+    <string name="two_thousand_twenty_two">2022</string>
+    <string name="twenty_thousand_dollars">$ 20,000</string>
+
+    <string name="dollar_sign">$</string>
+    <string name="percentage_sign">%</string>
+
+    <string name="usd_us_dollar">USD - US Dollar</string>
+
+    <string name="yearly_price">$26.99</string>
+    <string name="monthly_price">$2.99</string>
+
+    <string name="custom_toast">This is a custom Toast</string>
+    <string name="personal_usd">Personal (USD)</string>
+    <string name="matching_wallets">Matching Wallets</string>
+    <string name="text"><![CDATA[<Text>]]></string>
+    <string name="_1">#1</string>
+    <string name="user_name">User name</string>
+    <string name="example_email">Example@gmail.com</string>
+</resources>

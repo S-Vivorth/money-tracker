@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="0dp"
+    android:minHeight="70dp"
+    app:cardElevation="0dp"
+    app:cardBackgroundColor="?attr/quaternaryBgColor"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/cellLayout">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="?attr/searchBgColor">
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_marginStart="12dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginVertical="12dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/inter_500"
+                    android:text="@string/today"
+                    android:id="@+id/transDate"
+                    android:textSize="12sp"
+                    android:lineHeight="16dp"
+                    android:textStyle="bold|normal"
+                    android:padding="3dp"
+                    android:textColor="?attr/calendarHeaderTextColor"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/day"
+                    android:textSize="12sp"
+                    android:lineHeight="16dp"
+                    android:textStyle="bold|normal"
+                    android:layout_marginStart="5dp"
+                    android:textColor="?attr/calendarHeaderTextColor"
+                    android:fontFamily="@font/inter_500"
+                    app:layout_constraintStart_toEndOf="@+id/transDate"
+                    app:layout_constraintTop_toTopOf="@+id/transDate"
+                    app:layout_constraintBottom_toBottomOf="@+id/transDate"
+                    />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/expandable_layout"
+
+            >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/nestedRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

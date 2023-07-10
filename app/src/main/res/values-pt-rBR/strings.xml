@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">Trans</string>
+      
+  <string name="calendar">Calendário</string>
+      
+  <string name="statistics">Estatísticas</string>
+      
+  <string name="settings">Configurações</string>
+      
+  <string name="budget">Orçamento</string>
+      
+  <string name="next">Próximo</string>
+      
+  <string name="previous">Anterior</string>
+      
+  <string name="welcome">Bem-vindo a</string>
+      
+  <string name="continue_email">Continuar com e-mail</string>
+      
+  <string name="continue_google">Continuar com o Google</string>
+      
+  <string name="what_is_yr_email">Qual é o seu e-mail?</string>
+      
+  <string name="continue_text">Continuar</string>
+      
+  <string name="login_with_pw">Entre com sua senha</string>
+      
+  <string name="forget_pw">Esqueceu a senha?</string>
+      
+  <string name="login">Conecte-se</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">Você está usando</string>
+      
+  <string name="to_login">para entrar.</string>
+      
+  <string name="create_yr_acc">Crie sua conta</string>
+      
+  <string name="re_enter_pw_hint">Digite novamente a senha</string>
+      
+  <string name="signup">Inscreva-se</string>
+      
+  <string name="forgot_pw">Esqueceu sua senha?</string>
+      
+  <string name="reset_pw_desc">Para redefinir sua senha, digite o endereço de e-mail da sua conta.</string>
+      
+  <string name="reset_pw">Redefinir senha</string>
+      
+  <string name="back_to_login">Volte ao login</string>
+      
+  <string name="sign_out">Sair</string>
+      
+  <string name="setting_name">Conta</string>
+      
+  <string name="profile">Perfil</string>
+      
+  <string name="account_name">NOME DA CONTA</string>
+      
+  <string name="email">E-MAIL</string>
+      
+  <string name="change_pw">Alterar senha</string>
+      
+  <string name="delete_acc">Excluir conta </string>
+      
+  <string name="logout">Sair</string>
+      
+  <string name="edit">Editar</string>
+      
+  <string name="enter_new_pw">Insira a nova senha</string>
+      
+  <string name="re_enter_pw">Digite novamente a senha</string>
+      
+  <string name="confirm">Confirmar</string>
+      
+  <string name="current_pw">Senha atual</string>
+      
+  <string name="pw_desc">Sua senha deve ter pelo menos 8 caracteres.\nEvite senhas ou padrões comuns.</string>
+      
+  <string name="done">Concluído</string>
+      
+  <string name="update_email">Atualizar e-mail</string>
+      
+  <string name="enter_email">Digite o e-mail</string>
+      
+  <string name="re_enter_email">Digite novamente o e-mail</string>
+      
+  <string name="password">Senha</string>
+      
+  <string name="login_as">Conectado como</string>
+      
+  <string name="change_email">Alterar e-mail</string>
+      
+  <string name="enter_yr_pw">Digite sua senha</string>
+      
+  <string name="personal">Pessoal</string>
+      
+  <string name="save">Salvar</string>
+      
+  <string name="add_transaction">Adicionar transação</string>
+      
+  <string name="income">Renda</string>
+      
+  <string name="expense">Despesa</string>
+      
+  <string name="category">Categoria</string>
+      
+  <string name="other">Outros</string>
+      
+  <string name="enter_balance">Digite o saldo</string>
+      
+  <string name="yr_remark">Sua observação</string>
+      
+  <string name="today">Hoje</string>
+      
+  <string name="choose_category">Escolha uma categoria</string>
+      
+  <string name="search_by_category">Pesquise por categoria, observação, etc.</string>
+      
+  <string name="most_frequent">Mais frequente</string>
+      
+  <string name="all_categories">Todas as categorias</string>
+      
+  <string name="due_date">Data de vencimento</string>
+      
+  <string name="yesterday">Ontem</string>
+      
+  <string name="tomorrow">Amanhã</string>
+      
+  <string name="enter_yr_username">Digite seu nome de usuário</string>
+      
+  <string name="change">Mudar</string>
+      
+  <string name="update_password">Atualizar senha</string>
+      
+  <string name="search_category">Pesquise uma categoria</string>
+      
+  <string name="all_category">Todas as categorias</string>
+      
+  <string name="recent">Recente</string>
+      
+  <string name="all_wallet">Todas as carteiras</string>
+      
+  <string name="total">Total</string>
+      
+  <string name="monthly">Por mês</string>
+      
+  <string name="all_trans">Todas trans</string>
+      
+  <string name="calculator_exceed_digit">Você excedeu o máximo de 15 dígitos</string>
+      
+  <string name="my_wallet">Minha carteira</string>
+      
+  <string name="wallet">Carteira</string>
+      
+  <string name="inactive_wallet">Carteira inativa</string>
+      
+  <string name="account">Conta</string>
+      
+  <string name="change_language">Mudar idioma</string>
+      
+  <string name="dark_theme">Tema escuro</string>
+      
+  <string name="main_currency">Moeda principal</string>
+      
+  <string name="search_currency">Pesquisar moeda</string>
+      
+  <string name="review">Análise</string>
+      
+  <string name="share">Compartilhar</string>
+      
+  <string name="privacy">Política de privacidade</string>
+      
+  <string name="about">Sobre</string>
+      
+  <string name="swap">Trocar</string>
+      
+  <string name="wallet_name">Nome da carteira</string>
+      
+  <string name="initial_balance">Saldo inicial</string>
+      
+  <string name="shared_with">Compartilhado com</string>
+      
+  <string name="set_as_default">Definir como padrão</string>
+      
+  <string name="one_user">1 usuário</string>
+      
+  <string name="coming_soon">Em breve…</string>
+      
+  <string name="Coming_Soon">Em breve!</string>
+      
+  <string name="default_wallet">Padrão</string>
+      
+  <string name="add_expense">Adicionar despesa</string>
+      
+  <string name="adjust_balance">Ajustar saldo</string>
+      
+  <string name="sharing">Compartilhamento</string>
+      
+  <string name="delete">Excluir</string>
+      
+  <string name="wallet_and_others">Carteira e outros</string>
+      
+  <string name="group_and_people">Grupo e pessoas</string>
+      
+  <string name="business">Negócios</string>
+      
+  <string name="tracking_your_expense">Rastreando suas despesas junto com seus entes queridos</string>
+      
+  <string name="invite_user">Convidar usuário</string>
+      
+  <string name="invite">Convidar</string>
+      
+  <string name="search_user">Pesquisar usuário</string>
+      
+  <string name="wallet_color">Cor da carteira</string>
+      
+  <string name="delete_wallet">Excluir carteira</string>
+      
+  <string name="your_transaction_data">Seus dados de transação nesta carteira também serão excluídos. Tem certeza de que deseja excluí-lo?</string>
+      
+  <string name="do_u_want_to_delete_trans">Deseja excluir esta transação?</string>
+      
+  <string name="delete_category">Excluir categoria</string>
+      
+  <string name="do_u_want_to_delete_category">Deseja excluir esta categoria?</string>
+      
+  <string name="reset_category">Redefinir categoria</string>
+      
+  <string name="reset">Reiniciar</string>
+      
+  <string name="do_u_want_to_reset_category">Deseja redefinir a categoria?</string>
+      
+  <string name="confirm_logout">Confirmar logout</string>
+      
+  <string name="are_u_sure_you_want_to_logout">Tem certeza que deseja sair?</string>
+      
+  <string name="delete_account">Excluir conta</string>
+      
+  <string name="type_delete_to_cf">Digite delete para confirmar</string>
+      
+  <string name="to_guarantee">Para garantir a segurança, faça login novamente antes de prosseguir para a próxima etapa</string>
+      
+  <string name="balance">Saldo</string>
+      
+  <string name="upgrade_to_unlock">Atualize para desbloquear todos os recursos Premium</string>
+      
+  <string name="upgrade_now">Atualize agora</string>
+      
+  <string name="month">Mês</string>
+      
+  <string name="date">Data</string>
+      
+  <string name="add_new_category">Adicionar nova categoria</string>
+      
+  <string name="new_category">Nova categoria</string>
+      
+  <string name="edit_category">Editar categoria</string>
+      
+  <string name="choose_a_symbol">Escolha um símbolo</string>
+      
+  <string name="choose_a_wallet">Escolha uma carteira</string>
+      
+  <string name="manage_wallet">Gerenciar carteira</string>
+      
+  <string name="all_transaction">Todas as transações</string>
+      
+  <string name="monthly_duration"> /Mês</string>
+      
+  <string name="yearly_duration"> /Ano</string>
+      
+  <string name="with_seven_days_of_free_trial">Com 7 dias de teste grátis</string>
+      
+  <string name="save_twenty_five_percentage">Economize 25%</string>
+      
+  <string name="continue_sub">Continuar assinatura</string>
+      
+  <string name="remove_all_ads">Remover todos os anúncios</string>
+      
+  <string name="no_more_interruption">Não há mais interrupção por propaganda</string>
+      
+  <string name="accept_policy_description">Sua conta do Google será cobrada quando você confirmar sua compra. Você pode cancelar sua assinatura a qualquer momento desativando a renovação automática em sua conta do Google pelo menos 24 horas antes do final do período atual. Caso contrário, sua assinatura é renovada automaticamente. A remoção do aplicativo não cancela automaticamente a assinatura. Ao adquirir a versão Money Tracker Pro, você aceita nossa Política de Privacidade e Termos de Uso.</string>
+      
+  <string name="restore">Restaurar</string>
+      
+  <string name="search">Procurar</string>
+      
+  <string name="amount_category_or_remark">Valor, categoria ou observação…</string>
+      
+  <string name="transaction_is_added">A transação foi adicionada</string>
+      
+  <string name="transaction_is_saved">A transação foi salva</string>
+      
+  <string name="transaction_is_deleted">A transação foi excluída</string>
+      
+  <string name="transaction_is_not_saved">A transação não foi salva</string>
+      
+  <string name="wallet_is_not_created">A carteira não foi criada</string>
+      
+  <string name="transaction_is_not_added">A transação não foi adicionada</string>
+      
+  <string name="is_added">foi adicionada</string>
+      
+  <string name="wallet_is_added">A carteira foi adicionada</string>
+      
+  <string name="wallet_is_delete">A carteira foi excluída</string>
+      
+  <string name="no_data_available">Nenhum dado disponível</string>
+      
+  <string name="no_transaction">Nenhuma transação</string>
+      
+  <string name="tap_to_add">Toque em + para adicionar uma nova transação.</string>
+      
+  <string name="week_start_at">A semana começa em</string>
+      
+  <string name="week_start">Início da semana</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">Mostre seu apoio</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">Se você gosta de usar este aplicativo, poderia reservar um momento para avaliá-lo? Seu feedback é muito importante para nós.</string>
+      
+  <string name="rate_us">Avalie-nos</string>
+      
+  <string name="don_t_like">Não gosto</string>
+      
+  <string name="add_widget">Adicionar widget</string>
+      
+  <string name="cancel">Cancelar</string>
+      
+  <string name="type_delete_to_confirm">Digite “excluir” para confirmar</string>
+      
+  <string name="delete_transaction">Excluir transação</string>
+      
+  <string name="do_you_want_to_delete_transaction">Deseja excluir a transação?</string>
+      
+  <string name="category_already_exist">Esta categoria já existe!</string>
+      
+  <string name="is_updated">foi atualizada.</string>
+      
+  <string name="is_deleted">foi excluída.</string>
+      
+  <string name="category_has_been_reset_successfully">A categoria foi redefinida com sucesso!</string>
+      
+  <string name="logged_out_successfully">Você saiu com sucesso</string>
+      
+  <string name="reset_link_has_been_sent">O link de redefinição foi enviado para o seu e-mail.</string>
+      
+  <string name="failed_to_send_reset_link">Falha ao enviar link de redefinição.</string>
+      
+  <string name="invalid_email">Endereço de e-mail inválido!</string>
+      
+  <string name="invalid_password">Senha inválida!</string>
+      
+  <string name="invalid_inputs">Entradas inválidas!</string>
+      
+  <string name="something_went_wrong">Algo deu errado!</string>
+      
+  <string name="password_is_not_matched">A senha não corresponde!</string>
+      
+  <string name="invalid_password_length">A senha deve ser igual ou maior que 8 caracteres.</string>
+      
+  <string name="failed_to_fetch_transaction">Falha ao buscar a transação!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">A carteira padrão não pode ser deletada!</string>
+      
+  <string name="invalid_trans_amount">Valor da transação inválido!</string>
+      
+  <string name="main_currency_is_updated_successfully">A moeda principal foi atualizada com sucesso.</string>
+      
+  <string name="password_is_updated_successfully">A senha foi atualizada com sucesso.</string>
+      
+  <string name="failed_to_update_password">Falha ao atualizar a senha!</string>
+      
+  <string name="email_has_been_changed_successfully">O e-mail foi alterado com sucesso.</string>
+      
+  <string name="failed_to_change_email">Falha ao alterar o e-mail!</string>
+      
+  <string name="subscription_has_been_restored_successfully">A assinatura foi restaurada com sucesso.</string>
+      
+  <string name="failed_to_restore_the_subscription">Falha ao restaurar a assinatura!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">O recurso Premium foi desbloqueado com sucesso.</string>
+      
+  <string name="incorrect_email_or_password">senha ou e-mail incorretos</string>
+      
+  <string name="failed_to_upload_profile">Falha ao carregar o perfil para o servidor.</string>
+      
+  <string name="is_created">foi criado.</string>
+      
+  <string name="create_new">Criar novo</string>
+      
+  <string name="is_saved">foi salvo.</string>
+
+  <!--    Category-->
+  <string name="food_and_beverage">Alimentos e bebidas; Bebida</string>
+  <string name="clothing">Roupas</string>
+  <string name="shopping">Compras</string>
+  <string name="bill_and_utils">Bill &amp; Utilitários</string>
+  <string name="transportation">Transporte</string>
+  <string name="education">Educação</string>
+  <string name="entertainment">Entretenimento</string>
+  <string name="housing">Habitação</string>
+  <string name="car_and_automotive">Carro / Automotivo</string>
+  <string name="electronics">Eletrônicos</string>
+  <string name="wine">Vinho</string>
+  <string name="health">Saúde</string>
+  <string name="gift">Presente</string>
+  <string name="office">Escritório</string>
+  <string name="furniture">Móveis</string>
+  <string name="social">Social</string>
+  <string name="fruit">Frutas</string>
+  <string name="vegetables">Vegetais</string>
+  <string name="travel">Viagens</string>
+  <string name="groceries">Mercearia</string>
+  <string name="beauty">beleza</string>
+  <string name="tax">Imposto</string>
+  <string name="rent">Aluguel</string>
+  <string name="insurance">Seguro</string>
+  <string name="telephone">Telefone</string>
+  <string name="pet">Animal de estimação</string>
+  <string name="sport">Esporte</string>
+  <string name="snack_and_fastfood">Lanches / Fastfood</string>
+  <string name="others">Outros</string>
+  <string name="salary">Salário</string>
+  <string name="freelancing">Freelancer</string>
+  <string name="bonus">Bônus</string>
+  <string name="awards">Prêmios</string>
+  <string name="rental">Aluguel</string>
+  <string name="grants">Subsídios</string>
+  <string name="sale">Venda</string>
+  <string name="refunds">Reembolsos</string>
+  <string name="coupons">Cupons</string>
+  <string name="lottery">Loteria</string>
+  <string name="dividends">Dividendos</string>
+  
+</resources>

@@ -1,0 +1,209 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MoneyTracker" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:actionMenuTextColor">@color/teal_200</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="secondaryBgColor">@color/lightSecondaryBgColor</item>
+        <item name="tertiaryBgColor">@color/lightTertiaryBgColor</item>
+        <item name="quaternaryBgColor">@color/lightQuaternaryBgColor</item>
+        <item name="titleColor">@color/lightTitleTextColor</item>
+        <item name="titleOgColor">@color/titleOgColor</item>
+        <item name="bgColor">@color/lightBgColor</item>
+        <item name="cellBgColor">@color/lightCellBgColor</item>
+        <item name="ogBtnColor">@color/lightOgBtnColor</item>
+        <item name="backBtnBgColor">@color/lightBackBtnBgColor</item>
+        <item name="backBtnPressedBgColor">@color/lightBackBtnPressBgColor</item>
+        <item name="defaultIconTint">@color/lightDefaultIconTint</item>
+        <item name="descTextColor">@color/lightDesc</item>
+        <item name="editTextStrokeColor">@color/lightEdittextStrokeColor</item>
+        <item name="strokeBtnBgColor">@color/lightStrokeBtnBgColor</item>
+        <item name="strokeBtnStrokeColor">@color/lightStrokeBtnStrokeColor</item>
+        <item name="redStrokeBtnStrokeColor">@color/lightRedStrokeBtnStrokeColor</item>
+        <item name="redStrokeBtnTextColor">@color/lightRedStrokeBtnTextColor</item>
+        <item name="defaultWhiteText">@color/lightDefaultWhiteText</item>
+        <item name="greyTextColor">@color/lightGreyTextColor</item>
+        <item name="secondaryGreyTextColor">@color/lightSecondaryGreyTextColor</item>
+        <item name="greyStroke">@color/lightGreyStroke</item>
+        <item name="primaryText">@color/lightTitleTextColor</item>
+        <item name="fontFamily">@font/inter_400</item>
+        <item name="transFilterDownBgColor">@color/white</item>
+        <item name="bottomNavigationItemColor">@color/lightBottomNavigationItemColor</item>
+        <item name="bottomNavigationItemBgColor">@color/lightBottomNavigationItemBgColor</item>
+        <item name="separatorColor">@color/lightSeparatorColor</item>
+        <item name="statisticsBgColor">@color/lightStatisticsBgColor</item>
+        <item name="upgradeProBgColor">@color/lightUpgradeProBgColor</item>
+        <item name="upgradeProTextColor">@color/lightUpgradeProTextColor</item>
+        <item name="drawerSecondaryBgColor">@color/lightDrawerSecondaryBgColor</item>
+        <item name="calendarCellSelectedBgColor">@color/lightCalendarCellSelectedBgColor</item>
+        <item name="calendarDisableCellTextColor">@color/lightCalendarDisableCellTextColor</item>
+        <item name="calendarHeaderBgColor">@color/lightCalendarHeaderBgColor</item>
+        <item name="calendarHeaderTextColor">@color/lightCalendarHeaderTextColor</item>
+        <item name="expenseBgColor">@color/lightExpenseBgColor</item>
+        <item name="incomeBgColor">@color/lightIncomeBgColor</item>
+        <item name="transAmountBgColor">@color/lightTransAmountBgColor</item>
+        <item name="editTextHintTextColor">@color/lightEditTextHintTextColor</item>
+        <item name="secondaryExpenseBgColor">@color/lightSecondaryExpenseBgColor</item>
+        <item name="secondaryIncomeBgColor">@color/lightSecondaryIncomeBgColor</item>
+        <item name="tertiaryExpenseBgColor">@color/lightTertiaryExpenseBgColor</item>
+        <item name="tertiaryIncomeBgColor">@color/lightTertiaryIncomeBgColor</item>
+        <item name="expenseSelectedTextColor">@color/lightExpenseSelectedTextColor</item>
+        <item name="incomeSelectedTextColor">@color/lightIncomeSelectedTextColor</item>
+        <item name="unselectedIncomeExpenseTextColor">@color/lightUnselectedIncomeExpenseTextColor
+        </item>
+        <item name="buttonDisableBgColor">@color/bgButtonDisabled</item>
+        <item name="buttonDisabledTextColor">@color/lightDisabledButtonTextColor</item>
+        <item name="expenseButtonBgColor">@color/lightExpenseButtonBgColor</item>
+        <item name="incomeButtonBgColor">@color/lightIncomeButtonBgColor</item>
+        <item name="calculatorBgColor">@color/lightCalculatorBgColor</item>
+        <item name="selectedRecentCurrencyBgColor">@color/lightSelectedRecentCurrencyBgColor</item>
+        <item name="nextButtonBgColor">@color/lightNextButtonBgColor</item>
+        <item name="nextButtonTextColor">@color/lightNextButtonTextColor</item>
+        <item name="searchBgColor">@color/lightSearchBgColor</item>
+        <item name="yesterdayBgColor">@color/lightYesterdayBgColor</item>
+        <item name="todayBgColor">@color/lightTodayBgColor</item>
+        <item name="tomorrowBgColor">@color/lightTomorrowBgColor</item>
+        <item name="yesterdayTextColor">@color/lightYesterdayTextColor</item>
+        <item name="todayTextColor">@color/lightTodayTextColor</item>
+        <item name="tomorrowTextColor">@color/lightTomorrowTextColor</item>
+        <item name="selectedDateTextColor">@color/lightSelectedDateTextColor</item>
+        <item name="selectedDateBgColor">@color/lightSelectedDateBgColor</item>
+        <item name="defaultTodayBgColor">@color/lightDefaultTodayBgColor</item>
+        <item name="doneButtonBgColor">@color/lightDoneButtonBgColor</item>
+        <item name="selectedWalletCellBgColor">@color/lightSelectedWalletCellBgColor</item>
+        <item name="statisticsSecondaryBgColor">@color/lightStatisticSecondaryBgColor</item>
+        <item name="editIconColor">@color/lightEditIconColor</item>
+        <item name="yellowBtnBgColor">@color/lightYellowBtnBgColor</item>
+        <item name="deleteIconColor">@color/lightDeleteIconColor</item>
+        <item name="numberOfSharedUserBgColor">@color/lightNumberOfSharedUserBgColor</item>
+        <item name="defaultWalletBgColor">@color/lightDefaultWalletBgColor</item>
+        <item name="arrowForwardIconColor">@color/lightArrowForwardIconColor</item>
+        <item name="transDateTextColor">@color/lightTransDateTextColor</item>
+        <item name="toastBgColor">@color/lightToastBgColor</item>
+        <item name="themeSwitchColor">@color/lightThemeSwitchColor</item>
+        <item name="foregroundStateBgColor">@color/lightForegroundStateBgColor</item>
+        <item name="logoutTextColor">@color/lightLogoutTextColor</item>
+        <item name="selectedStateBgColor">@color/lightGrey</item>
+        <item name="disableToggleStrokeColor">@color/lightDisableToggleStrokeColor</item>
+        <item name="disableThumbTintColor">@color/lightDisableThumbTintColor</item>
+        <item name="selectedPercentageSwitchBgColor">@color/lightSelectedPercentageSwitchBgColor
+        </item>
+        <item name="unselectedPercentageSwitchBgColor">
+            @color/lightUnselectedPercentageSwitchBgColor
+        </item>
+        <item name="disabledTextColor">@color/lightDisabledTextColor</item>
+        <item name="budgetIconColor">@color/lightBudgetIconColor</item>
+        <item name="budgetTextColor">@color/lightBudgetTextColor</item>
+        <item name="addButtonColor">@color/lightAddButtonColor</item>
+        <item name="quinaryBgColor">@color/lightQuinaryBgColor</item>
+        <item name="notificationBgColor">@color/lightNotifColor</item>
+        <item name="transDropDownBgColor">@color/lightTransDropDown</item>
+        <!-- Customize your theme here. -->
+        <!--    new input style-->
+<!--        <item name="colorPrimary">@color/md_theme_light_primary</item>-->
+<!--        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>-->
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+<!--        <item name="colorSecondary">@color/md_theme_light_secondary</item>-->
+<!--        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>-->
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorOnError">@color/md_theme_light_onError</item>
+        <item name="colorErrorContainer">@color/md_theme_light_errorContainer</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_onErrorContainer</item>
+        <item name="colorOutline">@color/md_theme_light_outline</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurfaceRevise">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_onSurfaceVariant</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_light_inverseOnSurface</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_inversePrimary</item>
+        <item name="colorPrimaryDarkOutLine">@color/terity</item>
+
+        <item name="bulkAction">@color/colorItemCalendar</item>
+        <item name="textBulkAction">@color/neutral</item>
+        <item name="iconClose">@color/black80</item>
+        <item name="colorTextHead">@color/black80</item>
+        <item name="iconCategory">@color/category_light</item>
+        <item name="iconDelete">@color/redBgColor</item>
+        <item name="iconWallet">@color/black80</item>
+        <item name="itemSelect">@color/lightBlackAlpha</item>
+<!--        <item name="colorBgLight">@color/lightSecondaryBgColor</item>-->
+        <item name="colorBgLight">@color/white</item>
+        <item name="colorBgImportDetail">@color/white</item>
+        <item name="colorTextSelectImport">@color/primary_red</item>
+        <item name="colorIconArrowDown">@color/primary_red</item>
+        <item name="colorBgSelect">@color/lightSecondaryBgColor</item>
+        <item name="colorTextValue">@color/lightSecondaryBgColor</item>
+        <item name="colorNameWallet">@color/neutral</item>
+        <item name="colorTextBody">@color/littleGray</item>
+        <item name="strokeBg">@color/black16</item>
+        <item name="colorTextBottomSheet">@color/primary_red</item>
+        <item name="surfaceContainer">@color/md_theme_light_surface_container</item>
+        <item name="surface">@color/md_theme_light_surface</item>
+        <item name="surfaceContainerHigh">@color/md_theme_light_surface_container_high</item>
+
+
+    </style>
+
+    <style name="Theme.MoneyTracker.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MoneyTracker.OverStatusBar" parent="Theme.MoneyTracker">
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <!--          Them for remove default splash screen in android 12-->
+    <style name="Theme.RemoveSplashScreenTheme" parent="@style/AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Theme.MoneyTracker.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        <!-- Radius of the outer bound of widgets to make the rounded corners -->
+        <item name="appWidgetRadius">16dp</item>
+        <!--
+        Radius of the inner view's bound of widgets to make the rounded corners.
+        It needs to be 8dp or less than the value of appWidgetRadius
+        -->
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style>
+
+    <style name="Theme.MoneyTracker.AppWidgetContainer" parent="Theme.MoneyTracker.AppWidgetContainerParent">
+        <!-- Apply padding to avoid the content of the widget colliding with the rounded corners -->
+        <item name="appWidgetPadding">16dp</item>
+    </style>
+
+    <style name="Theme.MoneyTracker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MoneyTracker.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--    <style name="Theme.MoneyTracker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
+
+    <!--    <style name="Theme.MoneyTracker.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+
+
+</resources>

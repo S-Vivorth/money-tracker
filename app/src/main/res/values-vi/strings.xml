@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">Giao dịch</string>
+      
+  <string name="calendar">Lịch</string>
+      
+  <string name="statistics">Số liệu thống kê</string>
+      
+  <string name="settings">Cài đặt</string>
+      
+  <string name="budget">Ngân sách</string>
+      
+  <string name="next">Kế tiếp</string>
+      
+  <string name="previous">Trước</string>
+      
+  <string name="welcome">Chào mừng bạn đến</string>
+      
+  <string name="continue_email">Tiếp tục với Email</string>
+      
+  <string name="continue_google">Tiếp tục với Google</string>
+      
+  <string name="what_is_yr_email">Địa chỉ email của bạn là gì?</string>
+      
+  <string name="continue_text">Tiếp tục</string>
+      
+  <string name="login_with_pw">Đăng nhập bằng mật khẩu của bạn</string>
+      
+  <string name="forget_pw">Quên mật khẩu?</string>
+      
+  <string name="login">Đăng nhập</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">Bạn đang sử dụng </string>
+      
+  <string name="to_login">để đăng nhập.</string>
+      
+  <string name="create_yr_acc">Tạo tài khoản của bạn</string>
+      
+  <string name="re_enter_pw_hint">Nhập lại mật khẩu</string>
+      
+  <string name="signup">Đăng ký</string>
+      
+  <string name="forgot_pw">Quên mật khẩu?</string>
+      
+  <string name="reset_pw_desc">Để đặt lại mật khẩu, vui lòng nhập địa chỉ email tài khoản của bạn.</string>
+      
+  <string name="reset_pw">Đặt lại mật khẩu</string>
+      
+  <string name="back_to_login">Quay lại đăng nhập</string>
+      
+  <string name="sign_out">Đăng xuất</string>
+      
+  <string name="setting_name">Tài khoản</string>
+      
+  <string name="profile">Hồ sơ</string>
+      
+  <string name="account_name">TÊN TÀI KHOẢN</string>
+      
+  <string name="email">E-MAIL</string>
+      
+  <string name="change_pw">Đổi mật khẩu</string>
+      
+  <string name="delete_acc">Xóa tài khoản</string>
+      
+  <string name="logout">Đăng xuất</string>
+      
+  <string name="edit">Chỉnh sửa</string>
+      
+  <string name="enter_new_pw">Nhập mật khẩu mới</string>
+      
+  <string name="re_enter_pw">Nhập lại mật khẩu</string>
+      
+  <string name="confirm">Xác nhận</string>
+      
+  <string name="current_pw">Mật khẩu hiện tại</string>
+      
+  <string name="pw_desc">Mật khẩu của bạn phải dài ít nhất 8 ký tự.\nTránh mật khẩu hoặc mẫu phổ biến.</string>
+      
+  <string name="done">Xong</string>
+      
+  <string name="update_email">Cập nhật email</string>
+      
+  <string name="enter_email">Nhập email</string>
+      
+  <string name="re_enter_email">Nhập lại email</string>
+      
+  <string name="password">Mật khẩu</string>
+      
+  <string name="login_as">Đăng nhập là </string>
+      
+  <string name="change_email">Thay đổi e-mail</string>
+      
+  <string name="enter_yr_pw">Nhập mật khẩu của bạn</string>
+      
+  <string name="personal">Riêng tư</string>
+      
+  <string name="save">Lưu</string>
+      
+  <string name="add_transaction">Thêm giao dịch</string>
+      
+  <string name="income">Thu nhập</string>
+      
+  <string name="expense">Chi phí</string>
+      
+  <string name="category">Danh mục</string>
+      
+  <string name="other">Khác</string>
+      
+  <string name="enter_balance">Nhập số dư</string>
+      
+  <string name="yr_remark">Ghi chú của bạn</string>
+      
+  <string name="today">Hôm nay</string>
+      
+  <string name="choose_category">Chọn một danh mục</string>
+      
+  <string name="search_by_category">Tìm kiếm theo danh mục, ghi chú, v.v.</string>
+      
+  <string name="most_frequent">Thường xuyên nhất</string>
+      
+  <string name="all_categories">Tất cả danh mục</string>
+      
+  <string name="due_date">Ngày đáo hạn</string>
+      
+  <string name="yesterday">Hôm qua</string>
+      
+  <string name="tomorrow">Ngày mai</string>
+      
+  <string name="enter_yr_username">Nhập tên người dùng của bạn</string>
+      
+  <string name="change">Thay đổi</string>
+      
+  <string name="update_password">Cập nhật mật khẩu</string>
+      
+  <string name="search_category">Tìm kiếm một danh mục</string>
+      
+  <string name="all_category">Tất cả danh mục</string>
+      
+  <string name="recent">Gần đây</string>
+      
+  <string name="all_wallet">Tất cả Ví</string>
+      
+  <string name="total">Tổng cộng</string>
+      
+  <string name="monthly">Hàng tháng</string>
+      
+  <string name="all_trans">Tất cả giao dịch</string>
+      
+  <string name="calculator_exceed_digit">Bạn đã vượt quá mức tối đa 15 chữ số</string>
+      
+  <string name="my_wallet">Ví của tôi</string>
+      
+  <string name="wallet">Ví</string>
+      
+  <string name="inactive_wallet">Ví không hoạt động</string>
+      
+  <string name="account">Tài khoản</string>
+      
+  <string name="change_language">Thay đổi ngôn ngữ</string>
+      
+  <string name="dark_theme">Chủ đề tối</string>
+      
+  <string name="main_currency">Tiền tệ chính</string>
+      
+  <string name="search_currency">Tìm kiếm tiền tệ</string>
+      
+  <string name="review">Xem lại</string>
+      
+  <string name="share">Chia sẻ</string>
+      
+  <string name="privacy">Chính sách bảo mật</string>
+      
+  <string name="about">Về</string>
+      
+  <string name="swap">Hoán đổi</string>
+      
+  <string name="wallet_name">Tên ví</string>
+      
+  <string name="initial_balance">Số dư ban đầu</string>
+      
+  <string name="shared_with">Đã được chia sẻ với</string>
+      
+  <string name="set_as_default">Đặt làm mặc định</string>
+      
+  <string name="one_user">1 người dùng</string>
+      
+  <string name="coming_soon">Sắp ra mắt…</string>
+      
+  <string name="Coming_Soon">Sắp ra mắt!</string>
+      
+  <string name="default_wallet">Mặc định</string>
+      
+  <string name="add_expense">Thêm chi phí</string>
+      
+  <string name="adjust_balance">Điều chỉnh số dư</string>
+      
+  <string name="sharing">Chia sẻ</string>
+      
+  <string name="delete">Xóa</string>
+      
+  <string name="wallet_and_others">Ví &amp; Khác</string>
+      
+  <string name="group_and_people">Nhóm &amp; Người</string>
+      
+  <string name="business">Việc kinh doanh</string>
+      
+  <string name="tracking_your_expense">Theo dõi chi phí của bạn cùng với những người thân yêu của bạn</string>
+      
+  <string name="invite_user">Mời người dùng</string>
+      
+  <string name="invite">Mời</string>
+      
+  <string name="search_user">Tìm kiếm người dùng</string>
+      
+  <string name="wallet_color">Màu ví</string>
+      
+  <string name="delete_wallet">Xóa ví</string>
+      
+  <string name="your_transaction_data">Dữ liệu giao dịch của bạn trong ví này cũng sẽ bị xóa. Bạn có chắc chắn muốn xóa nó?</string>
+      
+  <string name="do_u_want_to_delete_trans">Bạn có muốn xóa giao dịch này không?</string>
+      
+  <string name="delete_category">Xóa danh mục</string>
+      
+  <string name="do_u_want_to_delete_category">Bạn có muốn xóa danh mục này khôn?</string>
+      
+  <string name="reset_category">Đặt lại danh mục</string>
+      
+  <string name="reset">Đặt lại</string>
+      
+  <string name="do_u_want_to_reset_category">Bạn có muốn đặt lại danh mục không?</string>
+      
+  <string name="confirm_logout">Xác nhận đăng xuất</string>
+      
+  <string name="are_u_sure_you_want_to_logout">Bạn có chắc chắn bạn muốn thoát?</string>
+      
+  <string name="delete_account">Xóa tài khoản</string>
+      
+  <string name="type_delete_to_cf">Nhập xóa để xác nhận</string>
+      
+  <string name="to_guarantee">Để đảm bảo an toàn, vui lòng đăng nhập lại trước khi thực hiện bước tiếp theo</string>
+      
+  <string name="balance">Số dư</string>
+      
+  <string name="upgrade_to_unlock">Nâng cấp để mở khóa tất cả các tính năng cao cấp</string>
+      
+  <string name="upgrade_now">Nâng cấp ngay bây giờ</string>
+      
+  <string name="month">Tháng</string>
+      
+  <string name="date">Ngày</string>
+      
+  <string name="add_new_category">Thêm danh mục mới</string>
+      
+  <string name="new_category">Danh mục mới</string>
+      
+  <string name="edit_category">Chỉnh sửa danh mục</string>
+      
+  <string name="choose_a_symbol">Chọn một biểu tượng</string>
+      
+  <string name="choose_a_wallet">Chọn một ví</string>
+      
+  <string name="manage_wallet">Quản lý Ví</string>
+      
+  <string name="all_transaction">Tất cả giao dịch</string>
+      
+  <string name="monthly_duration"> /Tháng</string>
+      
+  <string name="yearly_duration"> /Năm</string>
+      
+  <string name="with_seven_days_of_free_trial">Với 7 ngày dùng thử miễn phí</string>
+      
+  <string name="save_twenty_five_percentage">Tiết kiệm 25%</string>
+      
+  <string name="continue_sub">Tiếp tục đăng ký</string>
+      
+  <string name="remove_all_ads">Xóa tất cả quảng cáo</string>
+      
+  <string name="no_more_interruption">Không còn bị gián đoạn bởi quảng cáo</string>
+      
+  <string name="accept_policy_description">Tài khoản Google của bạn sẽ bị tính phí khi bạn xác nhận giao dịch mua của mình. Bạn có thể hủy đăng ký bất kỳ lúc nào bằng cách tắt tính năng tự động gia hạn trong tài khoản Google của mình ít nhất 24 giờ trước khi kết thúc kỳ hiện tại. Nếu không, đăng ký của bạn sẽ tự động gia hạn. Việc xóa ứng dụng không tự động hủy đăng ký. Bằng cách mua Phiên bản Money Tracker Pro, bạn chấp nhận Chính sách Quyền riêng tư và Điều khoản Sử dụng của chúng tôi.</string>
+      
+  <string name="restore">Khôi phục</string>
+      
+  <string name="search">Tìm kiếm</string>
+      
+  <string name="amount_category_or_remark">Số lượng, Danh mục hoặc Ghi chú..</string>
+      
+  <string name="transaction_is_added">Giao dịch được thêm vào</string>
+      
+  <string name="transaction_is_saved">Giao dịch được lưu</string>
+      
+  <string name="transaction_is_deleted">Giao dịch bị xóa</string>
+      
+  <string name="transaction_is_not_saved">Giao dịch không được lưu</string>
+      
+  <string name="wallet_is_not_created">Ví chưa được tạo</string>
+      
+  <string name="transaction_is_not_added">Giao dịch không được thêm vào</string>
+      
+  <string name="is_added">được thêm vào</string>
+      
+  <string name="wallet_is_added">Đã thêm ví</string>
+      
+  <string name="wallet_is_delete">Ví bị xóa</string>
+      
+  <string name="no_data_available">Không có dữ liệu</string>
+      
+  <string name="no_transaction">Không có giao dịch</string>
+      
+  <string name="tap_to_add">Nhấn + để thêm giao dịch mới.</string>
+      
+  <string name="week_start_at">Tuần bắt đầu lúc</string>
+      
+  <string name="week_start">Bắt đầu tuần</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">Thể hiện sự ủng hộ của bạn</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">Nếu bạn thích sử dụng ứng dụng này, bạn có thể dành chút thời gian để đánh giá nó không? Phản hồi của bạn rất quan trọng đối với chúng tôi.</string>
+      
+  <string name="rate_us">Đánh giá chúng tôi</string>
+      
+  <string name="don_t_like">Không thích</string>
+      
+  <string name="add_widget">Thêm tiện ích</string>
+      
+  <string name="cancel">Hủy</string>
+      
+  <string name="type_delete_to_confirm">Nhập \"xóa\" để xác nhận</string>
+      
+  <string name="delete_transaction">Xóa giao dịch</string>
+      
+  <string name="do_you_want_to_delete_transaction">Bạn có muốn xóa giao dịch?</string>
+      
+  <string name="category_already_exist">Danh mục này đã tồn tại!</string>
+      
+  <string name="is_updated"> được cập nhật.</string>
+      
+  <string name="is_deleted"> bị xóa.</string>
+      
+  <string name="category_has_been_reset_successfully">Danh mục đã được thiết lập lại thành công!</string>
+      
+  <string name="logged_out_successfully">Bạn đã đăng xuất thành công</string>
+      
+  <string name="reset_link_has_been_sent">Liên kết thiết lập lại đã được gửi đến email của bạn.</string>
+      
+  <string name="failed_to_send_reset_link">Không thể gửi liên kết thiết lập lại.</string>
+      
+  <string name="invalid_email">Địa chỉ email không hợp lệ!</string>
+      
+  <string name="invalid_password">Mật khẩu không hợp lệ!</string>
+      
+  <string name="invalid_inputs">Dữ liệu đầu vào không hợp lệ!</string>
+      
+  <string name="something_went_wrong">Đã xảy ra sự cố!</string>
+      
+  <string name="password_is_not_matched">Mật khẩu không khớp!</string>
+      
+  <string name="invalid_password_length">Mật khẩu phải bằng hoặc lớn hơn 8 ký tự.</string>
+      
+  <string name="failed_to_fetch_transaction">Không tìm nạp được giao dịch!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">Không thể xóa ví mặc định!</string>
+      
+  <string name="invalid_trans_amount">Số tiền giao dịch không hợp lệ!</string>
+      
+  <string name="main_currency_is_updated_successfully">Đã cập nhật thành công đơn vị tiền tệ chính.</string>
+      
+  <string name="password_is_updated_successfully">Mật khẩu được cập nhật thành công.</string>
+      
+  <string name="failed_to_update_password">Không thể cập nhật mật khẩu!</string>
+      
+  <string name="email_has_been_changed_successfully">Email đã được thay đổi thành công.</string>
+      
+  <string name="failed_to_change_email">Không thể thay đổi email!</string>
+      
+  <string name="subscription_has_been_restored_successfully">Đăng ký đã được khôi phục thành công.</string>
+      
+  <string name="failed_to_restore_the_subscription">Không thể khôi phục đăng ký!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">Tính năng cao cấp đã được mở khóa thành công.</string>
+      
+  <string name="incorrect_email_or_password">Email hoặc mật khẩu không chính xác</string>
+      
+  <string name="failed_to_upload_profile">Không thể tải hồ sơ lên máy chủ.</string>
+      
+  <string name="is_created">đã được tạo.</string>
+      
+  <string name="create_new">Tạo mới</string>
+      
+  <string name="is_saved">đã được lưu.</string>
+
+
+  <!--    Category-->
+  <string name="food_and_beverage">Thực phẩm &amp; Nước giải khát</string>
+  <string name="clothing">Quần áo</string>
+  <string name="shopping">Mua sắm</string>
+  <string name="bill_and_utils">Hóa đơn &amp; Tiện ích</string>
+  <string name="transportation">Vận chuyển</string>
+  <string name="education">Giáo dục</string>
+  <string name="entertainment">Giải trí</string>
+  <string name="housing">Nhà ở</string>
+  <string name="car_and_automotive">Xe hơi / Ô tô</string>
+  <string name="electronics">Điện tử</string>
+  <string name="wine">Rượu</string>
+  <string name="health">Sức khỏe</string>
+  <string name="gift">Quà tặng</string>
+  <string name="office">Văn phòng</string>
+  <string name="furniture">Đồ đạc</string>
+  <string name="social">Xã hội</string>
+  <string name="fruit">Trái cây</string>
+  <string name="vegetables">Rau</string>
+  <string name="travel">Du lịch</string>
+  <string name="groceries">Tạp hóa</string>
+  <string name="beauty">vẻ đẹp</string>
+  <string name="tax">Thuế</string>
+  <string name="rent">Thuê</string>
+  <string name="insurance">Bảo hiểm</string>
+  <string name="telephone">Điện thoại</string>
+  <string name="pet">Thú cưng</string>
+  <string name="sport">Thể thao</string>
+  <string name="snack_and_fastfood">Đồ ăn vặt / Đồ ăn nhanh</string>
+  <string name="others">Khác</string>
+  <string name="salary">Lương</string>
+  <string name="freelancing">Làm nghề tự do</string>
+  <string name="bonus">Tiền thưởng</string>
+  <string name="awards">Giải thưởng</string>
+  <string name="rental">Cho thuê</string>
+  <string name="grants">Trợ cấp</string>
+  <string name="sale">Bán</string>
+  <string name="refunds">Hoàn tiền</string>
+  <string name="coupons">Phiếu giảm giá</string>
+  <string name="lottery">Xổ số</string>
+  <string name="dividends">Cổ tức</string>
+  
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="80dp"
+    android:layout_height="88dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:weightSum="2"
+    android:gravity="center"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:foreground="?attr/selectableItemBackground"
+    tools:ignore="UnusedAttribute"
+    >
+    <androidx.cardview.widget.CardView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        app:cardCornerRadius="32dp"
+        android:backgroundTint="?attr/searchBgColor"
+        app:cardElevation="0dp"
+
+        >
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/ic_shopping"
+            android:id="@+id/frequentCategoryIcon"
+            />
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:layout_marginTop="8dp"
+        android:padding="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/category"
+        style="@style/tertiaryText"
+        android:textAlignment="center"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:id="@+id/frequentCategoryName"
+
+        />
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item>
+        <selector
+            >
+            <item android:state_pressed="false"
+                >
+                <shape
+                    android:shape="rectangle"
+                    >
+
+                    <solid android:color="?attr/selectedRecentCurrencyBgColor"/>
+                    <stroke android:width="1dp" android:color="@color/yellow_500" />
+                    <corners
+                        android:radius="100dp"
+                        />
+                </shape>
+            </item>
+        </selector>
+    </item>
+
+</layer-list>

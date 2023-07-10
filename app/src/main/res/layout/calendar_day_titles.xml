@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="7"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingVertical="5dp"
+    android:background="?attr/calendarHeaderBgColor"
+    >
+
+    <TextView
+        android:fontFamily="@font/inter_400"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:textColor="?attr/calendarHeaderTextColor"
+        android:gravity="center" />
+    <TextView
+        android:fontFamily="@font/inter_400"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:textColor="?attr/calendarHeaderTextColor"
+        android:gravity="center"
+        />
+    <TextView
+        android:fontFamily="@font/inter_400"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:textColor="?attr/calendarHeaderTextColor"
+        android:gravity="center" />
+    <TextView
+        android:fontFamily="@font/inter_400"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:textColor="?attr/calendarHeaderTextColor"
+        android:gravity="center" />
+    <TextView
+        android:fontFamily="@font/inter_400"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:textColor="?attr/calendarHeaderTextColor"
+        android:gravity="center" />
+    <TextView
+        android:fontFamily="@font/inter_400"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:textColor="?attr/calendarHeaderTextColor"
+        android:gravity="center" />
+    <TextView
+        android:fontFamily="@font/inter_400"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:textColor="?attr/calendarHeaderTextColor"
+        android:gravity="center" />
+
+
+</LinearLayout>

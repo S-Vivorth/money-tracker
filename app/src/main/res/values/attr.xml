@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="theme">
+        <attr name="titleColor" format="color"/>
+        <attr name="titleOgColor" format="color"/>
+
+        <attr name="secondaryTitleColor" format="color"/>
+
+        <attr name="cellBgColor" format="color" />
+        <attr name="secondaryCellBgColor" format="color"/>
+        <attr name="secondaryTitle" format="color"/>
+        <attr name="primaryText" format="color"/>
+        <attr name="secondaryText" format="color"/>
+        <attr name="defaultWhiteText" format="color"/>
+        <attr name="tertiaryText" format="color"/>
+        <attr name="bgColor" format="color"/>
+        <attr name="secondaryBgColor" format="color"/>
+        <attr name="tertiaryBgColor" format="color"/>
+        <attr name="quaternaryBgColor" format="color"/>
+        <attr name="quinaryBgColor" format="color" />
+        <attr name="ogBtnColor" format="color"/>
+        <attr name="backBtnBgColor" format="color"/>
+        <attr name="backBtnPressedBgColor" format="color"/>
+        <attr name="defaultIconTint" format="color"/>
+        <attr name="descTextColor" format="color"/>
+        <attr name="editTextStrokeColor" format="color"/>
+        <attr name="strokeBtnBgColor" format="color"/>
+        <attr name="strokeBtnStrokeColor" format="color"/>
+        <attr name="redStrokeBtnStrokeColor" format="color"/>
+        <attr name="redStrokeBtnTextColor" format="color"/>
+        <attr name="greyTextColor" format="color"/>
+        <attr name="secondaryGreyTextColor" format="color"/>
+        <attr name="greyStroke" format="color"/>
+        <attr name="transFilterDownBgColor" format="color" />
+        <attr name="bottomNavigationItemColor" format="color" />
+        <attr name="bottomNavigationItemBgColor" format="color" />
+        <attr name="separatorColor" format="color"/>
+        <attr name="statisticsBgColor" format="color" />
+        <attr name="upgradeProBgColor" format="color" />
+        <attr name="upgradeProTextColor" format="color"/>
+        <attr name="drawerSecondaryBgColor" format="color"/>
+        <attr name="calendarCellSelectedBgColor" format="color" />
+        <attr name="calendarDisableCellTextColor" format="color" />
+        <attr name="calendarHeaderBgColor" format="color" />
+        <attr name="calendarHeaderTextColor" format="color" />
+        <attr name="expenseBgColor" format="color"/>
+        <attr name="incomeBgColor" format="color"/>
+        <attr name="transAmountBgColor" format="color"/>
+        <attr name="editTextHintTextColor" format="color"/>
+        <attr name="secondaryExpenseBgColor" format="color"/>
+        <attr name="secondaryIncomeBgColor" format="color"/>
+        <attr name="tertiaryExpenseBgColor" format="color"/>
+        <attr name="tertiaryIncomeBgColor" format="color" />
+        <attr name="expenseSelectedTextColor" format="color"/>
+        <attr name="incomeSelectedTextColor" format="color"/>
+        <attr name="unselectedIncomeExpenseTextColor" format="color"/>
+        <attr name="buttonDisableBgColor" format="color"/>
+        <attr name="buttonDisabledTextColor" format="color"/>
+        <attr name="expenseButtonBgColor" format="color"/>
+        <attr name="incomeButtonBgColor" format="color"/>
+        <attr name="remarkIconInActiveColor" format="color"/>
+        <attr name="calculatorBgColor" format="color"/>
+        <attr name="selectedRecentCurrencyBgColor" format="color"/>
+        <attr name="nextButtonBgColor" format="color"/>
+        <attr name="nextButtonTextColor" format="color"/>
+        <attr name="searchBgColor" format="color"/>
+        <attr name="yesterdayBgColor" format="color"/>
+        <attr name="todayBgColor" format="color"/>
+        <attr name="tomorrowBgColor" format="color" />
+        <attr name="yesterdayTextColor" format="color"/>
+        <attr name="todayTextColor" format="color"/>
+        <attr name="tomorrowTextColor" format="color" />
+        <attr name="selectedDateTextColor" format="color"/>
+        <attr name="selectedDateBgColor" format="color"/>
+        <attr name="defaultTodayBgColor" format="color"/>
+        <attr name="doneButtonBgColor" format="color"/>
+        <attr name="selectedWalletCellBgColor" format="color"/>
+        <attr name="statisticsSecondaryBgColor" format="color"/>
+        <attr name="editIconColor" format="color"/>
+        <attr name="yellowBtnBgColor" format="color"/>
+        <attr name="deleteIconColor" format="color"/>
+        <attr name="numberOfSharedUserBgColor" format="color"/>
+        <attr name="defaultWalletBgColor" format="color"/>
+        <attr name="arrowForwardIconColor" format="color"/>
+        <attr name="transDateTextColor" format="color"/>
+        <attr name="toastBgColor" format="color" />
+        <attr name="themeSwitchColor" format="color"/>
+        <attr name="foregroundStateBgColor" format="color"/>
+        <attr name="logoutTextColor" format="color"/>
+        <attr name="selectedStateBgColor" format="color"/>
+        <attr name="disableToggleStrokeColor" format="color"/>
+        <attr name="disableThumbTintColor" format="color"/>
+        <attr name="disableToggleFillColor" format="color"/>
+        <attr name="selectedPercentageSwitchBgColor" format="color"/>
+        <attr name="unselectedPercentageSwitchBgColor" format="color"/>
+        <attr name="disabledTextColor" format="color"/>
+        <attr name="budgetIconColor" format="color"/>
+        <attr name="budgetTextColor" format="color"/>
+        <attr name="addButtonColor" format="color"/>
+        <attr name="notificationBgColor" format="color"/>
+        <attr name="transDropDownBgColor" format="color"/>
+        <!--import-->
+        <attr name="colorOnSurfaceVariant" format="color"/>
+        <attr name="colorPrimaryInverse" format="color"/>
+        <attr name="colorOnSurfaceInverse" format="color"/>
+        <attr name="colorPrimaryDarkOutLine" format="color"/>
+        <attr name="colorOnSurface" format="color"/>
+        <attr name="bulkAction" format="color"/>
+        <attr name="textBulkAction" format="color"/>
+        <attr name="iconClose" format="color"/>
+        <attr name="colorTextHead" format="color"/>
+        <attr name="iconCategory" format="color"/>
+        <attr name="iconDelete" format="color"/>
+        <attr name="iconWallet" format="color"/>
+        <attr name="itemSelect" format="color"/>
+        <attr name="colorBgLight" format="color"/>
+        <attr name="colorBgImportDetail" format="color"/>
+        <attr name="colorTextSelectImport" format="color"/>
+        <attr name="colorIconArrowDown" format="color"/>
+        <attr name="colorBgSelect" format="color"/>
+        <attr name="colorTextValue" format="color"/>
+        <attr name="colorNameWallet" format="color"/>
+        <attr name="colorTextBody" format="color"/>
+        <attr name="strokeBg" format="color"/>
+        <attr name="colorTextBottomSheet" format="color"/>
+        <attr name="colorSurfaceRevise" format="color"/>
+        <attr name="surfaceContainer" format="color"/>
+        <attr name="surfaceContainerHigh" format="color"/>
+        <attr name="surface" format="color"/>
+
+    </declare-styleable>
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="io.paraga.moneytrackerdev.views.category.ChooseCategoryFrag"
+    android:background="?attr/bgColor"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/topLayout"
+        android:weightSum="1"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp">
+            <RelativeLayout
+                android:id="@+id/crossIcon"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerVertical="true"
+                android:padding="8dp"
+                android:layout_marginStart="20dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                >
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/cross"
+                    app:tint="?attr/primaryText"
+                    />
+            </RelativeLayout>
+
+
+            <TextView
+                style="@style/secondaryTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/category"
+                android:fontFamily="@font/inter_500"
+                app:fontFamily="@font/inter_500"/>
+            <androidx.cardview.widget.CardView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:cardCornerRadius="12dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="12dp"
+                android:layout_centerVertical="true"
+                android:backgroundTint="?attr/nextButtonBgColor"
+                app:cardElevation="0dp"
+                android:id="@+id/addCategoryBtn"
+                android:foreground="?attr/selectableItemBackground"
+                >
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/add"
+                    tools:ignore="ContentDescription,UnusedAttribute"
+                    app:tint="?attr/nextButtonTextColor"
+                    />
+            </androidx.cardview.widget.CardView>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
+            android:layout_marginTop="8dp"
+            android:textColorHint="@color/light_black_24"
+            >
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/rounded_edittext_100r"
+                android:paddingEnd="48dp"
+                android:paddingStart="53dp"
+                android:inputType="text"
+                android:hint="@string/search_category"
+                android:backgroundTint="?attr/searchBgColor"
+                android:id="@+id/searchView"
+                android:textColorHint="?attr/editTextHintTextColor"
+                />
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_centerVertical="true"
+                android:src="@drawable/search"
+                android:layout_marginStart="20dp"
+                app:tint="?attr/primaryText"
+                />
+
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:text="@string/most_frequent"
+            style="@style/primaryText"
+            android:textColor="?attr/greyTextColor"
+            android:layout_marginTop="32dp"
+            android:fontFamily="@font/inter_500"
+            app:fontFamily="@font/inter_500"
+
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/mostFrequentRecycler"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/all_categories"
+            style="@style/primaryText"
+            android:textColor="?attr/greyTextColor"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="24dp"
+            android:fontFamily="@font/inter_500"
+            app:fontFamily="@font/inter_500"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="24dp"
+            android:id="@+id/categoryRecycler"
+
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

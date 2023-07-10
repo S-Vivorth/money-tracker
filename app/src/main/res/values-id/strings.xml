@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">Trans</string>
+      
+  <string name="calendar">Kalender</string>
+      
+  <string name="statistics">Statistik</string>
+      
+  <string name="settings">Pengaturan</string>
+      
+  <string name="budget">Anggaran</string>
+      
+  <string name="next">Berikutnya</string>
+      
+  <string name="previous">Sebelumnya</string>
+      
+  <string name="welcome">Selamat Datang di</string>
+      
+  <string name="continue_email">Lanjutkan dengan Email</string>
+      
+  <string name="continue_google">Lanjutkan dengan Google</string>
+      
+  <string name="what_is_yr_email">Apa alamat email Anda?</string>
+      
+  <string name="continue_text">Lanjut</string>
+      
+  <string name="login_with_pw">Masuk dengan kata sandi Anda</string>
+      
+  <string name="forget_pw">Lupa Kata Sandi?</string>
+      
+  <string name="login">Masuk</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">Anda menggunakan</string>
+      
+  <string name="to_login">untuk masuk.</string>
+      
+  <string name="create_yr_acc">Buat akun Anda</string>
+      
+  <string name="re_enter_pw_hint">Masukkan kembali kata sandi</string>
+      
+  <string name="signup">Daftar</string>
+      
+  <string name="forgot_pw">Lupa kata sandi Anda?</string>
+      
+  <string name="reset_pw_desc">Untuk mengatur ulang kata sandi Anda, silakan masukkan alamat email akun Anda.</string>
+      
+  <string name="reset_pw">Atur Ulang Kata Sandi</string>
+      
+  <string name="back_to_login">Kembali untuk Masuk</string>
+      
+  <string name="sign_out">Keluar</string>
+      
+  <string name="setting_name">Akun</string>
+      
+  <string name="profile">Profil</string>
+      
+  <string name="account_name">NAMA AKUN</string>
+      
+  <string name="email">EMAIL</string>
+      
+  <string name="change_pw">Ubah Kata Sandi</string>
+      
+  <string name="delete_acc">Hapus Akun</string>
+      
+  <string name="logout">Keluar</string>
+      
+  <string name="edit">Edit</string>
+      
+  <string name="enter_new_pw">Masukan kata sandi baru</string>
+      
+  <string name="re_enter_pw">Masukkan kembali kata sandi</string>
+      
+  <string name="confirm">Konfirmasi</string>
+      
+  <string name="current_pw">Kata sandi saat ini</string>
+      
+  <string name="pw_desc">Panjang kata sandi Anda harus minimal 8 karakter.\nHindari kata sandi atau pola umum.</string>
+      
+  <string name="done">Selesai</string>
+      
+  <string name="update_email">Perbarui Email</string>
+      
+  <string name="enter_email">Masukan email</string>
+      
+  <string name="re_enter_email">Masukkan kembali email</string>
+      
+  <string name="password">Kata sandi</string>
+      
+  <string name="login_as">Masuk sebagai</string>
+      
+  <string name="change_email">Ubah Email</string>
+      
+  <string name="enter_yr_pw">Masukkan kata sandi Anda</string>
+      
+  <string name="personal">Pribadi</string>
+      
+  <string name="save">Simpan</string>
+      
+  <string name="add_transaction">Tambah Transaksi</string>
+      
+  <string name="income">Pendapatan</string>
+      
+  <string name="expense">Pengeluaran</string>
+      
+  <string name="category">Kategori</string>
+      
+  <string name="other">Lainnya</string>
+      
+  <string name="enter_balance">Masukkan Saldo</string>
+      
+  <string name="yr_remark">Catatan Anda</string>
+      
+  <string name="today">Hari ini</string>
+      
+  <string name="choose_category">Pilih kategori</string>
+      
+  <string name="search_by_category">Cari berdasarkan kategori, catatan, dll</string>
+      
+  <string name="most_frequent">Paling Sering</string>
+      
+  <string name="all_categories">Semua Kategori</string>
+      
+  <string name="due_date">Tenggat Waktu</string>
+      
+  <string name="yesterday">Kemarin</string>
+      
+  <string name="tomorrow">Besok</string>
+      
+  <string name="enter_yr_username">Masukkan nama pengguna Anda</string>
+      
+  <string name="change">Ubah</string>
+      
+  <string name="update_password">Perbarui Kata Sandi</string>
+      
+  <string name="search_category">Cari kategori</string>
+      
+  <string name="all_category">Semua Kategori</string>
+      
+  <string name="recent">Terkini</string>
+      
+  <string name="all_wallet">Semua Dompet</string>
+      
+  <string name="total">Total</string>
+      
+  <string name="monthly">Bulanan</string>
+      
+  <string name="all_trans">Semua Trans</string>
+      
+  <string name="calculator_exceed_digit">Anda telah melampaui batas maksimum 15 digit</string>
+      
+  <string name="my_wallet">Dompet Saya</string>
+      
+  <string name="wallet">Dompet</string>
+      
+  <string name="inactive_wallet">Dompet Tidak Aktif</string>
+      
+  <string name="account">Akun</string>
+      
+  <string name="change_language">Ubah Bahasa</string>
+      
+  <string name="dark_theme">Tema Gelap</string>
+      
+  <string name="main_currency">Mata Uang Utama</string>
+      
+  <string name="search_currency">Cari mata uang</string>
+      
+  <string name="review">Tinjau</string>
+      
+  <string name="share">Bagikan</string>
+      
+  <string name="privacy">Kebijakan Privasi</string>
+      
+  <string name="about">Tentang</string>
+      
+  <string name="swap">Tukar</string>
+      
+  <string name="wallet_name">Nama Dompet</string>
+      
+  <string name="initial_balance">Saldo Awal</string>
+      
+  <string name="shared_with">Dibagi dengan</string>
+      
+  <string name="set_as_default">Atur sebagai default</string>
+      
+  <string name="one_user">1 Pengguna</string>
+      
+  <string name="coming_soon">Segera hadir…</string>
+      
+  <string name="Coming_Soon">Segera hadir!</string>
+      
+  <string name="default_wallet">Default</string>
+      
+  <string name="add_expense">Tambah Pengeluaran</string>
+      
+  <string name="adjust_balance">Sesuaikan Saldo</string>
+      
+  <string name="sharing">Berbagi</string>
+      
+  <string name="delete">Hapus</string>
+      
+  <string name="wallet_and_others">Dompet &amp; Lainnya</string>
+      
+  <string name="group_and_people">Grup &amp; Orang</string>
+      
+  <string name="business">Bisnis</string>
+      
+  <string name="tracking_your_expense">Melacak pengeluaran Anda bersama dengan orang-orang terkasih Anda</string>
+      
+  <string name="invite_user">Undang Pengguna</string>
+      
+  <string name="invite">Undang</string>
+      
+  <string name="search_user">Cari pengguna</string>
+      
+  <string name="wallet_color">Warna Dompet</string>
+      
+  <string name="delete_wallet">Hapus Dompet</string>
+      
+  <string name="your_transaction_data">Data transaksi Anda di dompet ini juga akan dihapus. Apakah Anda yakin ingin menghapusnya?</string>
+      
+  <string name="do_u_want_to_delete_trans">Apakah Anda ingin menghapus transaksi ini?</string>
+      
+  <string name="delete_category">Hapus Kategori</string>
+      
+  <string name="do_u_want_to_delete_category">Apakah Anda ingin menghapus kategori ini?</string>
+      
+  <string name="reset_category">Atur Ulang Kategori</string>
+      
+  <string name="reset">Atur Ulang</string>
+      
+  <string name="do_u_want_to_reset_category">Apakah Anda ingin mengatur ulang kategori?</string>
+      
+  <string name="confirm_logout">Konfirmasi Keluar</string>
+      
+  <string name="are_u_sure_you_want_to_logout">Anda yakin ingin keluar?</string>
+      
+  <string name="delete_account">Hapus Akun</string>
+      
+  <string name="type_delete_to_cf">Ketik hapus untuk mengonfirmasi</string>
+      
+  <string name="to_guarantee">Untuk menjamin keamanan, silakan masuk kembali sebelum melanjutkan ke langkah berikutnya</string>
+      
+  <string name="balance">Saldo</string>
+      
+  <string name="upgrade_to_unlock">Tingkatkan untuk membuka kunci semua fitur Premium</string>
+      
+  <string name="upgrade_now">Tingkatkan sekarang</string>
+      
+  <string name="month">Bulan</string>
+      
+  <string name="date">Tanggal</string>
+      
+  <string name="add_new_category">Tambah Kategori Baru</string>
+      
+  <string name="new_category">Kategori Baru</string>
+      
+  <string name="edit_category">Edit Kategori</string>
+      
+  <string name="choose_a_symbol">Pilih simbol</string>
+      
+  <string name="choose_a_wallet">Pilih Dompet</string>
+      
+  <string name="manage_wallet">Kelola Dompet</string>
+      
+  <string name="all_transaction">Semua Transaksi</string>
+      
+  <string name="monthly_duration"> /Bulan</string>
+      
+  <string name="yearly_duration"> /Tahun</string>
+      
+  <string name="with_seven_days_of_free_trial">Dengan Uji Coba Gratis 7 Hari</string>
+      
+  <string name="save_twenty_five_percentage">Hemat 25%</string>
+      
+  <string name="continue_sub">Lanjutkan Langganan</string>
+      
+  <string name="remove_all_ads">Hapus semua Iklan</string>
+      
+  <string name="no_more_interruption">Tidak ada lagi gangguan oleh iklan</string>
+      
+  <string name="accept_policy_description">Akun Google Anda akan ditagih saat Anda mengonfirmasi pembelian. Anda dapat membatalkan langganan Anda kapan saja dengan mematikan perpanjangan otomatis di akun Google Anda setidaknya 24 jam sebelum akhir periode berjalan. Jika tidak, langganan Anda diperpanjang secara otomatis. Menghapus aplikasi tidak secara otomatis membatalkan langganan. Dengan membeli Versi Pro Pelacak Uang, Anda menerima Kebijakan Privasi dan Ketentuan Penggunaan kami.</string>
+      
+  <string name="restore">Pulihkan</string>
+      
+  <string name="search">Cari</string>
+      
+  <string name="amount_category_or_remark">Jumlah, Kategori atau Keterangan..</string>
+      
+  <string name="transaction_is_added">Transaksi ditambahkan</string>
+      
+  <string name="transaction_is_saved">Transaksi disimpan</string>
+      
+  <string name="transaction_is_deleted">Transaksi dihapus</string>
+      
+  <string name="transaction_is_not_saved">Transaksi tidak disimpan</string>
+      
+  <string name="wallet_is_not_created">Dompet tidak dibuat</string>
+      
+  <string name="transaction_is_not_added">Transaksi tidak ditambahkan</string>
+      
+  <string name="is_added">ditambahkan</string>
+      
+  <string name="wallet_is_added">Dompet ditambahkan</string>
+      
+  <string name="wallet_is_delete">Dompet dihapus</string>
+      
+  <string name="no_data_available">Tidak ada data yang tersedia</string>
+      
+  <string name="no_transaction">Tidak Ada Transaksi</string>
+      
+  <string name="tap_to_add">Ketuk + untuk menambahkan transaksi baru.</string>
+      
+  <string name="week_start_at">Minggu Mulai pukul</string>
+      
+  <string name="week_start">Awal Minggu</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">Tunjukkan dukungan Anda</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">Jika Anda senang menggunakan aplikasi ini, dapatkah Anda meluangkan waktu sejenak untuk menilainya? Umpan balik Anda sangat penting bagi kami.</string>
+      
+  <string name="rate_us">Nilai Kami</string>
+      
+  <string name="don_t_like">Tidak Suka</string>
+      
+  <string name="add_widget">Tambah widget</string>
+      
+  <string name="cancel">Batal</string>
+      
+  <string name="type_delete_to_confirm">Ketik \"hapus\" untuk konfirmasi</string>
+      
+  <string name="delete_transaction">Hapus Transaksi</string>
+      
+  <string name="do_you_want_to_delete_transaction">Apakah Anda ingin menghapus transaksi?</string>
+      
+  <string name="category_already_exist">Kategori ini sudah ada!</string>
+      
+  <string name="is_updated"> diperbarui.</string>
+      
+  <string name="is_deleted"> dihapus.</string>
+      
+  <string name="category_has_been_reset_successfully">Kategori telah berhasil diatur ulang!</string>
+      
+  <string name="logged_out_successfully">Anda telah berhasil keluar</string>
+      
+  <string name="reset_link_has_been_sent">Tautan atur ulang telah dikirim ke email Anda.</string>
+      
+  <string name="failed_to_send_reset_link">Gagal mengirim tautan atur ulang.</string>
+      
+  <string name="invalid_email">Alamat email salah!</string>
+      
+  <string name="invalid_password">Kata sandi salah!</string>
+      
+  <string name="invalid_inputs">Masukan tidak valid!</string>
+      
+  <string name="something_went_wrong">Ada yang salah!</string>
+      
+  <string name="password_is_not_matched">Kata sandi tidak cocok!</string>
+      
+  <string name="invalid_password_length">Kata sandi harus sama atau lebih banyak dari 8 karakter.</string>
+      
+  <string name="failed_to_fetch_transaction">Gagal mengambil transaksi!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">Dompet default tidak dapat dihapus!</string>
+      
+  <string name="invalid_trans_amount">Jumlah transaksi tidak valid!</string>
+      
+  <string name="main_currency_is_updated_successfully">Mata uang utama berhasil diperbarui.</string>
+      
+  <string name="password_is_updated_successfully">Kata sandi berhasil diperbarui.</string>
+      
+  <string name="failed_to_update_password">Gagal memperbarui kata sandi!</string>
+      
+  <string name="email_has_been_changed_successfully">Batal</string>
+      
+  <string name="failed_to_change_email">Gagal mengubah email!</string>
+      
+  <string name="subscription_has_been_restored_successfully">Langganan telah berhasil dipulihkan.</string>
+      
+  <string name="failed_to_restore_the_subscription">Gagal memulihkan langganan!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">Fitur premium telah berhasil dibuka.</string>
+      
+  <string name="incorrect_email_or_password">Email atau sandi salah</string>
+      
+  <string name="failed_to_upload_profile">Gagal mengunggah profil ke server.</string>
+      
+  <string name="is_created">dibuat.</string>
+      
+  <string name="create_new">Buat Baru</string>
+      
+  <string name="is_saved">disimpan.</string>
+
+
+  <!--    Category-->
+  <string name="food_and_beverage">Makanan &amp; Minuman</string>
+  <string name="clothing">Pakaian</string>
+  <string name="shopping">Belanja</string>
+  <string name="bill_and_utils">Tagihan &amp; Utilitas</string>
+  <string name="transportation">Transportasi</string>
+  <string name="education">Pendidikan</string>
+  <string name="entertainment">Hiburan</string>
+  <string name="housing">Perumahan</string>
+  <string name="car_and_automotive">Mobil / Otomotif</string>
+  <string name="electronics">Elektronik</string>
+  <string name="wine">Anggur</string>
+  <string name="health">Kesehatan</string>
+  <string name="gift">Hadiah</string>
+  <string name="office">Kantor</string>
+  <string name="furniture">Furnitur</string>
+  <string name="social">Sosial</string>
+  <string name="fruit">Buah</string>
+  <string name="vegetables">Sayuran</string>
+  <string name="travel">Perjalanan</string>
+  <string name="groceries">Bahan makanan</string>
+  <string name="beauty">kecantikan</string>
+  <string name="tax">Pajak</string>
+  <string name="rent">Sewa</string>
+  <string name="insurance">Asuransi</string>
+  <string name="telephone">Telepon</string>
+  <string name="pet">Peliharaan</string>
+  <string name="sport">Olahraga</string>
+  <string name="snack_and_fastfood">Snack / Makanan Cepat Saji</string>
+  <string name="others">Lainnya</string>
+  <string name="salary">Gaji</string>
+  <string name="freelancing">Pekerja lepas</string>
+  <string name="bonus">Bonus</string>
+  <string name="awards">Penghargaan</string>
+  <string name="rental">Sewa</string>
+  <string name="grants">Hibah</string>
+  <string name="sale">Obral</string>
+  <string name="refunds">Pengembalian dana</string>
+  <string name="coupons">Kupon</string>
+  <string name="lottery">Lotere</string>
+  <string name="dividends">Dividen</string>
+  
+</resources>

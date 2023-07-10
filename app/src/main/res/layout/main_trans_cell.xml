@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginBottom="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="12dp"
+    android:minHeight="70dp"
+    app:cardElevation="0dp"
+    app:cardBackgroundColor="?attr/bgColor"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/cellLayout"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp">
+            <LinearLayout
+                android:id="@+id/layout_date"
+                android:layout_marginStart="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_centerVertical="true"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/today"
+                    android:id="@+id/transDate"
+                    style="@style/primaryText"
+                    android:textSize="14sp"
+                    android:layout_marginBottom="4dp"
+                    android:fontFamily="@font/inter_500"
+                    app:fontFamily="@font/inter_500"
+
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/feb_2022"
+                        android:id="@+id/day"
+                        style="@style/tertiaryText"
+                        android:textSize="12sp"
+                        android:textColor="?attr/greyTextColor"
+                        />
+                </LinearLayout>
+
+            </LinearLayout>
+                <TextView
+                    android:paddingStart="12dp"
+                    android:paddingEnd="12dp"
+                    android:id="@+id/totalAmount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/hundred_dollar"
+                    android:textSize="12sp"
+                    android:layout_toStartOf="@id/dropdownBtn"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="4dp"
+                    android:paddingBottom="4dp"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:maxWidth="150dp"
+                    android:background="@drawable/rounded_text"
+                    android:backgroundTint="?attr/tertiaryBgColor"
+                    android:textColor="?attr/greyTextColor" />
+            <ImageView
+                android:id="@+id/dropdownBtn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="16dp"
+                android:src="@drawable/arrow_down"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                app:tint="?attr/primaryText"
+                />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/expandable_layout"
+
+            >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/nestedRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

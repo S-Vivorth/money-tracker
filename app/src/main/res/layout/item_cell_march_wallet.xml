@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="model"
+            type="io.paraga.moneytrackerdev.models.MatchWalletModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_import"
+            android:layout_width="158dp"
+            android:layout_height="48dp"
+            android:background="@drawable/rounded_slight_stroke_8r"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <TextView
+                android:id="@+id/text_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@{model.title_import}"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/inter_400"
+                android:layout_marginStart="12dp"
+                android:layout_marginEnd="12dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/colorDivider"
+            app:layout_constraintEnd_toStartOf="@+id/layout_select"
+            app:layout_constraintStart_toEndOf="@+id/layout_import"
+            app:layout_constraintTop_toTopOf="@+id/layout_import"
+            app:layout_constraintBottom_toBottomOf="@+id/layout_import" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_select"
+            android:layout_width="158dp"
+            android:layout_height="48dp"
+            android:background="@drawable/rounded_slight_stroke_8r_select"
+            app:layout_constraintStart_toEndOf="@+id/divider"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <ImageView
+                android:id="@+id/img_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/add_import"
+                android:layout_marginStart="12dp"
+                android:visibility="visible"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                />
+
+            <TextView
+                android:id="@+id/text_selected"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@{model.title_wallet}"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:fontFamily="@font/inter_400"
+                app:layout_constraintStart_toEndOf="@+id/img_icon"
+                android:layout_marginStart="7dp"
+                android:visibility="visible"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/img_arrow_down"
+                app:layout_constraintBottom_toBottomOf="parent" />
+
+
+
+            <ImageView
+                android:id="@+id/img_arrow_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:baselineAligned="false"
+                android:src="@drawable/check_circle"
+                android:layout_marginEnd="8dp"
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/text_selected"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                tools:ignore="ContentDescription" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,379 @@
+<resources>
+
+    <!-- Bottom Menu -->
+    <string name="trans">Trans</string>
+    <string name="calendar">Calendar</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="budget">Budget</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="welcome">Welcome to</string>
+    <string name="continue_email">Continue with Email</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="what_is_yr_email">What\'s your email\naddress?</string>
+    <string name="continue_text">Continue</string>
+    <string name="login_with_pw">Log in with your\npassword</string>
+    <string name="forget_pw">Forget Password?</string>
+    <string name="login">Log In</string>
+
+    <!-- Maybe need to update to use variable for name (%s) -->
+    <string name="you_r_using">You\'re using&#160;</string>
+    <string name="to_login">to log in.</string>
+
+    <string name="create_yr_acc">Create your account</string>
+    <string name="re_enter_pw_hint">Re-enter password</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot_pw">Forgot your password?</string>
+    <string name="reset_pw_desc">To reset your password, please enter the email address of your account.</string>
+    <string name="reset_pw">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="back">Back</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="setting_name">Account</string>
+    <string name="profile">Profile</string>
+    <string name="account_name">ACCOUNT NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="change_pw">Change Password</string>
+    <string name="delete_acc">Delete Account</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="enter_new_pw">Enter new password</string>
+    <string name="re_enter_pw">Re-enter password</string>
+    <string name="confirm">Confirm</string>
+    <string name="current_pw">Current password</string>
+    <string name="pw_desc">Your password must be at least 8 characters long.\nAvoid common password or pattern.</string>
+    <string name="done">Done</string>
+    <string name="update_email">Update Email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="re_enter_email">Re-enter email</string>
+    <string name="password">Password</string>
+
+    <string name="login_as">Logged in as&#160;</string>
+
+    <string name="change_email">Change Email</string>
+    <string name="enter_yr_pw">Enter your password</string>
+    <string name="personal">Personal</string>
+    <string name="save">Save</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+
+    <string name="category">Category</string>
+    <string name="other">Others</string>
+    <string name="enter_balance">Enter Balance</string>
+    <string name="yr_remark">Your remark</string>
+    <string name="today">Today</string>
+    <string name="choose_category">Choose a category</string>
+    <string name="search_by_category">Search by category, remark, etc</string>
+    <string name="most_frequent">Most Frequent</string>
+    <string name="all_categories">All Categories</string>
+    <string name="due_date">Due  Date</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="enter_yr_username">Enter your username</string>
+    <string name="change">Change</string>
+    <string name="update_password">Update Password</string>
+    <string name="search_category">Search a category</string>
+    <string name="all_category">All Categories</string>
+    <string name="recent">Recent</string>
+
+    <string name="all_wallet">All Wallet</string>
+    <string name="total">Total</string>
+    <string name="monthly">Monthly</string>
+    <string name="all_trans">All Trans</string>
+    <string name="calculator_exceed_digit">You have exceeded the maximum of 15 digits</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="wallet">Wallet</string>
+    <string name="inactive_wallet">Inactive Wallet</string>
+    <string name="account">Account</string>
+    <string name="change_language">Change Language</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="main_currency">Main Currency</string>
+    <string name="search_currency">Search currency</string>
+    <string name="review">Review</string>
+    <string name="share">Share</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="about">About</string>
+    <string name="swap">Swap</string>
+    <string name="wallet_name">Wallet Name</string>
+    <string name="initial_balance">Initial Balance</string>
+    <string name="shared_with">Shared with</string>
+    <string name="set_as_default">Set as default</string>
+    <string name="one_user">1 User</string>
+    <string name="coming_soon">Coming soon…</string>
+    <string name="Coming_Soon">Coming soon!</string>
+    <string name="default_wallet">Default</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="adjust_balance">Adjust Balance</string>
+    <string name="sharing">Sharing</string>
+    <string name="delete">Delete</string>
+    <string name="wallet_and_others">Wallet &amp; Others</string>
+    <string name="group_and_people">Group &amp; People</string>
+    <string name="business">Business</string>
+    <string name="tracking_your_expense">Tracking your expense together with your beloving people</string>
+    <string name="invite_user">Invite User</string>
+    <string name="invite">Invite</string>
+    <string name="search_user">Search user</string>
+    <string name="wallet_color">Wallet Color</string>
+    <string name="delete_wallet">Delete Wallet</string>
+    <string name="your_transaction_data">Your transaction data in this wallet will also delete. Are you sure you want to delete it?</string>
+    <string name="do_u_want_to_delete_trans">Do you want to delete this transaction?</string>
+    <string name="delete_category">Delete Category</string>
+    <string name="do_u_want_to_delete_category">Do you want to delete this category?</string>
+    <string name="reset_category">Reset Category</string>
+    <string name="reset">Reset</string>
+    <string name="do_u_want_to_reset_category">Do you want to reset category?</string>
+    <string name="confirm_logout">Confirm Logout</string>
+    <string name="are_u_sure_you_want_to_logout">Are you sure you want to logout?</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="type_delete_to_cf">Type "delete" to confirm</string>To guarantee security, please re-login before proceeding to the next step
+    <string name="to_guarantee"></string>
+    <string name="balance">Balance</string>
+    <string name="upgrade_to_unlock">Upgrade to unlock all Premium\nfeature</string>
+    <string name="upgrade_now">Upgrade Now</string>
+    <string name="month">Month</string>
+    <string name="date">Date</string>
+
+    <string name="add_new_category">Add New Category</string>
+    <string name="new_category">New Category</string>
+    <string name="edit_category">Edit Category</string>
+    <string name="choose_a_symbol">Choose a symbol</string>
+    <string name="choose_a_wallet">Choose a Wallet</string>
+    <string name="manage_wallet">Manage Wallet</string>
+    <string name="all_transaction">All Transactions</string>
+    <string name="monthly_duration">&#160;/Month</string>
+    <string name="yearly_duration">&#160;/Year</string>
+    <string name="with_seven_days_of_free_trial">With 7 Days Free Trial</string>
+    <string name="save_twenty_five_percentage">Save 25%</string>
+    <string name="continue_sub">Continue Subscription</string>
+    <string name="remove_all_ads">Remove all ADs</string>
+    <string name="no_more_interruption">No more interruption by advertisement</string>
+    <string name="accept_policy_description">Your Google account will be charged when you confirm your purchase. You may cancel your subscription at any time by turning off auto-renew in your Google account at least 24 hours before the end of the current period. Otherwise, your subscription automatically renews. Removing the app doesn’t automatically cancel the subscription. By purchasing Money Tracker Pro Version you accept our Privacy Policy and Terms of Use.</string>
+    <string name="restore">Restore</string>
+    <string name="search">Search</string>
+    <string name="amount_category_or_remark">Amount, Category or Remark..</string>
+    <string name="transaction_is_added">Transaction is added</string>
+    <string name="transaction_is_saved">Transaction is saved</string>
+    <string name="transaction_is_deleted">Transaction is deleted</string>
+    <string name="transaction_is_not_saved">Transaction is not saved</string>
+    <string name="wallet_is_not_created">Wallet is not created</string>
+    <string name="transaction_is_not_added">Transaction is not added</string>
+    <string name="is_added">is added</string>
+
+    <string name="wallet_is_added">Wallet is added</string>
+    <string name="wallet_is_delete">Wallet is delete</string>
+    <string name="no_data_available">No data available</string>
+    <string name="no_transaction">No Transaction</string>
+    <string name="tap_to_add">Tap + to add new transaction.</string>
+    <string name="week_start_at">Week Start at</string>
+    <string name="week_start">Week Start</string>
+
+    <!-- Rate dialog -->
+    <string name="show_your_support">Show your support</string>
+    <string name="money_tracker_pro">Money Tracker Pro</string>
+    <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">If you enjoy using this app, could you take a moment to rate it? Your feedback is very important for us.</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="rate_title">May you take a moment to rate us?</string>
+    <string name="rate_yes">Yes</string>
+    <string name="rate_no">No</string>
+    <string name="don_t_like">Don’t Like</string>
+
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="cancel">Cancel</string>
+    <string name="type_delete_to_confirm">Type “delete” to confirm</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    <string name="do_you_want_to_delete_transaction">Do you want to delete transaction?</string>
+
+    <string name="category_already_exist">This category is already exist!</string>
+    <string name="is_updated">&#160;is updated.</string>
+    <string name="is_deleted">&#160;is deleted.</string>
+    <string name="category_has_been_reset_successfully">Category has been reset successfully!</string>
+    <string name="logged_out_successfully">You have logged out successfully</string>
+    <string name="reset_link_has_been_sent">Reset link has been sent to your email.</string>
+    <string name="failed_to_send_reset_link">Failed to sent reset link.</string>
+    <string name="invalid_email">Invalid email address!</string>
+    <string name="invalid_password">Invalid password!</string>
+    <string name="invalid_inputs">Invalid inputs!</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="password_is_not_matched">Password is not matched!</string>
+    <string name="invalid_password_length">Password must be equal or greater than 8 characters.</string>
+    <string name="failed_to_fetch_transaction">Failed to fetch transaction!</string>
+    <string name="default_wallet_cannot_be_deleted">Default wallet cannot be deleted!</string>
+    <string name="invalid_trans_amount">Invalid transaction amount!</string>
+    <string name="main_currency_is_updated_successfully">Main currency is updated successfully.</string>
+    <string name="password_is_updated_successfully">Password is updated successfully.</string>
+    <string name="failed_to_update_password">Failed to update the password!</string>
+    <string name="email_has_been_changed_successfully">Email has been changed successfully.</string>
+    <string name="failed_to_change_email">Failed to change email!</string>
+    <string name="subscription_has_been_restored_successfully">Subscription has benn restored successfully.</string>
+    <string name="failed_to_restore_the_subscription">Failed to restore the subscription!</string>
+    <string name="premium_feature_has_been_unlocked_successfully">Premium feature has been unlocked successfully.</string>
+    <string name="incorrect_email_or_password">Incorrect email or password</string>
+
+
+    <string name="failed_to_upload_profile">"Failed to upload profile to server."</string>
+    <string name="is_created">is created.</string>
+    <string name="create_new">Create New</string>
+    <string name="is_saved">is saved.</string>
+
+    <!-- Import screen -->
+    <string name="choose_file_to_import">Choose file to import</string>
+    <string name="choose_file">Choose File</string>
+    <string name="only_csv_or_xlsx">Only .csv or .xlsx</string>
+    <string name="import_file">Import File</string>
+    <string name="are_you_sure_you_want_to_import">Are you sure you want to import?</string>
+    <string name="file">File</string>
+    <string name="match_your_colunm_with_data_type">Match your colunm with data type</string>
+    <string name="select">Select</string>
+    <string name="advance_matching">Advance Matching</string>
+    <string name="wallets">Wallets</string>
+    <string name="matching_data_type">Matching Data Type</string>
+    <string name="ingored">Ingored</string>
+    <string name="remark">Remark</string>
+    <string name="amount_auto">Amount (Auto)</string>
+    <string name="system_will_auto_recognized_transaction_type_by_sign">System will auto recognized transaction type\nby (-) sign.</string>
+    <string name="amount_expense">Amount (Expense)</string>
+    <string name="amount_income">Amount (Income)</string>
+    <string name="matching_column_with_category">Matching column with category</string>
+    <string name="match_categories">Matching Categories</string>
+    <string name="action_import_xlxs">Import .XLXS</string>
+    <string name="action_import_xls">Import .XLS</string>
+    <string name="storage_access_required">This app requires your memory access to read excel-sheet files</string>
+    <string name="storage_access_denied">Please goto app settings and grant memory permission. </string>
+
+    <string name="storage_unavailable">Your device does not support storage</string>
+    <string name="empty">Empty</string>
+    <string name="header">Header</string>
+    <string name="verify_data">Verify Data</string>
+    <string name="title_activity_new_budget">NewBudget</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!--    Budget strings-->
+    <string name="new_budget">New Budget</string>
+    <string name="edit_budget">Edit Budget</string>
+    <string name="budget_for">Budget for</string>
+    <string name="period_monthly">Period (Monthly)</string>
+    <string name="amount">Amount</string>
+    <string name="delete_budget">Delete Budget</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="of">&#160;of&#160;</string>
+    <string name="left">&#160;left</string>
+    <string name="all_wallets">All Wallets</string>
+    <string name="over_spending_budget">Over spending</string>
+    <string name="delete_confirmation_text">Are you sure you want to delete it?</string>
+    <string name="return_screen">Are you sure you want to return to the previous screen?</string>
+    <string name="you_have_no_budget">You have no budget</string>
+    <string name="invalid_budget_amount">Budget amount must be greater than zero.</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="edit_wallet">Edit Wallet</string>
+
+    <!--    Choose Language-->
+    <string name="auto">Auto</string>
+    <string name="follow_the_system">Follow the system</string>
+    <string name="english">English</string>
+    <string name="english_us">English(US)</string>
+
+    <string name="import_label">Import</string>
+    <string name="edit_verify"><![CDATA[Edit & Verify]]></string>
+    <string name="bulk_assign">Bulk Assign</string>
+    <string name="select_all">Select All</string>
+    <string name="de_select_all">Deselect All</string>
+    <string name="select_all_income">Select All Income</string>
+    <string name="select_all_expense">Select All Expense</string>
+    <string name="okay">Okay</string>
+    <string name="_return">Return</string>
+    <string name="what_s_new">What’s new?</string>
+
+    <!--    Share User-->
+    <string name="owner">Owner</string>
+    <string name="pending">Pending</string>
+    <string name="rejected">Rejected</string>
+    <string name="you_were_invited_to_join_a_wallet">You were invited to join a wallet</string>
+    <string name="invited">Invited</string>
+    <string name="users">Users</string>
+    <string name="from">from</string>
+    <string name="remove_user">Remove User</string>
+    <string name="are_you_sure_you_want_to_remove_this_user">Are you sure you want to remove this user?</string>
+
+    <!--    Notification-->
+    <string name="notification">Notification</string>
+    <string name="clear_all">Clear all</string>
+    <string name="accept_invite">Accept invite?</string>
+    <string name="reject">Reject</string>
+    <string name="accept">Accept</string>
+    <string name="this_action_is_already_taken">This action has already been taken.</string>
+    <string name="wallet_invitation">Wallet invitation</string>
+    <string name="clear_all_successfully">Notification has been cleared successfully.</string>
+    <string name="delete_all_notification">Delete all notification</string>
+    <string name="no_notification_available">No notification available</string>
+    <string name="invitation_response">Invitation response</string>
+    <string name="your_request_to">Your request to</string>
+    <string name="has_been_rejectd">has been rejected.</string>
+    <string name="has_join_the_wallet">has joined the wallet</string>
+    <string name="leave_wallet">Leave Wallet</string>
+    <string name="are_you_sure_you_want_to_leave_this_wallet">Are you sure you want to leave this wallet?</string>
+    <string name="leave">Leave</string>
+    <string name="default_values">Default Values</string>
+
+
+    <!--    Category-->
+    <string name="food_and_beverage">Food &amp; Beverage</string>
+    <string name="clothing">Clothing</string>
+    <string name="shopping">Shopping</string>
+    <string name="bill_and_utils">Bill &amp; Utilities</string>
+    <string name="transportation">Transportation</string>
+    <string name="education">Education</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="housing">Housing</string>
+    <string name="car_and_automotive">Car / Automotive</string>
+    <string name="electronics">Electronics</string>
+    <string name="wine">Wine</string>
+    <string name="health">Health</string>
+    <string name="gift">Gift</string>
+    <string name="office">Office</string>
+    <string name="furniture">Furniture</string>
+    <string name="social">Social</string>
+    <string name="fruit">Fruit</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="travel">Travel</string>
+    <string name="groceries">Groceries</string>
+    <string name="beauty">beauty</string>
+    <string name="tax">Tax</string>
+    <string name="rent">Rent</string>
+    <string name="insurance">Insurance</string>
+    <string name="telephone">Telephone</string>
+    <string name="pet">Pet</string>
+    <string name="sport">Sport</string>
+    <string name="snack_and_fastfood">Snack / Fastfood</string>
+    <string name="others">Others</string>
+    <string name="salary">Salary</string>
+    <string name="freelancing">Freelancing</string>
+    <string name="bonus">Bonus</string>
+    <string name="awards">Awards</string>
+    <string name="rental">Rental</string>
+    <string name="grants">Grants</string>
+    <string name="sale">Sale</string>
+    <string name="refunds">Refunds</string>
+    <string name="coupons">Coupons</string>
+    <string name="lottery">Lottery</string>
+    <string name="dividends">Dividends</string>
+
+    <string name="locked">Locked</string>
+    <string name="choose_active_wallet">Choose active wallet</string>
+    <string name="as_yr_trial_has_ended">As your trial has ended, pick two wallet to keep active.</string>
+    <string name="your_wallet_data_is_safe">Your wallet data is safe while deactivated and can be retrieved when reactivated.</string>
+    <string name="get_unlimited_wallet_and_features">Get unlimited wallet and features.</string>
+    <string name="trial_expired">Trial expired</string>
+    <string name="expired_description_text">Some features, including wallet functionality, are limited. Upgrade to access all features.</string>
+    <string name="upgrade_premium">Upgrade Premium</string>
+</resources>

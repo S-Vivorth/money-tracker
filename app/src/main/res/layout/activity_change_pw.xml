@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/quaternaryBgColor"
+    tools:context=".views.account.Profile">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:id="@+id/toolbar"
+            >
+
+            <include layout="@layout/back_button_layout"
+                android:id="@+id/backBtnLayout"
+                />
+
+            <TextView
+                style="@style/secondaryTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/inter_500"
+                app:fontFamily="@font/inter_500"
+
+                android:layout_centerInParent="true"
+                android:text="@string/change_pw" />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar"
+            android:orientation="vertical"
+            android:layout_marginTop="25dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:paddingStart="42dp"
+                    android:paddingEnd="50dp"
+                    android:hint="@string/enter_new_pw"
+                    android:id="@+id/newPw"
+                    android:background="@drawable/rounded_edittext"
+                    tools:ignore="RtlSymmetry"
+                    android:autofillHints=""
+                    android:inputType="textPassword"
+                    android:textColorHint="?attr/editTextHintTextColor"
+                    />
+
+                <ImageView
+                    android:id="@+id/newPwLeftIcon"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="11dp"
+                    android:src="@drawable/old_password"
+                    app:tint="?attr/editTextHintTextColor" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="12dp"
+                    app:cardElevation="0dp"
+                    app:cardBackgroundColor="?attr/quaternaryBgColor"
+                    >
+
+                    <ImageView
+                        android:id="@+id/newPwRightIcon"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:padding="4dp"
+                        android:foreground="?attr/selectableItemBackgroundBorderless"
+                        android:src="@drawable/visible"
+                        app:tint="?attr/editTextHintTextColor" />
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:paddingStart="42dp"
+                    android:paddingEnd="50dp"
+                    android:hint="@string/re_enter_pw_hint"
+                    android:id="@+id/reEnterPw"
+                    android:background="@drawable/rounded_edittext"
+                    tools:ignore="RtlSymmetry"
+                    android:autofillHints=""
+                    android:inputType="textPassword"
+                    android:textColorHint="?attr/editTextHintTextColor"
+                    />
+
+                <ImageView
+                    android:id="@+id/reEnterPwLeftIcon"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="11dp"
+                    android:src="@drawable/lock"
+                    app:tint="?attr/editTextHintTextColor" />
+                <androidx.cardview.widget.CardView
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="12dp"
+                    app:cardElevation="0dp"
+                    app:cardBackgroundColor="?attr/quaternaryBgColor"
+                    >
+
+                    <ImageView
+                        android:id="@+id/reEnterPasswordRightIcon"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:padding="4dp"
+                        android:foreground="?attr/selectableItemBackgroundBorderless"
+                        android:src="@drawable/visible"
+                        app:tint="?attr/editTextHintTextColor" />
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:paddingStart="42dp"
+                    android:paddingEnd="50dp"
+                    android:hint="@string/current_pw"
+                    android:id="@+id/currentPw"
+                    android:background="@drawable/rounded_edittext"
+                    tools:ignore="RtlSymmetry"
+                    android:autofillHints=""
+                    android:inputType="textPassword"
+                    android:textColorHint="?attr/editTextHintTextColor"
+                    />
+                <ImageView
+                    android:layout_marginStart="11dp"
+                    android:layout_centerVertical="true"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/lock"
+                    android:id="@+id/currentPwLeftIcon"
+                    app:tint="?attr/editTextHintTextColor"
+                    />
+                <androidx.cardview.widget.CardView
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="12dp"
+                    app:cardElevation="0dp"
+                    app:cardBackgroundColor="?attr/quaternaryBgColor"
+                    >
+
+                    <ImageView
+                        android:padding="4dp"
+
+                        android:id="@+id/currentPwRightIcon"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:foreground="?attr/selectableItemBackgroundBorderless"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/cross"
+                        app:tint="?attr/editTextHintTextColor" />
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pw_desc"
+                android:layout_marginTop="8dp"
+                />
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                app:cardElevation="0dp"
+                app:cardCornerRadius="100dp"
+                android:layout_marginTop="40dp"
+                >
+                <androidx.appcompat.widget.AppCompatButton
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/update_password"
+                    android:textSize="16sp"
+                    android:id="@+id/doneBtn"
+                    android:background="@drawable/rounded_btn_states"
+                    style="@style/Button"
+                    android:stateListAnimator="@null"
+                    android:fontFamily="@font/inter_500"
+                    app:fontFamily="@font/inter_500"
+                    android:foreground="?attr/selectableItemBackground"
+
+                    />
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                app:cardElevation="0dp"
+                app:cardCornerRadius="100dp"
+                android:layout_marginTop="11dp"
+                android:layout_marginHorizontal="106dp"
+                app:cardBackgroundColor="?attr/quaternaryBgColor"
+                >
+                <androidx.appcompat.widget.AppCompatButton
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/forget_pw"
+                    android:textSize="16sp"
+                    android:id="@+id/forgetPwBtn"
+                    android:background="@drawable/rounded_btn_states"
+                    android:backgroundTint="@color/trans"
+                    style="@style/Button"
+                    android:stateListAnimator="@null"
+                    android:fontFamily="@font/inter_500"
+                    app:fontFamily="@font/inter_500"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:textColor="?attr/primaryText"
+                    />
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

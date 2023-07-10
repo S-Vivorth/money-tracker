@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".views.wallet.ChooseActiveWalletFrag"
+    android:background="?attr/colorSurfaceRevise"
+    android:id="@+id/rootLayout">
+
+    <!-- TODO: Update blank fragment layout -->
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:weightSum="1">
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="64dp">
+           <ImageView
+               android:id="@+id/closeBtn"
+               android:layout_width="40dp"
+               android:layout_height="40dp"
+               android:layout_centerVertical="true"
+               android:padding="8dp"
+               android:layout_marginStart="20dp"
+               android:src="@drawable/cross"
+               app:tint="?attr/colorOnSurfaceVariant"
+               android:background="?attr/selectableItemBackgroundBorderless"
+               />
+
+
+           <TextView
+               android:textColor="?attr/primaryText"
+               style="@style/secondaryTitle"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_centerInParent="true"
+               android:fontFamily="@font/inter_500"
+               android:text="@string/choose_active_wallet"
+               app:fontFamily="@font/inter_500" />
+
+           <ImageView
+               android:id="@+id/doneBtn"
+               android:padding="8dp"
+               android:layout_alignParentEnd="true"
+               android:layout_marginEnd="12dp"
+               android:layout_centerVertical="true"
+               android:layout_width="40dp"
+               android:layout_height="40dp"
+               android:layout_gravity="center"
+               android:src="@drawable/tick"
+               tools:ignore="ContentDescription,UnusedAttribute"
+               app:tint="?attr/colorOnSurfaceVariant"
+               android:background="?attr/selectableItemBackgroundBorderless"
+               />
+       </RelativeLayout>
+       <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/as_yr_trial_has_ended"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:textColor="?attr/colorOnSurfaceVariant"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/your_wallet_data_is_safe"
+           android:textSize="14sp"
+           android:layout_marginStart="24dp"
+           android:layout_marginEnd="24dp"
+           android:layout_marginTop="12dp"
+           android:textColor="?attr/colorOnSurfaceVariant"
+           />
+       <androidx.recyclerview.widget.RecyclerView
+           android:layout_width="match_parent"
+           android:layout_height="248dp"
+           android:layout_marginTop="12dp"
+           android:layout_marginBottom="12dp"
+           android:id="@+id/walletRecyclerView"
+           />
+        <Button
+
+            style="@style/Widget.Material3.Button.TonalButton.Icon"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:backgroundTint="?attr/colorPrimary"
+            app:icon="@drawable/ic_rounded_star"
+            app:iconTint="?attr/colorOnPrimary"
+            android:text="@string/get_unlimited_wallet_and_features"
+            android:textColor="?attr/colorOnPrimary"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="40dp"
+            android:id="@+id/subscribeBtn"
+            />
+   </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">Trans</string>
+      
+  <string name="calendar">Takvim</string>
+      
+  <string name="statistics">İstatistik</string>
+      
+  <string name="settings">Ayarlar</string>
+      
+  <string name="budget">Bütçe</string>
+      
+  <string name="next">Sonraki</string>
+      
+  <string name="previous">Öncesi</string>
+      
+  <string name="welcome">Hoşgeldiniz</string>
+      
+  <string name="continue_email">E-posta ile devam et</string>
+      
+  <string name="continue_google">Google ile devam</string>
+      
+  <string name="what_is_yr_email">E-posta &#13;\nadresiniz?</string>
+      
+  <string name="continue_text">Devam et</string>
+      
+  <string name="login_with_pw">Şifrenizle &#13;\ngiriş yapın</string>
+      
+  <string name="forget_pw">Şifreni unuttun mu?</string>
+      
+  <string name="login">Giriş yap</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">kullanıyorsun</string>
+      
+  <string name="to_login">giriş yapmak için.</string>
+      
+  <string name="create_yr_acc">Hesabını oluştur</string>
+      
+  <string name="re_enter_pw_hint">Şifrenizi tekrar girin</string>
+      
+  <string name="signup">Üye olmak</string>
+      
+  <string name="forgot_pw">Parolanızı mı unuttunuz?</string>
+      
+  <string name="reset_pw_desc">Parolanızı sıfırlamak için lütfen hesabınızın e-posta adresini girin.</string>
+      
+  <string name="reset_pw">Şifreyi yenile</string>
+      
+  <string name="back_to_login">Girişe Geri Dön</string>
+      
+  <string name="sign_out">Oturumu Kapat</string>
+      
+  <string name="setting_name">Hesap</string>
+      
+  <string name="profile">Profil</string>
+      
+  <string name="account_name">HESAP ADI</string>
+      
+  <string name="email">E-POSTA</string>
+      
+  <string name="change_pw">Şifre değiştir</string>
+      
+  <string name="delete_acc">Hesabı sil</string>
+      
+  <string name="logout">Çıkış Yap</string>
+      
+  <string name="edit">Düzenlemek</string>
+      
+  <string name="enter_new_pw">Yeni şifreyi girin</string>
+      
+  <string name="re_enter_pw">Şifrenizi tekrar girin</string>
+      
+  <string name="confirm">Onaylamak</string>
+      
+  <string name="current_pw">Mevcut Şifre</string>
+      
+  <string name="pw_desc">Şifreniz en az 8 karakter uzunluğunda olmalıdır.\nOrtak parola veya kalıptan kaçının.</string>
+      
+  <string name="done">Tamamlamak</string>
+      
+  <string name="update_email">E-postayı Güncelle</string>
+      
+  <string name="enter_email">E-posta girin</string>
+      
+  <string name="re_enter_email">E-mail adresinizi yeniden girin</string>
+      
+  <string name="password">Şifre</string>
+      
+  <string name="login_as">olarak giriş yaptı</string>
+      
+  <string name="change_email">Değişim e-posta</string>
+      
+  <string name="enter_yr_pw">Şifrenizi girin</string>
+      
+  <string name="personal">Kişisel</string>
+      
+  <string name="save">Kaydet</string>
+      
+  <string name="add_transaction">İşlem Ekle</string>
+      
+  <string name="income">Gelir</string>
+      
+  <string name="expense">Gider</string>
+      
+  <string name="category">Kategori</string>
+      
+  <string name="other">Diğerleri</string>
+      
+  <string name="enter_balance">Bakiye Gir</string>
+      
+  <string name="yr_remark">Senin yorumun</string>
+      
+  <string name="today">Bugün</string>
+      
+  <string name="choose_category">Bir kategori seçin</string>
+      
+  <string name="search_by_category">Kategoriye, açıklamaya vb. göre arama yapın</string>
+      
+  <string name="most_frequent">En sık</string>
+      
+  <string name="all_categories">Tüm Kategoriler</string>
+      
+  <string name="due_date">Bitiş tarihi</string>
+      
+  <string name="yesterday">Dün</string>
+      
+  <string name="tomorrow">Yarın</string>
+      
+  <string name="enter_yr_username">Kullanıcı adınızı giriniz</string>
+      
+  <string name="change">Değiştirmek</string>
+      
+  <string name="update_password">Şifre güncelle</string>
+      
+  <string name="search_category">Kategori ara</string>
+      
+  <string name="all_category">Tüm Kategoriler</string>
+      
+  <string name="recent">Son</string>
+      
+  <string name="all_wallet">Tüm Cüzdan</string>
+      
+  <string name="total">Toplam</string>
+      
+  <string name="monthly">Aylık</string>
+      
+  <string name="all_trans">Tüm Translar</string>
+      
+  <string name="calculator_exceed_digit">Maksimum 15 haneyi aştınız</string>
+      
+  <string name="my_wallet">Cüzdanım</string>
+      
+  <string name="wallet">Cüzdan</string>
+      
+  <string name="inactive_wallet">Etkin Olmayan Cüzdan</string>
+      
+  <string name="account">Hesap</string>
+      
+  <string name="change_language">Dili değiştir</string>
+      
+  <string name="dark_theme">Koyu Tema</string>
+      
+  <string name="main_currency">Ana Para Birimi</string>
+      
+  <string name="search_currency">Para birimi ara</string>
+      
+  <string name="review">Gözden geçirmek</string>
+      
+  <string name="share">Paylaşmak</string>
+      
+  <string name="privacy">Gizlilik Politikası</string>
+      
+  <string name="about">Hakkında</string>
+      
+  <string name="swap">Takas</string>
+      
+  <string name="wallet_name">Cüzdan Adı</string>
+      
+  <string name="initial_balance">İlk Bakiye</string>
+      
+  <string name="shared_with">İle paylaştı</string>
+      
+  <string name="set_as_default">Varsayılan olarak ayarla</string>
+      
+  <string name="one_user">1 Kullanıcı</string>
+      
+  <string name="coming_soon">Yakında gelecek…</string>
+      
+  <string name="Coming_Soon">Yakında gelecek!</string>
+      
+  <string name="default_wallet">Varsayılan</string>
+      
+  <string name="add_expense">Gider Ekle</string>
+      
+  <string name="adjust_balance">Bakiyeyi Ayarla</string>
+      
+  <string name="sharing">Paylaşım</string>
+      
+  <string name="delete">Silmek</string>
+      
+  <string name="wallet_and_others">Cüzdan ve Diğerleri</string>
+      
+  <string name="group_and_people">Grup ve Kişiler</string>
+      
+  <string name="business">İşletme</string>
+      
+  <string name="tracking_your_expense">Harcamalarınızı sevdiklerinizle birlikte takip edin</string>
+      
+  <string name="invite_user">Kullanıcı Davet</string>
+      
+  <string name="invite">Davet etmek</string>
+      
+  <string name="search_user">Kullanıcı ara</string>
+      
+  <string name="wallet_color">Cüzdan Rengi</string>
+      
+  <string name="delete_wallet">Cüzdanı Sil</string>
+      
+  <string name="your_transaction_data">Bu cüzdandaki işlem verileriniz de silinecektir. Silmek istediğinizden emin misiniz?</string>
+      
+  <string name="do_u_want_to_delete_trans">Bu işlemi silmek istiyor musunuz?</string>
+      
+  <string name="delete_category">Kategoriyi Sil</string>
+      
+  <string name="do_u_want_to_delete_category">Bu kategoriyi silmek istiyor musunuz?</string>
+      
+  <string name="reset_category">Kategoriyi Sıfırla</string>
+      
+  <string name="reset">Sıfırla</string>
+      
+  <string name="do_u_want_to_reset_category">Kategoriyi sıfırlamak istiyor musunuz?</string>
+      
+  <string name="confirm_logout">Oturumu Kapatmayı Onayla</string>
+      
+  <string name="are_u_sure_you_want_to_logout">Oturumu kapatmak istediğinizden emin misiniz?</string>
+      
+  <string name="delete_account">Hesabı sil</string>
+      
+  <string name="type_delete_to_cf">Onaylamak için sil yazın</string>
+      
+  <string name="to_guarantee">Güvenliği garanti etmek için, bir sonraki adıma geçmeden önce lütfen yeniden giriş yapın</string>
+      
+  <string name="balance">Denge</string>
+      
+  <string name="upgrade_to_unlock">Tüm Premium özelliklerin &#13;\nkilidini açmak için yükseltin</string>
+      
+  <string name="upgrade_now">Hemen Yükselt</string>
+      
+  <string name="month">Ay</string>
+      
+  <string name="date">Tarih</string>
+      
+  <string name="add_new_category">Yeni Kategori Ekle</string>
+      
+  <string name="new_category">Yeni kategori</string>
+      
+  <string name="edit_category">Kategoriyi Düzenle</string>
+      
+  <string name="choose_a_symbol">Bir sembol seçin</string>
+      
+  <string name="choose_a_wallet">Bir Cüzdan Seçin</string>
+      
+  <string name="manage_wallet">Cüzdanı Yönet</string>
+      
+  <string name="all_transaction">Tüm İşlemler</string>
+      
+  <string name="monthly_duration"> /Ay</string>
+      
+  <string name="yearly_duration"> /Yıl</string>
+      
+  <string name="with_seven_days_of_free_trial">7 Günlük Ücretsiz Deneme ile</string>
+      
+  <string name="save_twenty_five_percentage">%25 tasarruf edin</string>
+      
+  <string name="continue_sub">Aboneliğe Devam Et</string>
+      
+  <string name="remove_all_ads">Tüm reklamları kaldır</string>
+      
+  <string name="no_more_interruption">Artık reklam kesintisi yok</string>
+      
+  <string name="accept_policy_description">Satın alma işleminizi onayladığınızda Google hesabınızdan ücret alınacaktır. Cari dönemin bitiminden en az 24 saat önce Google hesabınızda otomatik yenilemeyi kapatarak aboneliğinizi istediğiniz zaman iptal edebilirsiniz. Aksi takdirde aboneliğiniz otomatik olarak yenilenir. Uygulamanın kaldırılması, aboneliği otomatik olarak iptal etmez. Money Tracker Pro Sürümü satın alarak Gizlilik Politikamızı ve Kullanım Koşullarımızı kabul etmiş olursunuz.</string>
+      
+  <string name="restore">Eski haline getirmek</string>
+      
+  <string name="search">Aramak</string>
+      
+  <string name="amount_category_or_remark">Miktar, Kategori veya Açıklama..</string>
+      
+  <string name="transaction_is_added">İşlem eklendi</string>
+      
+  <string name="transaction_is_saved">İşlem kaydedildi</string>
+      
+  <string name="transaction_is_deleted">İşlem silindi</string>
+      
+  <string name="transaction_is_not_saved">İşlem kaydedilmedi</string>
+      
+  <string name="wallet_is_not_created">Cüzdan oluşturulmadı</string>
+      
+  <string name="transaction_is_not_added">İşlem eklenmedi</string>
+      
+  <string name="is_added">eklendi</string>
+      
+  <string name="wallet_is_added">Cüzdan eklendi</string>
+      
+  <string name="wallet_is_delete">Cüzdan silindi</string>
+      
+  <string name="no_data_available">Veri yok</string>
+      
+  <string name="no_transaction">İşlem Yok</string>
+      
+  <string name="tap_to_add">Yeni işlem eklemek için +\'ya dokunun.</string>
+      
+  <string name="week_start_at">Hafta Başlangıcı</string>
+      
+  <string name="week_start">Hafta Başlangıcı</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">Desteğini göster</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">Bu uygulamayı kullanmaktan hoşlanıyorsanız, değerlendirmek için bir dakikanızı ayırabilir misiniz? Görüşleriniz bizim için çok önemlidir.</string>
+      
+  <string name="rate_us">Bizi değerlendirin</string>
+      
+  <string name="don_t_like">Beğenmedim</string>
+      
+  <string name="add_widget">Widget ekle</string>
+      
+  <string name="cancel">İptal etmek</string>
+      
+  <string name="type_delete_to_confirm">Onaylamak için \"sil\" yazın</string>
+      
+  <string name="delete_transaction">İşlemi Sil</string>
+      
+  <string name="do_you_want_to_delete_transaction">İşlemi silmek istiyor musunuz?</string>
+      
+  <string name="category_already_exist">Bu kategori zaten var!</string>
+      
+  <string name="is_updated">Güncellendi.</string>
+      
+  <string name="is_deleted">silindi.</string>
+      
+  <string name="category_has_been_reset_successfully">Kategori başarıyla sıfırlandı!</string>
+      
+  <string name="logged_out_successfully">Başarıyla çıkış yaptınız</string>
+      
+  <string name="reset_link_has_been_sent">Sıfırlama bağlantısı e-postanıza gönderildi.</string>
+      
+  <string name="failed_to_send_reset_link">Sıfırlama bağlantısı gönderilemedi.</string>
+      
+  <string name="invalid_email">Geçersiz e-posta adresi!</string>
+      
+  <string name="invalid_password">Geçersiz şifre!</string>
+      
+  <string name="invalid_inputs">Geçersiz girişler!</string>
+      
+  <string name="something_went_wrong">Bir şeyler yanlış gitti!</string>
+      
+  <string name="password_is_not_matched">Şifre eşleşmedi!</string>
+      
+  <string name="invalid_password_length">Parola eşit veya 8 karakterden büyük olmalıdır.</string>
+      
+  <string name="failed_to_fetch_transaction">İşlem getirilemedi!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">Varsayılan cüzdan silinemez!</string>
+      
+  <string name="invalid_trans_amount">Geçersiz işlem tutarı!</string>
+      
+  <string name="main_currency_is_updated_successfully">Ana para birimi başarıyla güncellendi.</string>
+      
+  <string name="password_is_updated_successfully">Şifre başarıyla güncellendi.</string>
+      
+  <string name="failed_to_update_password">Şifre güncellenemedi!</string>
+      
+  <string name="email_has_been_changed_successfully">E-posta başarıyla değiştirildi.</string>
+      
+  <string name="failed_to_change_email">E-posta değiştirilemedi!</string>
+      
+  <string name="subscription_has_been_restored_successfully">Abonelik başarıyla geri yüklendi.</string>
+      
+  <string name="failed_to_restore_the_subscription">Abonelik geri yüklenemedi!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">Premium özelliğin kilidi başarıyla açıldı.</string>
+      
+  <string name="incorrect_email_or_password">Yanlış eposta adresi veya şifre</string>
+      
+  <string name="failed_to_upload_profile">Profil sunucuya yüklenemedi.</string>
+      
+  <string name="is_created">yaratıldı.</string>
+      
+  <string name="create_new">Yeni oluşturmak</string>
+      
+  <string name="is_saved">kurtarıldı.</string>
+
+
+  <!--    Category-->
+  <string name="food_and_beverage">Yiyecek &amp; İçecek</string>
+  <string name="clothing">Giyim</string>
+  <string name="shopping">Alışveriş</string>
+  <string name="bill_and_utils">Fatura &amp; Yardımcı programlar</string>
+  <string name="transportation">Ulaşım</string>
+  <string name="education">Eğitim</string>
+  <string name="entertainment">Eğlence</string>
+  <string name="housing">Konut</string>
+  <string name="car_and_automotive">Araba / Otomotiv</string>
+  <string name="electronics">Elektronik</string>
+  <string name="wine">Şarap</string>
+  <string name="health">Sağlık</string>
+  <string name="gift">Hediye</string>
+  <string name="office">Ofis</string>
+  <string name="furniture">Mobilya</string>
+  <string name="social">Sosyal</string>
+  <string name="fruit">Meyve</string>
+  <string name="vegetables">Sebzeler</string>
+  <string name="travel">Seyahat</string>
+  <string name="groceries">Yiyecekler</string>
+  <string name="beauty">güzellik</string>
+  <string name="tax">Vergi</string>
+  <string name="rent">Kirala</string>
+  <string name="insurance">Sigorta</string>
+  <string name="telephone">Telefon</string>
+  <string name="pet">Pet</string>
+  <string name="sport">Spor</string>
+  <string name="snack_and_fastfood">Atıştırmalık / Fastfood</string>
+  <string name="others">Diğerleri</string>
+  <string name="salary">Maaş</string>
+  <string name="freelancing">Serbest Çalışma</string>
+  <string name="bonus">Bonus</string>
+  <string name="awards">Ödüller</string>
+  <string name="rental">Kiralık</string>
+  <string name="grants">Hibeler</string>
+  <string name="sale">İndirim</string>
+  <string name="refunds">Geri ödemeler</string>
+  <string name="coupons">Kuponlar</string>
+  <string name="lottery">Piyango</string>
+  <string name="dividends">Temettüler</string>
+  
+</resources>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">트랜스</string>
+      
+  <string name="calendar">달력</string>
+      
+  <string name="statistics">통계</string>
+      
+  <string name="settings">설정</string>
+      
+  <string name="budget">예산</string>
+      
+  <string name="next">다음</string>
+      
+  <string name="previous">이전의</string>
+      
+  <string name="welcome">에 오신 것을 환영합니다</string>
+      
+  <string name="continue_email">이메일로 계속</string>
+      
+  <string name="continue_google">Google로 계속하기</string>
+      
+  <string name="what_is_yr_email">귀하의 이메일 주소는 무엇입니까?</string>
+      
+  <string name="continue_text">계속하다</string>
+      
+  <string name="login_with_pw">비밀번호로 로그인</string>
+      
+  <string name="forget_pw">비밀번호 분실?</string>
+      
+  <string name="login">로그인</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">사용 중</string>
+      
+  <string name="to_login">로그인하기.</string>
+      
+  <string name="create_yr_acc">계정 만들기</string>
+      
+  <string name="re_enter_pw_hint">비밀번호를 다시 입력하세요</string>
+      
+  <string name="signup">가입하기</string>
+      
+  <string name="forgot_pw">비밀번호를 잊어 버렸습니까?</string>
+      
+  <string name="reset_pw_desc">비밀번호를 재설정하려면 계정의 이메일 주소를 입력하세요.</string>
+      
+  <string name="reset_pw">암호를 재설정</string>
+      
+  <string name="back_to_login">로그인으로 돌아가기</string>
+      
+  <string name="sign_out">로그아웃</string>
+      
+  <string name="setting_name">계정</string>
+      
+  <string name="profile">프로필</string>
+      
+  <string name="account_name">계정 이름</string>
+      
+  <string name="email">이메일</string>
+      
+  <string name="change_pw">비밀번호 변경</string>
+      
+  <string name="delete_acc">계정 삭제</string>
+      
+  <string name="logout">로그 아웃</string>
+      
+  <string name="edit">편집하다</string>
+      
+  <string name="enter_new_pw">새 비밀번호를 입력하십시오</string>
+      
+  <string name="re_enter_pw">비밀번호를 다시 입력하세요</string>
+      
+  <string name="confirm">확인하다</string>
+      
+  <string name="current_pw">현재 비밀번호</string>
+      
+  <string name="pw_desc">비밀번호는 8자 이상이어야 합니다.\n일반적인 비밀번호나 패턴을 피하십시오.</string>
+      
+  <string name="done">완료</string>
+      
+  <string name="update_email">이메일 업데이트</string>
+      
+  <string name="enter_email">이메일 입력</string>
+      
+  <string name="re_enter_email">이메일을 다시 입력하세요</string>
+      
+  <string name="password">비밀번호</string>
+      
+  <string name="login_as">다음으로 로그인</string>
+      
+  <string name="change_email">이메일을 바꾸다</string>
+      
+  <string name="enter_yr_pw">비밀번호를 입력하세요</string>
+      
+  <string name="personal">개인의</string>
+      
+  <string name="save">구하다</string>
+      
+  <string name="add_transaction">트랜잭션 추가</string>
+      
+  <string name="income">소득</string>
+      
+  <string name="expense">비용</string>
+      
+  <string name="category">범주</string>
+      
+  <string name="other">기타</string>
+      
+  <string name="enter_balance">잔액 입력</string>
+      
+  <string name="yr_remark">귀하의 발언</string>
+      
+  <string name="today">오늘</string>
+      
+  <string name="choose_category">카테고리를 선택하세요</string>
+      
+  <string name="search_by_category">카테고리, 비고 등으로 검색</string>
+      
+  <string name="most_frequent">가장 빈번한</string>
+      
+  <string name="all_categories">모든 카테고리</string>
+      
+  <string name="due_date">마감일</string>
+      
+  <string name="yesterday">어제</string>
+      
+  <string name="tomorrow">내일</string>
+      
+  <string name="enter_yr_username">사용자 이름을 입력하세요</string>
+      
+  <string name="change">변화</string>
+      
+  <string name="update_password">비밀번호 업데이트</string>
+      
+  <string name="search_category">카테고리 검색</string>
+      
+  <string name="all_category">모든 카테고리</string>
+      
+  <string name="recent">최근의</string>
+      
+  <string name="all_wallet">모든 지갑</string>
+      
+  <string name="total">총</string>
+      
+  <string name="monthly">월간 간행물</string>
+      
+  <string name="all_trans">모든 트랜스</string>
+      
+  <string name="calculator_exceed_digit">최대 15자리를 초과했습니다.</string>
+      
+  <string name="my_wallet">내 지갑</string>
+      
+  <string name="wallet">지갑</string>
+      
+  <string name="inactive_wallet">비활성 지갑</string>
+      
+  <string name="account">계정</string>
+      
+  <string name="change_language">언어 변경</string>
+      
+  <string name="dark_theme">어두운 테마</string>
+      
+  <string name="main_currency">주요 통화</string>
+      
+  <string name="search_currency">통화 검색</string>
+      
+  <string name="review">검토</string>
+      
+  <string name="share">공유하다</string>
+      
+  <string name="privacy">개인 정보 정책</string>
+      
+  <string name="about">에 대한</string>
+      
+  <string name="swap">교환</string>
+      
+  <string name="wallet_name">지갑 이름</string>
+      
+  <string name="initial_balance">초기 잔액</string>
+      
+  <string name="shared_with">와 공유 된</string>
+      
+  <string name="set_as_default">기본값으로 설정</string>
+      
+  <string name="one_user">1 사용자</string>
+      
+  <string name="coming_soon">곧…</string>
+      
+  <string name="Coming_Soon">곧!</string>
+      
+  <string name="default_wallet">기본</string>
+      
+  <string name="add_expense">비용 추가</string>
+      
+  <string name="adjust_balance">밸런스 조정</string>
+      
+  <string name="sharing">나누는</string>
+      
+  <string name="delete">삭제</string>
+      
+  <string name="wallet_and_others">지갑 및 기타</string>
+      
+  <string name="group_and_people">그룹 및 사람</string>
+      
+  <string name="business">사업</string>
+      
+  <string name="tracking_your_expense">사랑하는 사람들과 함께 비용을 추적</string>
+      
+  <string name="invite_user">사용자 초대</string>
+      
+  <string name="invite">초대하다</string>
+      
+  <string name="search_user">사용자 검색</string>
+      
+  <string name="wallet_color">지갑 색상</string>
+      
+  <string name="delete_wallet">지갑 삭제</string>
+      
+  <string name="your_transaction_data">이 지갑의 거래 데이터도 삭제됩니다. 삭제하시겠습니까?</string>
+      
+  <string name="do_u_want_to_delete_trans">이 거래를 삭제하시겠습니까?</string>
+      
+  <string name="delete_category">카테고리 삭제</string>
+      
+  <string name="do_u_want_to_delete_category">이 카테고리를 삭제하시겠습니까?</string>
+      
+  <string name="reset_category">재설정 카테고리</string>
+      
+  <string name="reset">초기화</string>
+      
+  <string name="do_u_want_to_reset_category">카테고리를 재설정하시겠습니까?</string>
+      
+  <string name="confirm_logout">로그아웃 확인</string>
+      
+  <string name="are_u_sure_you_want_to_logout">로그아웃하시겠습니까?</string>
+      
+  <string name="delete_account">계정 삭제</string>
+      
+  <string name="type_delete_to_cf">삭제를 입력하여 확인</string>
+      
+  <string name="to_guarantee">보안을 위해 다음 단계로 진행하기 전에 다시 로그인하십시오.</string>
+      
+  <string name="balance">균형</string>
+      
+  <string name="upgrade_to_unlock">업그레이드하여 모든 프리미엄 기능 잠금 해제</string>
+      
+  <string name="upgrade_now">지금 업그레이드</string>
+      
+  <string name="month">월</string>
+      
+  <string name="date">날짜</string>
+      
+  <string name="add_new_category">새 카테고리 추가</string>
+      
+  <string name="new_category">새 분류</string>
+      
+  <string name="edit_category">카테고리 편집</string>
+      
+  <string name="choose_a_symbol">심볼 선택</string>
+      
+  <string name="choose_a_wallet">지갑 선택</string>
+      
+  <string name="manage_wallet">지갑 관리</string>
+      
+  <string name="all_transaction">모든 거래 창구</string>
+      
+  <string name="monthly_duration"> /월</string>
+      
+  <string name="yearly_duration"> /년도</string>
+      
+  <string name="with_seven_days_of_free_trial">7일 무료 평가판 포함</string>
+      
+  <string name="save_twenty_five_percentage">25% 할인</string>
+      
+  <string name="continue_sub">계속 구독</string>
+      
+  <string name="remove_all_ads">모든 광고 제거</string>
+      
+  <string name="no_more_interruption">더 이상 광고로 인한 중단 없음</string>
+      
+  <string name="accept_policy_description">구매를 확인하면 Google 계정에 요금이 청구됩니다. 현재 기간이 종료되기 최소 24시간 전에 Google 계정에서 자동 갱신을 해제하여 언제든지 구독을 취소할 수 있습니다. 그렇지 않으면 구독이 자동으로 갱신됩니다. 앱을 제거해도 구독이 자동으로 취소되지 않습니다. Money Tracker Pro 버전을 구매하면 개인 정보 보호 정책 및 이용 약관에 동의하는 것입니다.</string>
+      
+  <string name="restore">복원하다</string>
+      
+  <string name="search">찾다</string>
+      
+  <string name="amount_category_or_remark">금액, 카테고리 또는 비고..</string>
+      
+  <string name="transaction_is_added">트랜잭션이 추가됨</string>
+      
+  <string name="transaction_is_saved">거래가 저장되었습니다</string>
+      
+  <string name="transaction_is_deleted">거래가 삭제되었습니다</string>
+      
+  <string name="transaction_is_not_saved">거래가 저장되지 않음</string>
+      
+  <string name="wallet_is_not_created">지갑이 생성되지 않음</string>
+      
+  <string name="transaction_is_not_added">트랜잭션이 추가되지 않음</string>
+      
+  <string name="is_added">추가된다</string>
+      
+  <string name="wallet_is_added">지갑이 추가되었습니다</string>
+      
+  <string name="wallet_is_delete">지갑 삭제</string>
+      
+  <string name="no_data_available">자료 없음</string>
+      
+  <string name="no_transaction">거래 없음</string>
+      
+  <string name="tap_to_add">새 트랜잭션을 추가하려면 +를 누릅니다.</string>
+      
+  <string name="week_start_at">주 시작 시간</string>
+      
+  <string name="week_start">주 시작</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">당신의 지원을 보여</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">이 앱을 즐겨 사용하신다면 잠시 시간을 내어 평가해 주시겠습니까? 귀하의 피드백은 우리에게 매우 중요합니다.</string>
+      
+  <string name="rate_us">평가하기</string>
+      
+  <string name="don_t_like">싫어요</string>
+      
+  <string name="add_widget">위젯 추가</string>
+      
+  <string name="cancel">취소</string>
+      
+  <string name="type_delete_to_confirm">확인하려면 \"삭제\"를 입력하십시오.</string>
+      
+  <string name="delete_transaction">트랜잭션 삭제</string>
+      
+  <string name="do_you_want_to_delete_transaction">거래를 삭제하시겠습니까?</string>
+      
+  <string name="category_already_exist">이 카테고리는 이미 존재합니다!</string>
+      
+  <string name="is_updated">업데이트됩니다.</string>
+      
+  <string name="is_deleted">삭제됩니다.</string>
+      
+  <string name="category_has_been_reset_successfully">카테고리가 성공적으로 재설정되었습니다!</string>
+      
+  <string name="logged_out_successfully">성공적으로 로그아웃했습니다</string>
+      
+  <string name="reset_link_has_been_sent">재설정 링크가 이메일로 전송되었습니다.</string>
+      
+  <string name="failed_to_send_reset_link">재설정 링크를 보내지 못했습니다.</string>
+      
+  <string name="invalid_email">잘못된 이메일 주소!</string>
+      
+  <string name="invalid_password">유효하지 않은 비밀번호!</string>
+      
+  <string name="invalid_inputs">입력이 잘못되었습니다!</string>
+      
+  <string name="something_went_wrong">문제가 발생했습니다.</string>
+      
+  <string name="password_is_not_matched">비밀번호가 일치하지 않습니다!</string>
+      
+  <string name="invalid_password_length">비밀번호는 8자 이상이어야 합니다.</string>
+      
+  <string name="failed_to_fetch_transaction">트랜잭션을 가져오지 못했습니다!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">기본 지갑은 삭제할 수 없습니다!</string>
+      
+  <string name="invalid_trans_amount">잘못된 거래 금액!</string>
+      
+  <string name="main_currency_is_updated_successfully">주요 통화가 성공적으로 업데이트되었습니다.</string>
+      
+  <string name="password_is_updated_successfully">비밀번호가 성공적으로 업데이트되었습니다.</string>
+      
+  <string name="failed_to_update_password">비밀번호를 업데이트하지 못했습니다!</string>
+      
+  <string name="email_has_been_changed_successfully">이메일이 성공적으로 변경되었습니다.</string>
+      
+  <string name="failed_to_change_email">이메일 변경 실패!</string>
+      
+  <string name="subscription_has_been_restored_successfully">구독이 성공적으로 복원되었습니다.</string>
+      
+  <string name="failed_to_restore_the_subscription">구독을 복원하지 못했습니다!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">프리미엄 기능이 성공적으로 잠금 해제되었습니다.</string>
+      
+  <string name="incorrect_email_or_password">이메일이나 비밀번호가 틀 렸습니다</string>
+      
+  <string name="failed_to_upload_profile">프로필을 서버에 업로드하지 못했습니다.</string>
+      
+  <string name="is_created">생성됩니다.</string>
+      
+  <string name="create_new">새로 만들기</string>
+      
+  <string name="is_saved">저장됩니다.</string>
+
+  <!--    Category-->
+  <string name="food_and_beverage">식품 및 음료 음료</string>
+  <string name="clothing">의류</string>
+  <string name="shopping">쇼핑</string>
+  <string name="bill_and_utils">청구서 &amp; 유틸리티</string>
+  <string name="transportation">교통수단</string>
+  <string name="education">교육</string>
+  <string name="entertainment">엔터테인먼트</string>
+  <string name="housing">주택</string>
+  <string name="car_and_automotive">자동차 / 자동차</string>
+  <string name="electronics">전자제품</string>
+  <string name="wine">와인</string>
+  <string name="health">건강</string>
+  <string name="gift">선물</string>
+  <string name="office">사무실</string>
+  <string name="furniture">가구</string>
+  <string name="social">소셜</string>
+  <string name="fruit">과일</string>
+  <string name="vegetables">야채</string>
+  <string name="travel">여행</string>
+  <string name="groceries">식료품</string>
+  <string name="beauty">아름다움</string>
+  <string name="tax">세금</string>
+  <string name="rent">임대</string>
+  <string name="insurance">보험</string>
+  <string name="telephone">전화</string>
+  <string name="pet">펫</string>
+  <string name="sport">스포츠</string>
+  <string name="snack_and_fastfood">간식/패스트푸드</string>
+  <string name="others">기타</string>
+  <string name="salary">급여</string>
+  <string name="freelancing">프리랜서</string>
+  <string name="bonus">보너스</string>
+  <string name="awards">수상</string>
+  <string name="rental">대여</string>
+  <string name="grants">보조금</string>
+  <string name="sale">세일</string>
+  <string name="refunds">환불</string>
+  <string name="coupons">쿠폰</string>
+  <string name="lottery">복권</string>
+  <string name="dividends">배당금</string>
+  
+</resources>

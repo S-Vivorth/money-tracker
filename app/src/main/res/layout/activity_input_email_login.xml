@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.auth.InputEmailLogin"
+    android:background="?attr/quaternaryBgColor">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp">
+            <include layout="@layout/back_button_layout"
+                android:id="@+id/backBtn"
+                />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/what_is_yr_email"
+            style="@style/title"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="23dp"
+            >
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:paddingStart="42dp"
+                android:paddingEnd="50dp"
+                android:hint="@string/email_hint"
+                android:id="@+id/emailText"
+                android:background="@drawable/rounded_edittext"
+                tools:ignore="RtlSymmetry"
+                android:autofillHints=""
+                android:inputType="textEmailAddress"
+                android:focusableInTouchMode="true"
+                android:clickable="true"
+                android:focusable="true"
+                style="@style/editText"
+                android:textColorHint="?attr/editTextHintTextColor"
+                />
+            <ImageView
+                android:layout_marginStart="8dp"
+                android:layout_centerVertical="true"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/email"
+                android:id="@+id/emailIcon"
+                app:tint="?attr/editTextHintTextColor"
+                />
+            <androidx.cardview.widget.CardView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="12dp"
+                android:id="@+id/clearAllBtn"
+                app:cardElevation="0dp"
+                app:cardBackgroundColor="@color/transparent"
+                >
+
+                <ImageView
+                    android:id="@+id/crossIcon"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:padding="4dp"
+                    android:src="@drawable/cross"
+                    android:foreground="?attr/selectableItemBackgroundBorderless"
+                    app:tint="?attr/editTextHintTextColor" />
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            app:cardElevation="0dp"
+            app:cardCornerRadius="100dp"
+            android:layout_marginTop="24dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            >
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="@string/continue_text"
+                android:id="@+id/ctnEmailLoginBtn"
+                android:background="@drawable/rounded_btn_states"
+                style="@style/Button"
+                android:stateListAnimator="@null"
+                app:fontFamily="@font/inter_500"
+                android:foreground="?attr/selectableItemBackgroundBorderless"
+                />
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</RelativeLayout>

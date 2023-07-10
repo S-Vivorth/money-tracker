@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">Trans</string>
+      
+  <string name="calendar">Kalender</string>
+      
+  <string name="statistics">Statistik</string>
+      
+  <string name="settings">Inställningar</string>
+      
+  <string name="budget">Budget</string>
+      
+  <string name="next">Nästa</string>
+      
+  <string name="previous">Tidigare</string>
+      
+  <string name="welcome">Välkommen till</string>
+      
+  <string name="continue_email">Fortsätt med e-post</string>
+      
+  <string name="continue_google">Fortsätt med Google</string>
+      
+  <string name="what_is_yr_email">Vad är din e-post&#13;\nadress?</string>
+      
+  <string name="continue_text">Fortsätta</string>
+      
+  <string name="login_with_pw">Logga in med ditt&#13;\nlösenord</string>
+      
+  <string name="forget_pw">Glömt lösenord?</string>
+      
+  <string name="login">Logga in</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">Du använder </string>
+      
+  <string name="to_login">för att logga in.</string>
+      
+  <string name="create_yr_acc">Skapa ditt konto</string>
+      
+  <string name="re_enter_pw_hint">Skriv lösenordet igen</string>
+      
+  <string name="signup">Bli Medlem</string>
+      
+  <string name="forgot_pw">Glömt ditt lösenord?</string>
+      
+  <string name="reset_pw_desc">För att återställa ditt lösenord, vänligen ange e-postadressen till ditt konto.</string>
+      
+  <string name="reset_pw">Återställ lösenord</string>
+      
+  <string name="back_to_login">Tillbaka till logga in</string>
+      
+  <string name="sign_out">Logga ut</string>
+      
+  <string name="setting_name">Konto</string>
+      
+  <string name="profile">Profil</string>
+      
+  <string name="account_name">KONTONAMN</string>
+      
+  <string name="email">E-POST</string>
+      
+  <string name="change_pw">Ändra lösenord</string>
+      
+  <string name="delete_acc">Radera konto</string>
+      
+  <string name="logout">Logga ut</string>
+      
+  <string name="edit">Redigera</string>
+      
+  <string name="enter_new_pw">Ange nytt lösenord</string>
+      
+  <string name="re_enter_pw">Skriv lösenordet igen</string>
+      
+  <string name="confirm">Bekräfta</string>
+      
+  <string name="current_pw">Nuvarande lösenord</string>
+      
+  <string name="pw_desc">Ditt lösenord måste vara minst 8 tecken långt.\nUndvik vanligt lösenord eller mönster.</string>
+      
+  <string name="done">Gjort</string>
+      
+  <string name="update_email">Uppdatera e-post</string>
+      
+  <string name="enter_email">Skriv in e-post</string>
+      
+  <string name="re_enter_email">Ange e-post igen</string>
+      
+  <string name="password">Lösenord</string>
+      
+  <string name="login_as">Inloggad som </string>
+      
+  <string name="change_email">Byta e-post</string>
+      
+  <string name="enter_yr_pw">Ange ditt lösenord</string>
+      
+  <string name="personal">Personlig</string>
+      
+  <string name="save">Spara</string>
+      
+  <string name="add_transaction">Lägg till transaktion</string>
+      
+  <string name="income">Inkomst</string>
+      
+  <string name="expense">Bekostnad</string>
+      
+  <string name="category">Kategori</string>
+      
+  <string name="other">Andra</string>
+      
+  <string name="enter_balance">Ange saldo</string>
+      
+  <string name="yr_remark">Din kommentar</string>
+      
+  <string name="today">I dag</string>
+      
+  <string name="choose_category">Välj en kategori</string>
+      
+  <string name="search_by_category">Sök efter kategori, anmärkning osv</string>
+      
+  <string name="most_frequent">Mest frekvent</string>
+      
+  <string name="all_categories">Alla kategorier</string>
+      
+  <string name="due_date">Förfallo  datum</string>
+      
+  <string name="yesterday">I går</string>
+      
+  <string name="tomorrow">I morgon</string>
+      
+  <string name="enter_yr_username">Skriv in ditt användarnamn</string>
+      
+  <string name="change">Förändra</string>
+      
+  <string name="update_password">Uppdatera lösenord</string>
+      
+  <string name="search_category">Sök efter en kategori</string>
+      
+  <string name="all_category">Alla kategorier</string>
+      
+  <string name="recent">Nyligen</string>
+      
+  <string name="all_wallet">Alla plånböcker</string>
+      
+  <string name="total">Total</string>
+      
+  <string name="monthly">En gång i månaden</string>
+      
+  <string name="all_trans">Alla Trans</string>
+      
+  <string name="calculator_exceed_digit">Du har överskridit det maximala antalet 15 siffror</string>
+      
+  <string name="my_wallet">Min plånbok</string>
+      
+  <string name="wallet">Plånbok</string>
+      
+  <string name="inactive_wallet">Inaktiv plånbok</string>
+      
+  <string name="account">Konto</string>
+      
+  <string name="change_language">Ändra språk</string>
+      
+  <string name="dark_theme">Mörkt tema</string>
+      
+  <string name="main_currency">Huvudvaluta</string>
+      
+  <string name="search_currency">Sök valuta</string>
+      
+  <string name="review">Recension</string>
+      
+  <string name="share">Dela med sig</string>
+      
+  <string name="privacy">Integritetspolicy</string>
+      
+  <string name="about">Handla om</string>
+      
+  <string name="swap">Byta</string>
+      
+  <string name="wallet_name">Plånbokens namn</string>
+      
+  <string name="initial_balance">Ursprunglig balans</string>
+      
+  <string name="shared_with">Delad med</string>
+      
+  <string name="set_as_default">Ange som standard</string>
+      
+  <string name="one_user">1 användare</string>
+      
+  <string name="coming_soon">Kommer snart…</string>
+      
+  <string name="Coming_Soon">Kommer snart!</string>
+      
+  <string name="default_wallet">Standard</string>
+      
+  <string name="add_expense">Lägg till kostnad</string>
+      
+  <string name="adjust_balance">Justera balans</string>
+      
+  <string name="sharing">Delning</string>
+      
+  <string name="delete">Radera</string>
+      
+  <string name="wallet_and_others">Plånbok och annat</string>
+      
+  <string name="group_and_people">Grupp och människor</string>
+      
+  <string name="business">Företag</string>
+      
+  <string name="tracking_your_expense">Spåra dina utgifter tillsammans med dina älskade människor</string>
+      
+  <string name="invite_user">Bjud in användare</string>
+      
+  <string name="invite">Bjuda</string>
+      
+  <string name="search_user">Sök användare</string>
+      
+  <string name="wallet_color">Plånbokens färg</string>
+      
+  <string name="delete_wallet">Ta bort Wallet</string>
+      
+  <string name="your_transaction_data">Din transaktionsdata i den här plånboken kommer också att raderas. Är du säker på att du vill ta bort den?</string>
+      
+  <string name="do_u_want_to_delete_trans">Vill du ta bort den här transaktionen?</string>
+      
+  <string name="delete_category">Ta bort kategori</string>
+      
+  <string name="do_u_want_to_delete_category">Vill du ta bort den här kategorin?</string>
+      
+  <string name="reset_category">Återställ kategori</string>
+      
+  <string name="reset">Återställa</string>
+      
+  <string name="do_u_want_to_reset_category">Vill du återställa kategori?</string>
+      
+  <string name="confirm_logout">Bekräfta utloggning</string>
+      
+  <string name="are_u_sure_you_want_to_logout">Är du säker på att du vill logga ut?</string>
+      
+  <string name="delete_account">Radera konto</string>
+      
+  <string name="type_delete_to_cf">Skriv radera för att bekräfta</string>
+      
+  <string name="to_guarantee">För att garantera säkerheten, vänligen logga in igen innan du fortsätter till nästa steg</string>
+      
+  <string name="balance">Saldo</string>
+      
+  <string name="upgrade_to_unlock">Uppgradera för att låsa upp alla Premium&#13;\n-funktioner</string>
+      
+  <string name="upgrade_now">Uppgradera nu</string>
+      
+  <string name="month">Månad</string>
+      
+  <string name="date">Datum</string>
+      
+  <string name="add_new_category">Lägg till ny kategori</string>
+      
+  <string name="new_category">Ny kategori</string>
+      
+  <string name="edit_category">Redigera kategori</string>
+      
+  <string name="choose_a_symbol">Välj en symbol</string>
+      
+  <string name="choose_a_wallet">Välj en plånbok</string>
+      
+  <string name="manage_wallet">Hantera plånbok</string>
+      
+  <string name="all_transaction">Alla transaktioner</string>
+      
+  <string name="monthly_duration"> /Månad</string>
+      
+  <string name="yearly_duration"> /År</string>
+      
+  <string name="with_seven_days_of_free_trial">Med 7 dagars gratis provperiod</string>
+      
+  <string name="save_twenty_five_percentage">Spara 25%</string>
+      
+  <string name="continue_sub">Fortsätt prenumeration</string>
+      
+  <string name="remove_all_ads">Ta bort alla annonser</string>
+      
+  <string name="no_more_interruption">Inget mer avbrott av reklam</string>
+      
+  <string name="accept_policy_description">Ditt Google-konto kommer att debiteras när du bekräftar ditt köp. Du kan avbryta din prenumeration när som helst genom att stänga av automatisk förnyelse i ditt Google-konto minst 24 timmar före slutet av den aktuella perioden. Annars förnyas din prenumeration automatiskt. Att ta bort appen avslutar inte automatiskt prenumerationen. Genom att köpa Money Tracker Pro Version accepterar du vår integritetspolicy och användarvillkor.</string>
+      
+  <string name="restore">Återställ</string>
+      
+  <string name="search">Sök</string>
+      
+  <string name="amount_category_or_remark">Belopp, kategori eller anmärkning..</string>
+      
+  <string name="transaction_is_added">Transaktionen läggs till</string>
+      
+  <string name="transaction_is_saved">Transaktionen sparas</string>
+      
+  <string name="transaction_is_deleted">Transaktionen raderas</string>
+      
+  <string name="transaction_is_not_saved">Transaktionen sparas inte</string>
+      
+  <string name="wallet_is_not_created">Plånboken har inte skapats</string>
+      
+  <string name="transaction_is_not_added">Transaktionen läggs inte till</string>
+      
+  <string name="is_added">är adderat</string>
+      
+  <string name="wallet_is_added">Plånboken läggs till</string>
+      
+  <string name="wallet_is_delete">Plånboken raderas</string>
+      
+  <string name="no_data_available">Ingen data tillgänglig</string>
+      
+  <string name="no_transaction">Ingen transaktion</string>
+      
+  <string name="tap_to_add">Tryck på + för att lägga till ny transaktion.</string>
+      
+  <string name="week_start_at">Veckan börjar kl</string>
+      
+  <string name="week_start">Veckans start</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">Visa ditt stöd</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">Om du gillar att använda den här appen, kan du ta en stund att betygsätta den? Din feedback är mycket viktig för oss.</string>
+      
+  <string name="rate_us">Gradera oss</string>
+      
+  <string name="don_t_like">Gillar inte</string>
+      
+  <string name="add_widget">Lägg till widget</string>
+      
+  <string name="cancel">Annullera</string>
+      
+  <string name="type_delete_to_confirm">Skriv \"radera\" för att bekräfta</string>
+      
+  <string name="delete_transaction">Ta bort transaktion</string>
+      
+  <string name="do_you_want_to_delete_transaction">Vill du radera transaktionen?</string>
+      
+  <string name="category_already_exist">Denna kategori finns redan!</string>
+      
+  <string name="is_updated"> är uppdaterad.</string>
+      
+  <string name="is_deleted"> är raderad.</string>
+      
+  <string name="category_has_been_reset_successfully">Kategori har återställts framgångsrikt!</string>
+      
+  <string name="logged_out_successfully">Du har loggat ut framgångsrikt</string>
+      
+  <string name="reset_link_has_been_sent">Återställningslänk har skickats till din e-post.</string>
+      
+  <string name="failed_to_send_reset_link">Det gick inte att skicka återställningslänk.</string>
+      
+  <string name="invalid_email">Ogiltig e-postadress!</string>
+      
+  <string name="invalid_password">Felaktigt lösenord!</string>
+      
+  <string name="invalid_inputs">Ogiltiga ingångar!</string>
+      
+  <string name="something_went_wrong">Något gick fel!</string>
+      
+  <string name="password_is_not_matched">Lösenordet matchas inte!</string>
+      
+  <string name="invalid_password_length">Lösenordet måste vara lika med eller större än 8 tecken.</string>
+      
+  <string name="failed_to_fetch_transaction">Det gick inte att hämta transaktionen!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">Standardplånboken kan inte raderas!</string>
+      
+  <string name="invalid_trans_amount">Ogiltigt transaktionsbelopp!</string>
+      
+  <string name="main_currency_is_updated_successfully">Huvudvalutan har uppdaterats framgångsrikt.</string>
+      
+  <string name="password_is_updated_successfully">Lösenordet har uppdaterats framgångsrikt.</string>
+      
+  <string name="failed_to_update_password">Det gick inte att uppdatera lösenordet!</string>
+      
+  <string name="email_has_been_changed_successfully">E-post har ändrats framgångsrikt.</string>
+      
+  <string name="failed_to_change_email">Det gick inte att ändra e-post!</string>
+      
+  <string name="subscription_has_been_restored_successfully">Prenumerationen har återställts framgångsrikt.</string>
+      
+  <string name="failed_to_restore_the_subscription">Det gick inte att återställa prenumerationen!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">Premium-funktionen har låsts upp framgångsrikt.</string>
+      
+  <string name="incorrect_email_or_password">Felaktig e-postadress eller lösenord</string>
+      
+  <string name="failed_to_upload_profile">Det gick inte att ladda upp profilen till servern.</string>
+      
+  <string name="is_created">är skapad.</string>
+      
+  <string name="create_new">Skapa ny</string>
+      
+  <string name="is_saved">är sparad.</string>
+
+
+  <!--    Category-->
+  <string name="food_and_beverage">Mat &amp; Dryck</string>
+  <string name="clothing">Kläder</string>
+  <string name="shopping">Shopping</string>
+  <string name="bill_and_utils">Bill &amp; Verktyg</string>
+  <string name="transportation">Transport</string>
+  <string name="education">Utbildning</string>
+  <string name="entertainment">Underhållning</string>
+  <string name="housing">Bostad</string>
+  <string name="car_and_automotive">Bil/Fordon</string>
+  <string name="electronics">Elektronik</string>
+  <string name="wine">Vin</string>
+  <string name="health">Hälsa</string>
+  <string name="gift">Gåva</string>
+  <string name="office">Kontor</string>
+  <string name="furniture">Möbler</string>
+  <string name="social">Sociala</string>
+  <string name="fruit">Frukt</string>
+  <string name="vegetables">Grönsaker</string>
+  <string name="travel">Resor</string>
+  <string name="groceries">Matvaror</string>
+  <string name="beauty">skönhet</string>
+  <string name="tax">skatt</string>
+  <string name="rent">Hyr</string>
+  <string name="insurance">Försäkring</string>
+  <string name="telephone">Telefon</string>
+  <string name="pet">Husdjur</string>
+  <string name="sport">Sport</string>
+  <string name="snack_and_fastfood">Snack/snabbmat</string>
+  <string name="others">Andra</string>
+  <string name="salary">Lön</string>
+  <string name="freelancing">Frelancing</string>
+  <string name="bonus">Bonus</string>
+  <string name="awards">Utmärkelser</string>
+  <string name="rental">Uthyrning</string>
+  <string name="grants">Bidrag</string>
+  <string name="sale">Rea</string>
+  <string name="refunds">Återbetalningar</string>
+  <string name="coupons">Kuponger</string>
+  <string name="lottery">Lotteri</string>
+  <string name="dividends">Utdelning</string>
+  
+</resources>

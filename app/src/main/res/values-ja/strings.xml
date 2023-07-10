@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">トランス</string>
+      
+  <string name="calendar">カレンダー</string>
+      
+  <string name="statistics">統計</string>
+      
+  <string name="settings">設定</string>
+      
+  <string name="budget">バジェット</string>
+      
+  <string name="next">次</string>
+      
+  <string name="previous">前</string>
+      
+  <string name="welcome">…へようこそ</string>
+      
+  <string name="continue_email">メールで続行</string>
+      
+  <string name="continue_google">Google で続行</string>
+      
+  <string name="what_is_yr_email">あなたの電子メールアドレスを&#13;\n教えてください。</string>
+      
+  <string name="continue_text">続行</string>
+      
+  <string name="login_with_pw">パスワードでログイン</string>
+      
+  <string name="forget_pw">パスワードをお忘れですか?</string>
+      
+  <string name="login">ログイン</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">あなたは を使用して</string>
+      
+  <string name="to_login">ログインします。</string>
+      
+  <string name="create_yr_acc">アカウントを作成</string>
+      
+  <string name="re_enter_pw_hint">パスワード再入力</string>
+      
+  <string name="signup">サインアップ</string>
+      
+  <string name="forgot_pw">パスワードをお忘れですか?</string>
+      
+  <string name="reset_pw_desc">パスワードをリセットするには、アカウントのメールアドレスを入力してください。</string>
+      
+  <string name="reset_pw">パスワードを再設定</string>
+      
+  <string name="back_to_login">ログインに戻る</string>
+      
+  <string name="sign_out">サインアウト</string>
+      
+  <string name="setting_name">アカウント</string>
+      
+  <string name="profile">プロフィール</string>
+      
+  <string name="account_name">アカウント名</string>
+      
+  <string name="email">E メール</string>
+      
+  <string name="change_pw">パスワードを変更</string>
+      
+  <string name="delete_acc">アカウントを削除</string>
+      
+  <string name="logout">ログアウト</string>
+      
+  <string name="edit">編集</string>
+      
+  <string name="enter_new_pw">新しいパスワードを入力</string>
+      
+  <string name="re_enter_pw">パスワード再入力</string>
+      
+  <string name="confirm">確認</string>
+      
+  <string name="current_pw">現在のパスワード</string>
+      
+  <string name="pw_desc">パスワードは 8 文字以上にする必要があります。&#13;\n一般的なパスワードやパターンは避けてください。</string>
+      
+  <string name="done">実行済み</string>
+      
+  <string name="update_email">メールの更新</string>
+      
+  <string name="enter_email">メールアドレスを入力</string>
+      
+  <string name="re_enter_email">メールアドレスを再入力</string>
+      
+  <string name="password">パスワード</string>
+      
+  <string name="login_as"> してログイン</string>
+      
+  <string name="change_email">メールアドレスを変更</string>
+      
+  <string name="enter_yr_pw">パスワードを入力</string>
+      
+  <string name="personal">パーソナル</string>
+      
+  <string name="save">保存</string>
+      
+  <string name="add_transaction">取引を追加</string>
+      
+  <string name="income">所得</string>
+      
+  <string name="expense">費用</string>
+      
+  <string name="category">カテゴリ</string>
+      
+  <string name="other">その他</string>
+      
+  <string name="enter_balance">残高を入力</string>
+      
+  <string name="yr_remark">あなたの発言</string>
+      
+  <string name="today">今日</string>
+      
+  <string name="choose_category">カテゴリを選択</string>
+      
+  <string name="search_by_category">カテゴリ、備考などで検索</string>
+      
+  <string name="most_frequent">最も頻繁</string>
+      
+  <string name="all_categories">すべてのカテゴリ</string>
+      
+  <string name="due_date">期日</string>
+      
+  <string name="yesterday">昨日</string>
+      
+  <string name="tomorrow">明日</string>
+      
+  <string name="enter_yr_username">ユーザー名を入力</string>
+      
+  <string name="change">変更</string>
+      
+  <string name="update_password">パスワードの更新</string>
+      
+  <string name="search_category">カテゴリを検索</string>
+      
+  <string name="all_category">すべてのカテゴリ</string>
+      
+  <string name="recent">最近</string>
+      
+  <string name="all_wallet">すべてのウォレット</string>
+      
+  <string name="total">合計</string>
+      
+  <string name="monthly">毎月</string>
+      
+  <string name="all_trans">すべてのトランス</string>
+      
+  <string name="calculator_exceed_digit">最大 15 桁を超えています</string>
+      
+  <string name="my_wallet">マイウォレット</string>
+      
+  <string name="wallet">ウォレット</string>
+      
+  <string name="inactive_wallet">非アクティブのウォレット</string>
+      
+  <string name="account">アカウント</string>
+      
+  <string name="change_language">言語を変更</string>
+      
+  <string name="dark_theme">暗いテーマ</string>
+      
+  <string name="main_currency">主要通貨</string>
+      
+  <string name="search_currency">通貨を検索</string>
+      
+  <string name="review">レビュー</string>
+      
+  <string name="share">共有</string>
+      
+  <string name="privacy">プライバシーポリシー</string>
+      
+  <string name="about">概要</string>
+      
+  <string name="swap">スワップ</string>
+      
+  <string name="wallet_name">ウォレット名</string>
+      
+  <string name="initial_balance">初期残高</string>
+      
+  <string name="shared_with">…と共有</string>
+      
+  <string name="set_as_default">デフォルトとして設定</string>
+      
+  <string name="one_user">1 ユーザー</string>
+      
+  <string name="coming_soon">近日登場…</string>
+      
+  <string name="Coming_Soon">近日登場!</string>
+      
+  <string name="default_wallet">デフォルト</string>
+      
+  <string name="add_expense">経費を追加</string>
+      
+  <string name="adjust_balance">バランス調整</string>
+      
+  <string name="sharing">共有</string>
+      
+  <string name="delete">消去</string>
+      
+  <string name="wallet_and_others">ウォレット &amp; その他</string>
+      
+  <string name="group_and_people">グループ &amp; 人</string>
+      
+  <string name="business">ビジネス</string>
+      
+  <string name="tracking_your_expense">大切な人と一緒に経費を追跡</string>
+      
+  <string name="invite_user">ユーザーを招待</string>
+      
+  <string name="invite">招待</string>
+      
+  <string name="search_user">ユーザーを検索</string>
+      
+  <string name="wallet_color">ウォレットの色</string>
+      
+  <string name="delete_wallet">ウォレットの削除</string>
+      
+  <string name="your_transaction_data">このウォレットの取引データも削除されます。削除してもよろしいですか?</string>
+      
+  <string name="do_u_want_to_delete_trans">この取引を削除しますか?</string>
+      
+  <string name="delete_category">カテゴリを削除</string>
+      
+  <string name="do_u_want_to_delete_category">このカテゴリを削除しますか?</string>
+      
+  <string name="reset_category">カテゴリをリセット</string>
+      
+  <string name="reset">リセット</string>
+      
+  <string name="do_u_want_to_reset_category">カテゴリをリセットしますか?</string>
+      
+  <string name="confirm_logout">ログアウトの確認</string>
+      
+  <string name="are_u_sure_you_want_to_logout">ログアウトしてもよろしいですか？</string>
+      
+  <string name="delete_account">アカウントを削除</string>
+      
+  <string name="type_delete_to_cf">削除 (delete) と入力して確認</string>
+      
+  <string name="to_guarantee">セキュリティを確保するため、次のステップに進む前に再ログインしてください</string>
+      
+  <string name="balance">バランス</string>
+      
+  <string name="upgrade_to_unlock">アップグレードしてすべてのプレミアム機能のロックを&#13;\n解除</string>
+      
+  <string name="upgrade_now">今すぐアップグレード</string>
+      
+  <string name="month">月</string>
+      
+  <string name="date">日</string>
+      
+  <string name="add_new_category">新しいカテゴリを追加</string>
+      
+  <string name="new_category">新たなカテゴリ</string>
+      
+  <string name="edit_category">カテゴリを編集</string>
+      
+  <string name="choose_a_symbol">シンボルを選択</string>
+      
+  <string name="choose_a_wallet">ウォレットを選択</string>
+      
+  <string name="manage_wallet">ウォレットを管理</string>
+      
+  <string name="all_transaction">全取引</string>
+      
+  <string name="monthly_duration"> /月</string>
+      
+  <string name="yearly_duration"> /年</string>
+      
+  <string name="with_seven_days_of_free_trial">7 日間の無料トライアル付き</string>
+      
+  <string name="save_twenty_five_percentage">25% 割引</string>
+      
+  <string name="continue_sub">購読を続ける</string>
+      
+  <string name="remove_all_ads">すべての AD を削除</string>
+      
+  <string name="no_more_interruption">広告による中断はもうありません</string>
+      
+  <string name="accept_policy_description">購入を確認すると、Google アカウントに請求されます。現在の期間が終了する少なくとも 24 時間前に、Google アカウントで自動更新をオフにすることにより、いつでもサブスクリプションをキャンセルできます。それ以外の場合、サブスクリプションは自動的に更新されます。アプリを削除しても、サブスクリプションは自動的にキャンセルされません。Money Tracker Pro バージョンを購入することにより、当社のプライバシー ポリシーと利用規約に同意したことになります。</string>
+      
+  <string name="restore">戻す</string>
+      
+  <string name="search">検索</string>
+      
+  <string name="amount_category_or_remark">金額、カテゴリまたは備考..</string>
+      
+  <string name="transaction_is_added">トランザクションが追加されました</string>
+      
+  <string name="transaction_is_saved">トランザクションが保存されます</string>
+      
+  <string name="transaction_is_deleted">トランザクションが削除されました</string>
+      
+  <string name="transaction_is_not_saved">トランザクションは保存されません</string>
+      
+  <string name="wallet_is_not_created">ウォレットが作成されていません</string>
+      
+  <string name="transaction_is_not_added">トランザクションは追加されません</string>
+      
+  <string name="is_added">…が追加されます</string>
+      
+  <string name="wallet_is_added">ウォレットが追加されました</string>
+      
+  <string name="wallet_is_delete">ウォレットは削除されました</string>
+      
+  <string name="no_data_available">データなし</string>
+      
+  <string name="no_transaction">取引なし</string>
+      
+  <string name="tap_to_add">+ をタップして新しい取引を追加します。</string>
+      
+  <string name="week_start_at">週の開始日</string>
+      
+  <string name="week_start">週の開始</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">あなたのサポートを示す</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">このアプリを気に入っていただけましたら、評価していただけますか?あなたのフィードバックは私たちにとって非常に重要です。</string>
+      
+  <string name="rate_us">私たちを評価してください</string>
+      
+  <string name="don_t_like">気に入らない</string>
+      
+  <string name="add_widget">ウィジェットを追加</string>
+      
+  <string name="cancel">キャンセル</string>
+      
+  <string name="type_delete_to_confirm">「削除」と入力して確認</string>
+      
+  <string name="delete_transaction">取引の削除</string>
+      
+  <string name="do_you_want_to_delete_transaction">取引を削除しますか?</string>
+      
+  <string name="category_already_exist">このカテゴリは既に存在します。</string>
+      
+  <string name="is_updated">更新されます。</string>
+      
+  <string name="is_deleted">削除されます。</string>
+      
+  <string name="category_has_been_reset_successfully">カテゴリが正常にリセットされました!</string>
+      
+  <string name="logged_out_successfully">正常にログアウトしました</string>
+      
+  <string name="reset_link_has_been_sent">リセットリンクがメールに送信されました。</string>
+      
+  <string name="failed_to_send_reset_link">リセット リンクの送信に失敗しました。</string>
+      
+  <string name="invalid_email">無効なメールアドレスです!</string>
+      
+  <string name="invalid_password">無効なパスワードです!</string>
+      
+  <string name="invalid_inputs">入力が無効です!</string>
+      
+  <string name="something_went_wrong">エラーが発生しました。</string>
+      
+  <string name="password_is_not_matched">パスワードが一致しません!</string>
+      
+  <string name="invalid_password_length">パスワードは 8 文字以上である必要があります。</string>
+      
+  <string name="failed_to_fetch_transaction">トランザクションの取得に失敗しました!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">デフォルトのウォレットは削除できません!</string>
+      
+  <string name="invalid_trans_amount">取引金額が無効です。</string>
+      
+  <string name="main_currency_is_updated_successfully">主要通貨は正常に更新されました。</string>
+      
+  <string name="password_is_updated_successfully">パスワードが正常に更新されました。</string>
+      
+  <string name="failed_to_update_password">パスワードの更新に失敗しました!</string>
+      
+  <string name="email_has_been_changed_successfully">メールが正常に変更されました。</string>
+      
+  <string name="failed_to_change_email">メールを変更できませんでした。</string>
+      
+  <string name="subscription_has_been_restored_successfully">サブスクリプションは正常に復元されました。</string>
+      
+  <string name="failed_to_restore_the_subscription">サブスクリプションの復元に失敗しました!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">プレミアム機能が正常にロック解除されました。</string>
+      
+  <string name="incorrect_email_or_password">メールアドレスまたはパスワードが正しくありません</string>
+      
+  <string name="failed_to_upload_profile">プロファイルをサーバーにアップロードできませんでした。</string>
+      
+  <string name="is_created">....が作成されます。</string>
+      
+  <string name="create_new">新しく作成</string>
+      
+  <string name="is_saved">....が保存されます。</string>
+
+
+  <!--    Category-->
+  <string name="food_and_beverage">食品と飲料 飲み物</string>
+  <string name="clothing">衣類</string>
+  <string name="shopping">ショッピング</string>
+  <string name="bill_and_utils">ビルとビル ユーティリティ</string>
+  <string name="transportation">交通機関</string>
+  <string name="education">教育</string>
+  <string name="entertainment">エンターテイメント</string>
+  <string name="housing">ハウジング</string>
+  <string name="car_and_automotive">車 / 自動車</string>
+  <string name="electronics">エレクトロニクス</string>
+  <string name="wine">ワイン</string>
+  <string name="health">健康</string>
+  <string name="gift">ギフト</string>
+  <string name="office">オフィス</string>
+  <string name="furniture">家具</string>
+  <string name="social">ソーシャル</string>
+  <string name="fruit">フルーツ</string>
+  <string name="vegetables">野菜</string>
+  <string name="travel">旅行</string>
+  <string name="groceries">食料品</string>
+  <string name="beauty">美しさ</string>
+  <string name="tax">税金</string>
+  <string name="rent">家賃</string>
+  <string name="insurance">保険</string>
+  <string name="telephone">電話</string>
+  <string name="pet">ペット</string>
+  <string name="sport">スポーツ</string>
+  <string name="snack_and_fastfood">スナック / ファーストフード</string>
+  <string name="others">その他</string>
+  <string name="salary">給与</string>
+  <string name="freelancing">フリーランス</string>
+  <string name="bonus">ボーナス</string>
+  <string name="awards">賞</string>
+  <string name="rental">レンタル</string>
+  <string name="grants">助成金</string>
+  <string name="sale">セール</string>
+  <string name="refunds">払い戻し</string>
+  <string name="coupons">クーポン</string>
+  <string name="lottery">宝くじ</string>
+  <string name="dividends">配当</string>
+  
+</resources>

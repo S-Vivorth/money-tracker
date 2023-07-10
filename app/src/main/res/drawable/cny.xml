@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="82.1"
+    android:viewportHeight="82.1"
+    android:width="82.1dp"
+    android:height="82.1dp">
+    <group>
+        <clip-path
+            android:pathData="M82 41A41 41 0 0 1 0 41A41 41 0 0 1 82 41Z" />
+        <path
+            android:pathData="M0 0H123.1V82.1H0V0Z"
+            android:fillColor="#E23725" />
+        <path
+            android:pathData="M41 35.7h-7.3l-2.3 -7c0 0 -0.1 0 -0.1 0l-2.3 7h-7.3c0 0 0 0 0 0c0 0 0 0 0 0l5.9 4.3l-2.3 7c0 0 0 0 0 0s0 0 0.1 0l5.9 -4.3l5.9 4.3c0 0 0 0 0 0s0 0 0 0c0 0 0 0 0 0l-2.3 -7L41 35.7C41 35.8 41 35.8 41 35.7C41 35.7 41 35.7 41 35.7L41 35.7z"
+            android:fillColor="#FCDC2E" />
+        <path
+            android:pathData="M49 31.8C49 31.8 49 31.8 49 31.8L49 31.8C49 31.8 49 31.8 49 31.8l0.3 -2.4l2.4 -0.5c0 0 0 0 0 0s0 0 0 0l-2.2 -1l0.2 -2.4c0 0 0 0 0 0c0 0 0 0 -0.1 0l-1.6 1.8l-2.2 -1c0 0 0 0 0 0c0 0 0 0 0 0.1l1.2 2.1l-1.6 1.8c0 0 0 0 0 0.1c0 0 0 0 0 0l2.4 -0.5L49 31.8L49 31.8z"
+            android:fillColor="#FCDC2E" />
+        <path
+            android:pathData="M52 36C52 36 51.9 36 52 36C51.9 36 52 36 52 36l2.4 0.5l0.3 2.4c0 0 0 0 0 0l0 0c0 0 0 0 0 0l1.1 -2.1l2.4 0.4l0 0l0 0c0 0 0 0 0 0c0 0 0 0 0 0l-1.7 -1.7l1.1 -2.1c0 0 0 0 0 0c0 0 0 0 -0.1 0l-2.2 1.1l-1.7 -1.7c0 0 0 0 -0.1 0c0 0 0 0 0 0l0.3 2.4L52 36L52 36z"
+            android:fillColor="#FCDC2E" />
+        <path
+            android:pathData="M58.5 44.5C58.5 44.5 58.5 44.5 58.5 44.5l-2.5 0.1l-0.8 -2.3c0 0 0 0 0 0c0 0 0 0 0 0l-0.7 2.3l-2.4 0.1c0 0 0 0 0 0c0 0 0 0 0 0l2 1.3l-0.7 2.3c0 0 0 0 0 0h0c0 0 0 0 0 0l1.9 -1.5l2 1.3c0 0 0 0 0.1 0s0 0 0 0l-0.8 -2.3L58.5 44.5C58.5 44.6 58.5 44.5 58.5 44.5L58.5 44.5z"
+            android:fillColor="#FCDC2E" />
+        <path
+            android:pathData="M51.6 52.9L49.4 52l0.1 -2.4c0 0 0 0 0 0c0 0 0 0 0 0l-1.5 1.9l-2.3 -0.9c0 0 0 0 0 0c0 0 0 0 0 0.1l1.3 2l-1.5 1.9c0 0 0 0 0 0.1c0 0 0 0 0 0l2.3 -0.6l1.3 2c0 0 0 0 0 0h0c0 0 0 0 0 0l0.1 -2.4L51.6 52.9C51.6 52.9 51.7 52.9 51.6 52.9C51.7 52.9 51.7 52.9 51.6 52.9L51.6 52.9z"
+            android:fillColor="#FCDC2E" />
+    </group>
+</vector>

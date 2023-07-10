@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Larger_Drawable">
+        <item name="android:textSize">10sp</item>
+        <item name="android:scaleX">1.6</item>
+        <item name="android:scaleY">1.6</item>
+    </style>
+
+    <style name="ActiveText" parent="Theme.AppCompat.Light">
+        <item name="android:colorPrimary">@color/teal_700</item>
+    </style>
+
+    <style name="InActiveText" parent="Theme.AppCompat.Light">
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+
+    <style name="MyTransparentTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:statusBarColor">#80000000</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="title">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">?attr/titleColor</item>
+        <item name="android:textFontWeight" tools:targetApi="p">500</item>
+        <item name="fontFamily">@font/inter_500</item>
+        <item name="android:letterSpacing">0.025</item>
+    </style>
+
+    <style name="editText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <style name="titleOg">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">?attr/titleOgColor</item>
+        <item name="android:textFontWeight" tools:targetApi="p">500</item>
+        <item name="fontFamily">@font/inter_500</item>
+    </style>
+
+    <style name="secondaryTitle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?attr/titleColor</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+
+    <style name="primaryText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?attr/primaryText</item>
+    </style>
+
+    <style name="secondaryText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?attr/titleColor</item>
+    </style>
+
+    <style name="tertiaryText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?attr/titleColor</item>
+    </style>
+
+    <style name="quaternaryText">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">?attr/titleColor</item>
+    </style>
+
+    <style name="defaultWhiteText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?attr/defaultWhiteText</item>
+    </style>
+
+    <style name="largeText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">?attr/titleColor</item>
+    </style>
+
+    <style name="Button">
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.025</item>
+        <item name="android:fontFamily">@font/inter_900</item>
+        <item name="android:state_selected">true</item>
+    </style>
+
+    <style name="GreyButton">
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="backgroundTint">@color/grey_btn</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+
+
+    <style name="desc">
+        <item name="android:textColor">?attr/descTextColor</item>
+        <item name="android:textSize">14sp</item>
+
+    </style>
+
+    <style name="month" />
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/trans</item>
+        <item name="colorAccent">@color/disableColor</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="CustomAlertDialog" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/rounded_corner</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="RoundedCornersDialog" parent="@style/Theme.MaterialComponents.Dialog">
+        <item name="dialogCornerRadius">16dp</item>
+    </style>
+    <style name="MaterialAlertDialog_rounded" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="shapeAppearanceOverlay">@style/DialogCorners</item>
+    </style>
+
+    <style name="DialogCorners">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">28dp</item>
+    </style>
+    <style name="Widget.MoneyTracker.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+
+    <style name="Widget.MoneyTracker.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="CustomCheckbox" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_selector</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="CustomCheckboxPink" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_selector_pink</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+</resources>

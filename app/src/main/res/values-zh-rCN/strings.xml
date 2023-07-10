@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">反式</string>
+      
+  <string name="calendar">日历</string>
+      
+  <string name="statistics">统计数据</string>
+      
+  <string name="settings">设置</string>
+      
+  <string name="budget">预算</string>
+      
+  <string name="next">下一个</string>
+      
+  <string name="previous">以前的</string>
+      
+  <string name="welcome">欢迎来到</string>
+      
+  <string name="continue_email">继续电子邮件</string>
+      
+  <string name="continue_google">继续使用谷歌</string>
+      
+  <string name="what_is_yr_email">你的电子邮件地址是什么？</string>
+      
+  <string name="continue_text">继续</string>
+      
+  <string name="login_with_pw">使用您的密码登录</string>
+      
+  <string name="forget_pw">忘记密码？</string>
+      
+  <string name="login">登录</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">你正在使用</string>
+      
+  <string name="to_login">登录。</string>
+      
+  <string name="create_yr_acc">创建您的帐号</string>
+      
+  <string name="re_enter_pw_hint">重新输入密码</string>
+      
+  <string name="signup">报名</string>
+      
+  <string name="forgot_pw">忘记密码了吗？</string>
+      
+  <string name="reset_pw_desc">要重置密码，请输入您帐号的电子邮件地址。</string>
+      
+  <string name="reset_pw">重设密码</string>
+      
+  <string name="back_to_login">回到登入</string>
+      
+  <string name="sign_out">登出</string>
+      
+  <string name="setting_name">帐号</string>
+      
+  <string name="profile">轮廓</string>
+      
+  <string name="account_name">帐号名称</string>
+      
+  <string name="email">电子邮件</string>
+      
+  <string name="change_pw">更改密码</string>
+      
+  <string name="delete_acc">删除帐号</string>
+      
+  <string name="logout">登出</string>
+      
+  <string name="edit">编辑</string>
+      
+  <string name="enter_new_pw">输入新密码</string>
+      
+  <string name="re_enter_pw">重新输入密码</string>
+      
+  <string name="confirm">确认</string>
+      
+  <string name="current_pw">当前密码</string>
+      
+  <string name="pw_desc">您的密码必须至少包含 8 个字符。避免使用常见的密码或模式。</string>
+      
+  <string name="done">完毕</string>
+      
+  <string name="update_email">更新电子邮件</string>
+      
+  <string name="enter_email">输入电子邮件</string>
+      
+  <string name="re_enter_email">重新输入电子邮件</string>
+      
+  <string name="password">密码</string>
+      
+  <string name="login_as">登录为</string>
+      
+  <string name="change_email">更改电子邮件</string>
+      
+  <string name="enter_yr_pw">输入您的密码</string>
+      
+  <string name="personal">个人的</string>
+      
+  <string name="save">节省</string>
+      
+  <string name="add_transaction">添加交易</string>
+      
+  <string name="income">收入</string>
+      
+  <string name="expense">费用</string>
+      
+  <string name="category">类别</string>
+      
+  <string name="other">其他的</string>
+      
+  <string name="enter_balance">输入余额</string>
+      
+  <string name="yr_remark">你的话</string>
+      
+  <string name="today">今天</string>
+      
+  <string name="choose_category">选择类别</string>
+      
+  <string name="search_by_category">按类别、备注等搜索</string>
+      
+  <string name="most_frequent">最频繁</string>
+      
+  <string name="all_categories">所有类别</string>
+      
+  <string name="due_date">到期日</string>
+      
+  <string name="yesterday">昨天</string>
+      
+  <string name="tomorrow">明天</string>
+      
+  <string name="enter_yr_username">输入你的用户名</string>
+      
+  <string name="change">改变</string>
+      
+  <string name="update_password">更新密码</string>
+      
+  <string name="search_category">搜索类别</string>
+      
+  <string name="all_category">所有类别</string>
+      
+  <string name="recent">最近的</string>
+      
+  <string name="all_wallet">所有钱包</string>
+      
+  <string name="total">全部的</string>
+      
+  <string name="monthly">每月</string>
+      
+  <string name="all_trans">全反式</string>
+      
+  <string name="calculator_exceed_digit">您已超过 15 位数字的上限</string>
+      
+  <string name="my_wallet">我的钱包</string>
+      
+  <string name="wallet">钱包</string>
+      
+  <string name="inactive_wallet">闲置钱包</string>
+      
+  <string name="account">帐号</string>
+      
+  <string name="change_language">改变语言</string>
+      
+  <string name="dark_theme">深色主题</string>
+      
+  <string name="main_currency">主要货币</string>
+      
+  <string name="search_currency">搜索货币</string>
+      
+  <string name="review">审查</string>
+      
+  <string name="share">分享</string>
+      
+  <string name="privacy">隐私政策</string>
+      
+  <string name="about">关于</string>
+      
+  <string name="swap">交换</string>
+      
+  <string name="wallet_name">钱包名称</string>
+      
+  <string name="initial_balance">初始余额</string>
+      
+  <string name="shared_with">和…分享</string>
+      
+  <string name="set_as_default">设为默认</string>
+      
+  <string name="one_user">1 用户</string>
+      
+  <string name="coming_soon">即将推出…</string>
+      
+  <string name="Coming_Soon">即将推出！</string>
+      
+  <string name="default_wallet">默认</string>
+      
+  <string name="add_expense">添加费用</string>
+      
+  <string name="adjust_balance">调整平衡</string>
+      
+  <string name="sharing">分享</string>
+      
+  <string name="delete">删除</string>
+      
+  <string name="wallet_and_others">钱包及其他</string>
+      
+  <string name="group_and_people">团体与人</string>
+      
+  <string name="business">商业</string>
+      
+  <string name="tracking_your_expense">与您所爱的人一起追踪您的开支</string>
+      
+  <string name="invite_user">邀请用户</string>
+      
+  <string name="invite">邀请</string>
+      
+  <string name="search_user">搜索用户</string>
+      
+  <string name="wallet_color">钱包颜色</string>
+      
+  <string name="delete_wallet">删除钱包</string>
+      
+  <string name="your_transaction_data">您在此钱包中的交易数据也将被删除。你确定你要删除吗？</string>
+      
+  <string name="do_u_want_to_delete_trans">您要删除此交易吗？</string>
+      
+  <string name="delete_category">删除类别</string>
+      
+  <string name="do_u_want_to_delete_category">你想删除这个类别吗？</string>
+      
+  <string name="reset_category">重置类别</string>
+      
+  <string name="reset">重置</string>
+      
+  <string name="do_u_want_to_reset_category">您要重置类别吗？</string>
+      
+  <string name="confirm_logout">确认登出</string>
+      
+  <string name="are_u_sure_you_want_to_logout">您确定要退出吗？</string>
+      
+  <string name="delete_account">删除帐号</string>
+      
+  <string name="type_delete_to_cf">输入删除以确认</string>
+      
+  <string name="to_guarantee">为保证安全，请重新登录后再进行下一步</string>
+      
+  <string name="balance">平衡</string>
+      
+  <string name="upgrade_to_unlock">升级以解锁所有高级功能</string>
+      
+  <string name="upgrade_now">现在升级</string>
+      
+  <string name="month">月</string>
+      
+  <string name="date">日期</string>
+      
+  <string name="add_new_category">添加新类别</string>
+      
+  <string name="new_category">新类别</string>
+      
+  <string name="edit_category">编辑类别</string>
+      
+  <string name="choose_a_symbol">选择一个符号</string>
+      
+  <string name="choose_a_wallet">选择钱包</string>
+      
+  <string name="manage_wallet">管理钱包</string>
+      
+  <string name="all_transaction">所有交易</string>
+      
+  <string name="monthly_duration"> /月</string>
+      
+  <string name="yearly_duration"> /年</string>
+      
+  <string name="with_seven_days_of_free_trial">7 天免费试用</string>
+      
+  <string name="save_twenty_five_percentage">节省 25%</string>
+      
+  <string name="continue_sub">继续订阅</string>
+      
+  <string name="remove_all_ads">删除所有广告</string>
+      
+  <string name="no_more_interruption">不再被广告打扰</string>
+      
+  <string name="accept_policy_description">当您确认购买时，您的 Google 帐号将被扣款。您可以随时取消订阅，方法是在当前订阅期结束前至少 24 小时关闭您的 Google 帐号中的自动续订。否则，您的订阅会自动续订。删除应用程序不会自动取消订阅。购买 Money Tracker Pro 版本即表示您接受我们的隐私政策和使用条款。</string>
+      
+  <string name="restore">恢复</string>
+      
+  <string name="search">搜索</string>
+      
+  <string name="amount_category_or_remark">金额、类别或备注..</string>
+      
+  <string name="transaction_is_added">添加交易</string>
+      
+  <string name="transaction_is_saved">交易已保存</string>
+      
+  <string name="transaction_is_deleted">交易被删除</string>
+      
+  <string name="transaction_is_not_saved">交易未保存</string>
+      
+  <string name="wallet_is_not_created">钱包未创建</string>
+      
+  <string name="transaction_is_not_added">未添加交易</string>
+      
+  <string name="is_added">被添加</string>
+      
+  <string name="wallet_is_added">钱包已添加</string>
+      
+  <string name="wallet_is_delete">钱包已删除</string>
+      
+  <string name="no_data_available">无可用数据</string>
+      
+  <string name="no_transaction">无交易</string>
+      
+  <string name="tap_to_add">点击 + 添加新交易。</string>
+      
+  <string name="week_start_at">周开始于</string>
+      
+  <string name="week_start">周开始</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">表示支持</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">如果您喜欢使用以下应用程序，可以花点时间给它打分吗？您的反馈对我们非常重要。</string>
+      
+  <string name="rate_us">评价我们</string>
+      
+  <string name="don_t_like">不喜欢</string>
+      
+  <string name="add_widget">添加小部件</string>
+      
+  <string name="cancel">取消</string>
+      
+  <string name="type_delete_to_confirm">输入“删除”以确认</string>
+      
+  <string name="delete_transaction">删除交易</string>
+      
+  <string name="do_you_want_to_delete_transaction">您要删除交易吗？</string>
+      
+  <string name="category_already_exist">此类别已存在！</string>
+      
+  <string name="is_updated">已更新。</string>
+      
+  <string name="is_deleted">被删除。</string>
+      
+  <string name="category_has_been_reset_successfully">类别已成功重置！</string>
+      
+  <string name="logged_out_successfully">您已成功登出</string>
+      
+  <string name="reset_link_has_been_sent">重置链接已发送至您的邮箱。</string>
+      
+  <string name="failed_to_send_reset_link">无法发送重置链接。</string>
+      
+  <string name="invalid_email">无效的邮件地址！</string>
+      
+  <string name="invalid_password">无效的密码！</string>
+      
+  <string name="invalid_inputs">输入无效！</string>
+      
+  <string name="something_went_wrong">出了些问题！</string>
+      
+  <string name="password_is_not_matched">密码不匹配！</string>
+      
+  <string name="invalid_password_length">密码必须等于或大于 8 个字符。</string>
+      
+  <string name="failed_to_fetch_transaction">无法获取交易！</string>
+      
+  <string name="default_wallet_cannot_be_deleted">默认钱包无法删除！</string>
+      
+  <string name="invalid_trans_amount">交易金额无效！</string>
+      
+  <string name="main_currency_is_updated_successfully">主要货币已成功更新。</string>
+      
+  <string name="password_is_updated_successfully">密码更新成功。</string>
+      
+  <string name="failed_to_update_password">密码更新失败！</string>
+      
+  <string name="email_has_been_changed_successfully">邮箱修改成功。</string>
+      
+  <string name="failed_to_change_email">更改邮箱失败！</string>
+      
+  <string name="subscription_has_been_restored_successfully">订阅已成功恢复。</string>
+      
+  <string name="failed_to_restore_the_subscription">恢复订阅失败！</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">高级功能已成功解锁。</string>
+      
+  <string name="incorrect_email_or_password">错误的邮箱帐号或密码</string>
+      
+  <string name="failed_to_upload_profile">无法将配置文件上传到服务器。</string>
+      
+  <string name="is_created">被建造。</string>
+      
+  <string name="create_new">创建新的</string>
+      
+  <string name="is_saved">被保存。</string>
+
+  <!--    Category-->
+  <string name="food_and_beverage">食品和饮料 饮料</string>
+  <string name="clothing">服装</string>
+  <string name="shopping">购物</string>
+  <string name="bill_and_utils">比尔和 实用程序</string>
+  <string name="transportation">交通</string>
+  <string name="education">教育</string>
+  <string name="entertainment">娱乐</string>
+  <string name="housing">住房</string>
+  <string name="car_and_automotive">汽车/汽车</string>
+  <string name="electronics">电子产品</string>
+  <string name="wine">酒</string>
+  <string name="health">健康</string>
+  <string name="gift">礼物</string>
+  <string name="office">办公室</string>
+  <string name="furniture">家具</string>
+  <string name="social">社交</string>
+  <string name="fruit">水果</string>
+  <string name="vegetables">蔬菜</string>
+  <string name="travel">旅行</string>
+  <string name="groceries">杂货</string>
+  <string name="beauty">美丽</string>
+  <string name="tax">税金</string>
+  <string name="rent">租金</string>
+  <string name="insurance">保险</string>
+  <string name="telephone">电话</string>
+  <string name="pet">宠物</string>
+  <string name="sport">运动</string>
+  <string name="snack_and_fastfood">零食/快餐</string>
+  <string name="others">其他</string>
+  <string name="salary">工资</string>
+  <string name="freelancing">自由职业</string>
+  <string name="bonus">奖金</string>
+  <string name="awards">奖项</string>
+  <string name="rental">出租</string>
+  <string name="grants">补助金</string>
+  <string name="sale">促销</string>
+  <string name="refunds">退款</string>
+  <string name="coupons">优惠券</string>
+  <string name="lottery">彩票</string>
+  <string name="dividends">股息</string>
+  
+</resources>

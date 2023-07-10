@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.account.UpdateEmail"
+    android:background="?attr/quaternaryBgColor"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:id="@+id/toolbar"
+            >
+
+            <include layout="@layout/back_button_layout"
+                android:id="@+id/backBtnLayout"
+                />
+
+            <TextView
+                style="@style/secondaryTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/inter_500"
+                app:fontFamily="@font/inter_500"
+
+                android:layout_centerInParent="true"
+                android:text="@string/change_email" />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar"
+            android:orientation="vertical"
+            android:layout_marginTop="25dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:paddingStart="42dp"
+                    android:paddingEnd="50dp"
+                    android:hint="@string/enter_email"
+                    android:id="@+id/newEmail"
+                    android:background="@drawable/rounded_edittext"
+                    tools:ignore="RtlSymmetry"
+                    android:autofillHints=""
+                    android:inputType="textEmailAddress"
+                    android:textColorHint="?attr/editTextHintTextColor"
+                    />
+                <ImageView
+                    android:layout_marginStart="11dp"
+                    android:layout_centerVertical="true"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/email"
+                    android:id="@+id/emailIcon"
+                    app:tint="?attr/editTextHintTextColor"
+                    />
+                <RelativeLayout
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="12dp"
+                    android:id="@+id/clearEmailBtn"
+                    >
+
+                    <ImageView
+                        android:id="@+id/crossIcon"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/cross"
+                        app:tint="?attr/editTextHintTextColor" />
+                </RelativeLayout>
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:paddingStart="42dp"
+                    android:paddingEnd="50dp"
+                    android:hint="@string/re_enter_email"
+                    android:id="@+id/reEnterEmail"
+                    android:background="@drawable/rounded_edittext"
+                    tools:ignore="RtlSymmetry"
+                    android:autofillHints=""
+                    android:inputType="textEmailAddress"
+                    android:textColorHint="?attr/editTextHintTextColor"
+                    />
+                <ImageView
+                    android:layout_marginStart="11dp"
+                    android:layout_centerVertical="true"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/email"
+                    android:id="@+id/reEnterEmailICon"
+                    app:tint="?attr/editTextHintTextColor"
+                    />
+                <RelativeLayout
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="12dp"
+                    android:id="@+id/clearReEnterEmailBtn"
+                    >
+
+                    <ImageView
+                        android:id="@+id/reEnterEmailCrossIcon"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/cross"
+                        app:tint="?attr/editTextHintTextColor" />
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:paddingStart="42dp"
+                    android:paddingEnd="50dp"
+                    android:hint="@string/enter_yr_pw"
+                    android:id="@+id/password"
+                    android:background="@drawable/rounded_edittext"
+                    tools:ignore="RtlSymmetry"
+                    android:autofillHints=""
+                    android:inputType="textPassword"
+                    android:textColorHint="?attr/editTextHintTextColor"
+                    />
+                <ImageView
+                    android:layout_marginStart="11dp"
+                    android:layout_centerVertical="true"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/lock"
+                    android:id="@+id/personIcon"
+                    app:tint="?attr/editTextHintTextColor"
+                    />
+                <RelativeLayout
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="12dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/visibilityIcon"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/visible"
+                        app:tint="?attr/editTextHintTextColor" />
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                >
+
+                <TextView
+                    android:id="@+id/text_user"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/you_r_using"
+                    style="@style/primaryText"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    />
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/emailText"
+                    style="@style/primaryText"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toEndOf="@+id/text_user"
+                    app:layout_constraintTop_toTopOf="@+id/text_user"
+                    app:layout_constraintBottom_toBottomOf="@+id/text_user"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/to_login"
+                    style="@style/primaryText"
+                    app:layout_constraintTop_toBottomOf="@+id/text_user"
+                    app:layout_constraintStart_toStartOf="@+id/text_user"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    />
+            </androidx.constraintlayout.widget.ConstraintLayout>            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:layout_marginTop="40dp"
+                android:text="@string/change"
+                android:textAllCaps="false"
+                android:textColor="@color/darkSecondaryBgColor"
+                android:textSize="16sp"
+                android:id="@+id/doneBtn"
+                android:background="@drawable/rounded_btn_states"
+                android:fontFamily="@font/inter_500"
+                app:fontFamily="@font/inter_500"
+
+                android:stateListAnimator="@null"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="11dp"
+                android:layout_marginBottom="22dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:paddingLeft="13dp"
+                android:paddingTop="13dp"
+                android:paddingRight="13dp"
+                android:paddingBottom="13dp"
+                android:text="@string/forget_pw"
+                style="@style/primaryText"
+                tools:ignore="TouchTargetSizeCheck"
+                android:id="@+id/forgetPwBtn"
+                android:fontFamily="@font/inter_500"
+                app:fontFamily="@font/inter_500"
+                android:letterSpacing="0.025"
+                android:foreground="?attr/selectableItemBackground"
+                />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+</RelativeLayout>

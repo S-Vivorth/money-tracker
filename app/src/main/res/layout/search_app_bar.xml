@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="?attr/quaternaryBgColor">
+
+    <ImageView
+        android:id="@+id/backBtnLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="8dp"
+        android:padding="8dp"
+        android:src="@drawable/arrow_back"
+        app:tint="?attr/primaryText"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/inter_500"
+        android:text="@string/search"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:letterSpacing="0.02"
+        android:textStyle="normal"
+        android:textColor="?attr/primaryText"
+        android:layout_marginStart="16dp"
+        android:layout_alignBottom="@id/backBtnLayout"
+        android:layout_alignTop="@id/backBtnLayout"
+        android:layout_toEndOf="@+id/backBtnLayout"/>
+</RelativeLayout>

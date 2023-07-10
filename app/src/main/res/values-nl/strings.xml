@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+      
+  <!-- Bottom Menu -->
+      
+  <string name="trans">Transfers</string>
+      
+  <string name="calendar">Kalender</string>
+      
+  <string name="statistics">Statistieken</string>
+      
+  <string name="settings">Instellingen</string>
+      
+  <string name="budget">Begroting</string>
+      
+  <string name="next">Volgende</string>
+      
+  <string name="previous">Vorig</string>
+      
+  <string name="welcome">Welkom bij</string>
+      
+  <string name="continue_email">Ga verder met E-mail</string>
+      
+  <string name="continue_google">Ga verder met Google</string>
+      
+  <string name="what_is_yr_email">Wat is uw email adres?</string>
+      
+  <string name="continue_text">Doorgaan</string>
+      
+  <string name="login_with_pw">Log in met uw wachtwoord</string>
+      
+  <string name="forget_pw">Wachtwoord vergeten?</string>
+      
+  <string name="login">Log in</string>
+      
+  <!-- Maybe need to update to use variable for name (%s) -->
+      
+  <string name="you_r_using">U gebruikt</string>
+      
+  <string name="to_login">Inloggen.</string>
+      
+  <string name="create_yr_acc">Account aanmaken</string>
+      
+  <string name="re_enter_pw_hint">Wachtwoord opnieuw invoeren</string>
+      
+  <string name="signup">Aanmelden</string>
+      
+  <string name="forgot_pw">Uw wachtwoord vergeten?</string>
+      
+  <string name="reset_pw_desc">Voer het e-mailadres van uw account in om uw wachtwoord opnieuw in te stellen.</string>
+      
+  <string name="reset_pw">Wachtwoord opnieuw instellen</string>
+      
+  <string name="back_to_login">Terug naar Inloggen</string>
+      
+  <string name="sign_out">Afmelden</string>
+      
+  <string name="setting_name">Account</string>
+      
+  <string name="profile">Profiel</string>
+      
+  <string name="account_name">ACCOUNTNAAM</string>
+      
+  <string name="email">E-MAIL</string>
+      
+  <string name="change_pw">Wachtwoord veranderen</string>
+      
+  <string name="delete_acc">Account verwijderen</string>
+      
+  <string name="logout">Uitloggen</string>
+      
+  <string name="edit">Bewerken</string>
+      
+  <string name="enter_new_pw">Nieuw wachtwoord invoeren</string>
+      
+  <string name="re_enter_pw">Wachtwoord opnieuw invoeren</string>
+      
+  <string name="confirm">Bevestigen</string>
+      
+  <string name="current_pw">Huidig wachtwoord</string>
+      
+  <string name="pw_desc">Uw wachtwoord moet minimaal 8 tekens lang zijn.\nVermijd een algemeen wachtwoord of patroon.</string>
+      
+  <string name="done">Klaar</string>
+      
+  <string name="update_email">E-mail bijwerken</string>
+      
+  <string name="enter_email">Email invoeren</string>
+      
+  <string name="re_enter_email">Voer het e-mailadres opnieuw in</string>
+      
+  <string name="password">Wachtwoord</string>
+      
+  <string name="login_as">Aangemeld als</string>
+      
+  <string name="change_email">E-mail wijzigen</string>
+      
+  <string name="enter_yr_pw">Uw wachtwoord invoeren</string>
+      
+  <string name="personal">Persoonlijk</string>
+      
+  <string name="save">Opslaan</string>
+      
+  <string name="add_transaction">Transactie toevoegen</string>
+      
+  <string name="income">Inkomen</string>
+      
+  <string name="expense">Kosten</string>
+      
+  <string name="category">Categorie</string>
+      
+  <string name="other">Anderen</string>
+      
+  <string name="enter_balance">Saldo invoeren</string>
+      
+  <string name="yr_remark">Uw opmerking</string>
+      
+  <string name="today">Vandaag</string>
+      
+  <string name="choose_category">Kies een categorie</string>
+      
+  <string name="search_by_category">Zoek op categorie, opmerking, etc</string>
+      
+  <string name="most_frequent">Meest voorkomend</string>
+      
+  <string name="all_categories">Alle categorieën</string>
+      
+  <string name="due_date">Deadline</string>
+      
+  <string name="yesterday">Gisteren</string>
+      
+  <string name="tomorrow">Morgen</string>
+      
+  <string name="enter_yr_username">Typ uw gebruikersnaam</string>
+      
+  <string name="change">Wijziging</string>
+      
+  <string name="update_password">Wachtwoord vernieuwen</string>
+      
+  <string name="search_category">Zoek een categorie</string>
+      
+  <string name="all_category">Alle categorieën</string>
+      
+  <string name="recent">Recent</string>
+      
+  <string name="all_wallet">Gehele portemonnee</string>
+      
+  <string name="total">Totaal</string>
+      
+  <string name="monthly">Maandelijks</string>
+      
+  <string name="all_trans">Alle Trans</string>
+      
+  <string name="calculator_exceed_digit">U heeft het maximum van 15 cijfers overschreden</string>
+      
+  <string name="my_wallet">Mijn portemonnee</string>
+      
+  <string name="wallet">Portemonnee</string>
+      
+  <string name="inactive_wallet">Inactieve portemonnee</string>
+      
+  <string name="account">Account</string>
+      
+  <string name="change_language">Taal wijzigen</string>
+      
+  <string name="dark_theme">Donker thema</string>
+      
+  <string name="main_currency">Hoofdvaluta</string>
+      
+  <string name="search_currency">Valuta zoeken</string>
+      
+  <string name="review">Beoordeling</string>
+      
+  <string name="share">Delen</string>
+      
+  <string name="privacy">Privacybeleid</string>
+      
+  <string name="about">Over</string>
+      
+  <string name="swap">Ruilen</string>
+      
+  <string name="wallet_name">Portemonnee naam</string>
+      
+  <string name="initial_balance">Beginsaldo</string>
+      
+  <string name="shared_with">Gedeeld met</string>
+      
+  <string name="set_as_default">Instellen als standaard</string>
+      
+  <string name="one_user">1 gebruiker</string>
+      
+  <string name="coming_soon">Binnenkort beschikbaar…</string>
+      
+  <string name="Coming_Soon">Binnenkort beschikbaar!</string>
+      
+  <string name="default_wallet">Standaard</string>
+      
+  <string name="add_expense">Kosten toevoegen</string>
+      
+  <string name="adjust_balance">Balans aanpassen</string>
+      
+  <string name="sharing">Bezig met delen</string>
+      
+  <string name="delete">Verwijderen</string>
+      
+  <string name="wallet_and_others">Portemonnee &amp; anderen</string>
+      
+  <string name="group_and_people">Groep &amp; Mensen</string>
+      
+  <string name="business">Bedrijf</string>
+      
+  <string name="tracking_your_expense">Uw uitgaven bijhouden samen met uw naasten&#13;\n</string>
+      
+  <string name="invite_user">Gebruiker uitnodigen</string>
+      
+  <string name="invite">Uitnodiging</string>
+      
+  <string name="search_user">Gebruiker zoeken</string>
+      
+  <string name="wallet_color">Portemonnee kleur</string>
+      
+  <string name="delete_wallet">Portemonnee verwijderen</string>
+      
+  <string name="your_transaction_data">Uw transactiegegevens in deze portemonnee worden ook verwijderd. Weet u zeker dat u het wilt verwijderen?</string>
+      
+  <string name="do_u_want_to_delete_trans">Wilt u deze transactie verwijderen?</string>
+      
+  <string name="delete_category">Categorie verwijderen</string>
+      
+  <string name="do_u_want_to_delete_category">Wilt u deze categorie verwijderen?</string>
+      
+  <string name="reset_category">Categorie resetten</string>
+      
+  <string name="reset">Opnieuw instellen</string>
+      
+  <string name="do_u_want_to_reset_category">Wilt u de categorie resetten?</string>
+      
+  <string name="confirm_logout">Bevestig Uitloggen</string>
+      
+  <string name="are_u_sure_you_want_to_logout">Weet u zeker dat u wilt uitloggen?</string>
+      
+  <string name="delete_account">Account verwijderen</string>
+      
+  <string name="type_delete_to_cf">Typ verwijderen om te bevestigen</string>
+      
+  <string name="to_guarantee">Om de veiligheid te garanderen, dient u opnieuw in te loggen voordat u doorgaat naar de volgende stap</string>
+      
+  <string name="balance">Saldo</string>
+      
+  <string name="upgrade_to_unlock">Upgrade om alle Premium-functies te ontgrendelen</string>
+      
+  <string name="upgrade_now">Nu opwaarderen</string>
+      
+  <string name="month">Maand</string>
+      
+  <string name="date">Datum</string>
+      
+  <string name="add_new_category">Voeg een nieuwe categorie toe</string>
+      
+  <string name="new_category">Nieuwe categorie</string>
+      
+  <string name="edit_category">Categorie bewerken</string>
+      
+  <string name="choose_a_symbol">Kies een symbool</string>
+      
+  <string name="choose_a_wallet">Kies een portemonnee</string>
+      
+  <string name="manage_wallet">Portefeuille beheren</string>
+      
+  <string name="all_transaction">Alle transacties</string>
+      
+  <string name="monthly_duration"> /Maand</string>
+      
+  <string name="yearly_duration"> /Jaar</string>
+      
+  <string name="with_seven_days_of_free_trial">Met 7 dagen gratis proefperiode</string>
+      
+  <string name="save_twenty_five_percentage">Bespaar 25%</string>
+      
+  <string name="continue_sub">Abonnement voortzetten</string>
+      
+  <string name="remove_all_ads">Alle advertenties verwijderen</string>
+      
+  <string name="no_more_interruption">Geen onderbreking meer door reclame</string>
+      
+  <string name="accept_policy_description">Uw Google-account wordt belast wanneer u uw aankoop bevestigt. U kunt uw abonnement op elk moment opzeggen door automatisch verlengen uit te schakelen in uw Google-account, ten minste 24 uur voor het einde van de huidige periode. Anders wordt uw abonnement automatisch verlengd. Als u de app verwijdert, wordt het abonnement niet automatisch opgezegd. Door Money Tracker Pro-versie te kopen, accepteert u ons privacybeleid en onze gebruiksvoorwaarden.</string>
+      
+  <string name="restore">Herstellen</string>
+      
+  <string name="search">Zoekopdracht</string>
+      
+  <string name="amount_category_or_remark">Bedrag, Categorie of Opmerking..</string>
+      
+  <string name="transaction_is_added">Transactie is toegevoegd</string>
+      
+  <string name="transaction_is_saved">Transactie is opgeslagen</string>
+      
+  <string name="transaction_is_deleted">Transactie wordt verwijderd</string>
+      
+  <string name="transaction_is_not_saved">Transactie wordt niet opgeslagen</string>
+      
+  <string name="wallet_is_not_created">Portemonnee is niet gemaakt</string>
+      
+  <string name="transaction_is_not_added">Transactie wordt niet toegevoegd</string>
+      
+  <string name="is_added">wordt toegevoegd</string>
+      
+  <string name="wallet_is_added">Portemonnee wordt toegevoegd</string>
+      
+  <string name="wallet_is_delete">Portemonnee wordt verwijderd</string>
+      
+  <string name="no_data_available">Geen gegevens beschikbaar</string>
+      
+  <string name="no_transaction">Geen transactie</string>
+      
+  <string name="tap_to_add">Tik op + om een nieuwe transactie toe te voegen.</string>
+      
+  <string name="week_start_at">Week Begin om</string>
+      
+  <string name="week_start">Weekstart</string>
+      
+  <!-- Rate dialog -->
+      
+  <string name="show_your_support">Toon uw steun</string>
+      
+  <string name="if_you_enjoy_using_this_app_could_you_take_a_moment_to_rate_it_your_feedback_is_very_important_for_us">Als u deze app graag gebruikt, kunt u dan even de tijd nemen om deze te beoordelen? Uw feedback is erg belangrijk voor ons.</string>
+      
+  <string name="rate_us">Beoordeel ons</string>
+      
+  <string name="don_t_like">Houd niet van</string>
+      
+  <string name="add_widget">Widget toevoegen</string>
+      
+  <string name="cancel">Annuleren</string>
+      
+  <string name="type_delete_to_confirm">Typ \"verwijderen\" om te bevestigen</string>
+      
+  <string name="delete_transaction">Transactie verwijderen</string>
+      
+  <string name="do_you_want_to_delete_transaction">Wilt u een transactie verwijderen?</string>
+      
+  <string name="category_already_exist">Deze categorie bestaat al!</string>
+      
+  <string name="is_updated">wordt bijgewerkt.</string>
+      
+  <string name="is_deleted">wordt verwijderd.</string>
+      
+  <string name="category_has_been_reset_successfully">Categorie is succesvol gereset!</string>
+      
+  <string name="logged_out_successfully">U bent succesvol uitgelogd</string>
+      
+  <string name="reset_link_has_been_sent">De reset-link is naar uw e-mailadres verzonden.</string>
+      
+  <string name="failed_to_send_reset_link">Kan resetlink niet verzenden.</string>
+      
+  <string name="invalid_email">Ongeldig e-mailadres!</string>
+      
+  <string name="invalid_password">Ongeldig wachtwoord!</string>
+      
+  <string name="invalid_inputs">Ongeldige invoer!</string>
+      
+  <string name="something_went_wrong">Er is iets fout gegaan!</string>
+      
+  <string name="password_is_not_matched">Wachtwoord komt niet overeen!</string>
+      
+  <string name="invalid_password_length">Wachtwoord moet gelijk zijn aan of groter zijn dan 8 tekens.</string>
+      
+  <string name="failed_to_fetch_transaction">Kan transactie niet ophalen!</string>
+      
+  <string name="default_wallet_cannot_be_deleted">Standaardportemonnee kan niet worden verwijderd!</string>
+      
+  <string name="invalid_trans_amount">Ongeldig transactiebedrag!</string>
+      
+  <string name="main_currency_is_updated_successfully">Hoofdvaluta is succesvol bijgewerkt.</string>
+      
+  <string name="password_is_updated_successfully">Wachtwoord is succesvol bijgewerkt.</string>
+      
+  <string name="failed_to_update_password">Kan het wachtwoord niet bijwerken!</string>
+      
+  <string name="email_has_been_changed_successfully">E-mail is succesvol gewijzigd.</string>
+      
+  <string name="failed_to_change_email">Kan e-mailadres niet wijzigen!</string>
+      
+  <string name="subscription_has_been_restored_successfully">Abonnement is succesvol hersteld.</string>
+      
+  <string name="failed_to_restore_the_subscription">Kan het abonnement niet herstellen!</string>
+      
+  <string name="premium_feature_has_been_unlocked_successfully">Premium-functie is met succes ontgrendeld.</string>
+      
+  <string name="incorrect_email_or_password">incorrecte email of wachtwoord</string>
+      
+  <string name="failed_to_upload_profile">Het uploaden van het profiel naar de server is mislukt.</string>
+      
+  <string name="is_created">wordt gecreëerd.</string>
+      
+  <string name="create_new">Nieuw aanmaken</string>
+      
+  <string name="is_saved">wordt opgeslagen.</string>
+
+
+  <!--    Category-->
+  <string name="food_and_beverage">Eten &amp; Drank</string>
+  <string name="clothing">Kleding</string>
+  <string name="shopping">Winkelen</string>
+  <string name="bill_and_utils">Bill &amp; Hulpprogramma\'s</string>
+  <string name="transportation">Vervoer</string>
+  <string name="education">Onderwijs</string>
+  <string name="entertainment">Entertainment</string>
+  <string name="housing">Huisvesting</string>
+  <string name="car_and_automotive">Auto / Automotive</string>
+  <string name="electronics">Elektronica</string>
+  <string name="wine">Wijn</string>
+  <string name="health">Gezondheid</string>
+  <string name="gift">Cadeau</string>
+  <string name="office">Kantoor</string>
+  <string name="furniture">Meubels</string>
+  <string name="social">Sociaal</string>
+  <string name="fruit">Fruit</string>
+  <string name="vegetables">Groenten</string>
+  <string name="travel">Reizen</string>
+  <string name="groceries">Boodschappen</string>
+  <string name="beauty">schoonheid</string>
+  <string name="tax">Belasting</string>
+  <string name="rent">Huren</string>
+  <string name="insurance">Verzekering</string>
+  <string name="telephone">Telefoon</string>
+  <string name="pet">Huisdier</string>
+  <string name="sport">Sport</string>
+  <string name="snack_and_fastfood">Snack / Fastfood</string>
+  <string name="others">Anderen</string>
+  <string name="salary">Salaris</string>
+  <string name="freelancing">Freelancing</string>
+  <string name="bonus">Bonus</string>
+  <string name="awards">Awards</string>
+  <string name="rental">Verhuur</string>
+  <string name="grants">Subsidies</string>
+  <string name="sale">Uitverkoop</string>
+  <string name="refunds">Terugbetalingen</string>
+  <string name="coupons">Waardebonnen</string>
+  <string name="lottery">Loterij</string>
+  <string name="dividends">Dividenden</string>
+  
+</resources>
